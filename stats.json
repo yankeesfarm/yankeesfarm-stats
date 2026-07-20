@@ -1,0 +1,14 @@
+{
+  "org": "NYY",
+  "season": 2026,
+  "updated_at": null,
+  "teams": {
+    "DSL Yankees": {"batting": [], "pitching": []},
+    "DSL Bombers": {"batting": [], "pitching": []},
+    "FCL Yankees": {"batting": [], "pitching": []},
+    "Tampa Tarpons": {"batting": [], "pitching": []},
+    "Hudson Valley Renegades": {"batting": [], "pitching": []},
+    "Somerset Patriots": {"batting": [], "pitching": []},
+    "SWB RailRiders": {"batting": [], "pitching": []}
+  }
+}
