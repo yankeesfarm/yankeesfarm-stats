@@ -1,9 +1,9 @@
 """
-YankeesFarm Multi-Affiliate Stats Scraper
--------------------------------------------
-Pulls current-season batting & pitching stats for these Yankees
-affiliates from Baseball-Reference's organization register page, and
-writes the result to data/stats.json:
+YankeesFarm Multi-Affiliate INDIVIDUAL PLAYER Stats Scraper
+-------------------------------------------------------------
+Pulls current-season batting & pitching stats for every individual
+player on these Yankees affiliates, and writes the result to
+data/stats.json:
   - DSL Yankees
   - DSL Bombers
   - FCL Yankees
@@ -11,13 +11,29 @@ writes the result to data/stats.json:
   - Hudson Valley Renegades
   - Somerset Patriots
   - SWB RailRiders
+
+HOW IT WORKS (two-step, to get PLAYER rows, not team totals)
+--------------------------------------------------------------
+1. Fetch Baseball-Reference's org-wide affiliate register page. This
+   page lists a summary row per team, and — importantly — each team
+   name is a link to that team's own dedicated stats page.
+2. Follow each of those 7 links and scrape the individual player
+   batting/pitching tables from each team's own page. This is where
+   real per-player stat lines live (the org-wide page only has team
+   totals).
+
+Doing it this way (rather than hardcoding each team's URL) means the
+script keeps working next year even though Baseball-Reference gives
+each team page a new random-looking ID every season.
 """
 
 import json
 import re
 import sys
+import time
 from datetime import datetime, timezone
 from io import StringIO
+from urllib.parse import urljoin
 
 import requests
 import pandas as pd
@@ -25,7 +41,8 @@ from bs4 import BeautifulSoup
 
 ORG_ID = "NYY"
 YEAR = 2026
-URL = f"https://www.baseball-reference.com/register/affiliate.cgi?id={ORG_ID}&year={YEAR}"
+AFFILIATE_URL = f"https://www.baseball-reference.com/register/affiliate.cgi?id={ORG_ID}&year={YEAR}"
+BASE_URL = "https://www.baseball-reference.com"
 
 TEAM_MATCHERS = {
     "DSL Bombers": ["dsl yankees 2", "dsl yankees2", "dsl bombers"],
@@ -35,6 +52,14 @@ TEAM_MATCHERS = {
     "Hudson Valley Renegades": ["hudson valley"],
     "Somerset Patriots": ["somerset"],
     "SWB RailRiders": ["scranton", "wilkes-barre", "swb", "s-wb"],
+}
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "en-US,en;q=0.9",
 }
 
 
@@ -48,18 +73,10 @@ def match_team(team_val: str):
     return None
 
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-}
-
-
 def fetch_page(url: str) -> str:
     resp = requests.get(url, headers=HEADERS, timeout=30)
     resp.raise_for_status()
+    time.sleep(2)
     return resp.text
 
 
@@ -67,54 +84,72 @@ def uncomment_tables(html: str) -> str:
     return re.sub(r"<!--|-->", "", html)
 
 
-def parse_tables(html: str):
-    soup = BeautifulSoup(html, "lxml")
-    tables = soup.find_all("table")
-    results = []
-    for t in tables:
-        table_id = t.get("id", "unknown")
+def find_team_page_links(affiliate_html: str):
+    soup = BeautifulSoup(uncomment_tables(affiliate_html), "lxml")
+    links = {}
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if "/register/team.cgi" not in href:
+            continue
+        canonical = match_team(a.get_text(strip=True))
+        if canonical and canonical not in links:
+            links[canonical] = urljoin(BASE_URL, href)
+    return links
+
+
+def parse_player_tables(team_html: str):
+    soup = BeautifulSoup(uncomment_tables(team_html), "lxml")
+    batting_rows, pitching_rows = [], []
+
+    for table in soup.find_all("table"):
         try:
-            df = pd.read_html(StringIO(str(t)))[0]
+            df = pd.read_html(StringIO(str(table)))[0]
         except ValueError:
             continue
-        results.append((table_id, df))
-    return results
 
-
-def build_dataset():
-    html = fetch_page(URL)
-    html = uncomment_tables(html)
-    tables = parse_tables(html)
-
-    teams_data = {
-        name: {"batting": [], "pitching": []} for name in TEAM_MATCHERS
-    }
-
-    for table_id, df in tables:
         if isinstance(df.columns, pd.MultiIndex):
             df.columns = [" ".join(map(str, c)).strip() for c in df.columns]
 
         cols_lower = [str(c).lower() for c in df.columns]
-        is_batting = "ab" in cols_lower and "hr" in cols_lower
-        is_pitching = "ip" in cols_lower and "era" in cols_lower
+        has_name = "name" in cols_lower or "player" in cols_lower
+        is_batting = has_name and "ab" in cols_lower and "hr" in cols_lower
+        is_pitching = has_name and "ip" in cols_lower and "era" in cols_lower
         if not (is_batting or is_pitching):
             continue
 
-        team_col = next((c for c in df.columns if str(c).lower() in ("tm", "team")), None)
-        if team_col is None:
-            continue
-
         for _, row in df.iterrows():
-            team_val = str(row.get(team_col, ""))
-            canonical = match_team(team_val)
-            if canonical is None:
-                continue
             record = row.to_dict()
             record = {str(k): (None if pd.isna(v) else v) for k, v in record.items()}
+            name_val = str(record.get("Name") or record.get("Player") or "").strip()
+            if not name_val or name_val.lower() in ("team totals", "nan"):
+                continue
             if is_batting:
-                teams_data[canonical]["batting"].append(record)
+                batting_rows.append(record)
             else:
-                teams_data[canonical]["pitching"].append(record)
+                pitching_rows.append(record)
+
+    return batting_rows, pitching_rows
+
+
+def build_dataset():
+    affiliate_html = fetch_page(AFFILIATE_URL)
+    team_links = find_team_page_links(affiliate_html)
+
+    teams_data = {name: {"batting": [], "pitching": []} for name in TEAM_MATCHERS}
+
+    for canonical, url in team_links.items():
+        try:
+            team_html = fetch_page(url)
+        except requests.HTTPError as e:
+            print(f"Couldn't fetch {canonical} page ({url}): {e}", file=sys.stderr)
+            continue
+        batting, pitching = parse_player_tables(team_html)
+        teams_data[canonical]["batting"] = batting
+        teams_data[canonical]["pitching"] = pitching
+
+    missing = [name for name in TEAM_MATCHERS if name not in team_links]
+    if missing:
+        print(f"WARNING: couldn't find a page link for: {', '.join(missing)}.", file=sys.stderr)
 
     return {
         "org": ORG_ID,
