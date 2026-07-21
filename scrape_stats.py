@@ -28,8 +28,8 @@ YEAR = 2026
 URL = f"https://www.baseball-reference.com/register/affiliate.cgi?id={ORG_ID}&year={YEAR}"
 
 TEAM_MATCHERS = {
-    "DSL Yankees": ["dsl yankees1", "dsl yankees 1"],
-    "DSL Bombers": ["dsl bombers", "dsl yankees2", "dsl yankees 2"],
+    "DSL Bombers": ["dsl yankees 2", "dsl yankees2", "dsl bombers"],
+    "DSL Yankees": ["dsl yankees"],
     "FCL Yankees": ["fcl yankees"],
     "Tampa Tarpons": ["tampa"],
     "Hudson Valley Renegades": ["hudson valley"],
