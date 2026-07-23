@@ -50,17 +50,15 @@ def match_team(name_val: str, extra_val: str = ""):
 
 
 def get_affiliate_team_ids():
-    url = f"{API_BASE}/teams/{YANKEES_MLB_TEAM_ID}"
-    params = {"hydrate": "affiliates", "season": YEAR}
+    """Look up all current affiliates of the Yankees org and return
+    {canonical_team_name: mlb_team_id}."""
+    url = f"{API_BASE}/teams/affiliates"
+    params = {"teamIds": YANKEES_MLB_TEAM_ID, "season": YEAR}
     resp = requests.get(url, params=params, headers=HEADERS, timeout=30)
     resp.raise_for_status()
     data = resp.json()
 
-    teams_data = data.get("teams", [])
-    if not teams_data:
-        return {}
-
-    affiliates = teams_data[0].get("affiliates", [])
+    affiliates = data.get("teams", [])
     ids = {}
     for aff in affiliates:
         canonical = match_team(aff.get("name", ""), aff.get("teamName", ""))
