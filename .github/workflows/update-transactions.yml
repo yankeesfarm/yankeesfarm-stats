@@ -1,0 +1,35 @@
+name: Update Transactions
+
+on:
+  schedule:
+    - cron: "15 9 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-transactions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run scraper
+        run: python scrape_transactions.py
+
+      - name: Commit updated transactions.json
+        run: |
+          git config user.name "yankeesfarm-bot"
+          git config user.email "actions@github.com"
+          git add data/transactions.json
+          git diff --quiet --cached || git commit -m "Auto-update transactions $(date -u +%Y-%m-%d)"
+          git push
