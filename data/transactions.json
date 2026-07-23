@@ -1,14 +1,5325 @@
 {
   "org": "NYY",
   "season": 2026,
-  "updated_at": "2026-07-23T03:43:33.868795+00:00",
+  "updated_at": "2026-07-23T03:51:03.825650+00:00",
   "teams": {
-    "DSL Bombers": [],
-    "DSL Yankees": [],
-    "FCL Yankees": [],
-    "Tampa Tarpons": [],
-    "Hudson Valley Renegades": [],
-    "Somerset Patriots": [],
-    "SWB RailRiders": []
+    "DSL Bombers": [
+      {
+        "date": "2026-07-19",
+        "player": "Edgar Jimenez",
+        "type": "Assigned",
+        "description": "C Edgar Jimenez assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-07-19",
+        "player": "Poly Ojeda",
+        "type": "Assigned",
+        "description": "C Poly Ojeda assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-07-14",
+        "player": "Osveiker Chirino",
+        "type": "Assigned",
+        "description": "RHP Osveiker Chirino assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-07-11",
+        "player": "Chaury Gomez",
+        "type": "Status Change",
+        "description": "DSL NYY Bombers placed RHP Chaury Gomez on the restricted list."
+      },
+      {
+        "date": "2026-07-09",
+        "player": "Kenneth Melendez",
+        "type": "Assigned",
+        "description": "C Kenneth Melendez assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-07-09",
+        "player": "John Rosillo",
+        "type": "Assigned",
+        "description": "C John Rosillo assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Argenis Veloz",
+        "type": "Assigned",
+        "description": "RHP Argenis Veloz assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Lenin Caceres",
+        "type": "Assigned",
+        "description": "RHP Lenin Caceres assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Breidy Adames",
+        "type": "Assigned",
+        "description": "RHP Breidy Adames assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-07-05",
+        "player": "Alfred Ciriaco",
+        "type": "Assigned",
+        "description": "SS Alfred Ciriaco assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-07-05",
+        "player": "Adrian Feliz",
+        "type": "Assigned",
+        "description": "SS Adrian Feliz assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-06-24",
+        "player": "Alexis Gonzalez",
+        "type": "Status Change",
+        "description": "DSL NYY Bombers placed RHP Alexis Gonzalez on the 60-day injured list."
+      },
+      {
+        "date": "2026-06-19",
+        "player": "Brandy Luis",
+        "type": "Status Change",
+        "description": "DSL NYY Bombers activated RHP Brandy Luis."
+      },
+      {
+        "date": "2026-06-09",
+        "player": "Jose Sanchez",
+        "type": "Assigned",
+        "description": "LHP Jose Sanchez assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Christopher Vasquez",
+        "type": "Released",
+        "description": "DSL NYY Bombers released RHP Christopher Vasquez."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Germayhoni Beltre",
+        "type": "Assigned",
+        "description": "SS Germayhoni Beltre assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Poly Ojeda",
+        "type": "Assigned",
+        "description": "C Poly Ojeda assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Sebastian Pinto",
+        "type": "Assigned",
+        "description": "OF Sebastian Pinto assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "John Rosillo",
+        "type": "Assigned",
+        "description": "C John Rosillo assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Higor Requena",
+        "type": "Assigned",
+        "description": "RHP Higor Requena assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Stiven Marinez",
+        "type": "Assigned",
+        "description": "SS Stiven Marinez assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-28",
+        "player": "Hector Cancio",
+        "type": "Assigned",
+        "description": "RHP Hector Cancio assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-28",
+        "player": "Felipe Hernandez",
+        "type": "Assigned",
+        "description": "RHP Felipe Hernandez assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Ranciel Abreu",
+        "type": "Status Change",
+        "description": "DSL NYY Bombers placed RHP Ranciel Abreu on the 60-day injured list."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Adrian Feliz",
+        "type": "Assigned",
+        "description": "SS Adrian Feliz assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Juan Torres",
+        "type": "Assigned",
+        "description": "2B Juan Torres assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Jose Peralta",
+        "type": "Assigned",
+        "description": "C Jose Peralta assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Carlos Bello",
+        "type": "Assigned",
+        "description": "SS Carlos Bello assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Mani Cedeno",
+        "type": "Assigned",
+        "description": "SS Mani Cedeno assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Yunior Jerez",
+        "type": "Assigned",
+        "description": "RHP Yunior Jerez assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Alfred Ciriaco",
+        "type": "Assigned",
+        "description": "SS Alfred Ciriaco assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Carlos Hampshire",
+        "type": "Assigned",
+        "description": "RHP Carlos Hampshire assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Alfiery Matos",
+        "type": "Assigned",
+        "description": "OF Alfiery Matos assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Oscar Vasquez",
+        "type": "Assigned",
+        "description": "RHP Oscar Vasquez assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Sebastian Castillo",
+        "type": "Assigned",
+        "description": "RHP Sebastian Castillo assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Stalen Ramirez",
+        "type": "Assigned",
+        "description": "C Stalen Ramirez assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-21",
+        "player": "Christofer Reyes",
+        "type": "Assigned",
+        "description": "SS Christofer Reyes assigned to FCL Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-14",
+        "player": "Dariel Santana",
+        "type": "Assigned",
+        "description": "SS Dariel Santana assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-02",
+        "player": "Felipe Hernandez",
+        "type": "Assigned",
+        "description": "RHP Felipe Hernandez assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Yunior Jerez",
+        "type": "Assigned",
+        "description": "RHP Yunior Jerez assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-03-22",
+        "player": "Alexander Almonte",
+        "type": "Assigned",
+        "description": "RHP Alexander Almonte assigned to FCL Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-03-22",
+        "player": "Jose Castro",
+        "type": "Assigned",
+        "description": "CF Jose Castro assigned to FCL Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-02-25",
+        "player": "Jhon Castro",
+        "type": "Assigned",
+        "description": "RHP Jhon Castro assigned to DSL NYY Bombers."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Angel Ventura",
+        "type": "Released",
+        "description": "DSL NYY Bombers released OF Angel Ventura."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Wilfrido Bido",
+        "type": "Released",
+        "description": "DSL NYY Bombers released RHP Wilfrido Bido."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Remy Veldhuisen",
+        "type": "Released",
+        "description": "DSL NYY Bombers released OF Remy Veldhuisen."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Carlos Rondon",
+        "type": "Assigned",
+        "description": "C Carlos Rondon assigned to FCL Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Leni Done",
+        "type": "Assigned",
+        "description": "3B Leni Done assigned to FCL Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Carlos Villarroel",
+        "type": "Assigned",
+        "description": "C Carlos Villarroel assigned to FCL Yankees from DSL NYY Bombers."
+      }
+    ],
+    "DSL Yankees": [
+      {
+        "date": "2026-07-19",
+        "player": "Edgar Jimenez",
+        "type": "Assigned",
+        "description": "C Edgar Jimenez assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-07-19",
+        "player": "Poly Ojeda",
+        "type": "Assigned",
+        "description": "C Poly Ojeda assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-07-15",
+        "player": "Braulio Jaquez",
+        "type": "Status Change",
+        "description": "DSL NYY Yankees activated RHP Braulio Jaquez."
+      },
+      {
+        "date": "2026-07-15",
+        "player": "Braulio Jaquez",
+        "type": "Assigned",
+        "description": "RHP Braulio Jaquez assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-07-15",
+        "player": "Jose Lavagnino",
+        "type": "Status Change",
+        "description": "DSL NYY Yankees placed C Jose Lavagnino on the 60-day injured list."
+      },
+      {
+        "date": "2026-07-09",
+        "player": "Kenneth Melendez",
+        "type": "Assigned",
+        "description": "C Kenneth Melendez assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-07-09",
+        "player": "John Rosillo",
+        "type": "Assigned",
+        "description": "C John Rosillo assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-07-08",
+        "player": "Chien-Fan Lai",
+        "type": "Assigned",
+        "description": "RHP Chien-Fan Lai assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Breidy Adames",
+        "type": "Assigned",
+        "description": "RHP Breidy Adames assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Lenin Caceres",
+        "type": "Assigned",
+        "description": "RHP Lenin Caceres assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-07-05",
+        "player": "Alfred Ciriaco",
+        "type": "Assigned",
+        "description": "SS Alfred Ciriaco assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-07-05",
+        "player": "Adrian Feliz",
+        "type": "Assigned",
+        "description": "SS Adrian Feliz assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-06-27",
+        "player": "Breidy Adames",
+        "type": "Assigned",
+        "description": "RHP Breidy Adames assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-06-22",
+        "player": "Sebastian Rivas",
+        "type": "Status Change",
+        "description": "DSL NYY Yankees placed RHP Sebastian Rivas on the 60-day injured list."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Jhon Beltre",
+        "type": "Assigned",
+        "description": "RHP Jhon Beltre assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Yostin Pena",
+        "type": "Assigned",
+        "description": "OF Yostin Pena assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Victor De Leon",
+        "type": "Assigned",
+        "description": "RHP Victor De Leon assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Brandon Rodriguez",
+        "type": "Assigned",
+        "description": "RHP Brandon Rodriguez assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Juan Martinez",
+        "type": "Assigned",
+        "description": "C Juan Martinez assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Abrahan Pichardo",
+        "type": "Assigned",
+        "description": "SS Abrahan Pichardo assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Sebastian Rivas",
+        "type": "Assigned",
+        "description": "RHP Sebastian Rivas assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Angel Salazar",
+        "type": "Assigned",
+        "description": "RHP Angel Salazar assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Kenneth Melendez",
+        "type": "Assigned",
+        "description": "C Kenneth Melendez assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Kendry Diaz",
+        "type": "Assigned",
+        "description": "OF Kendry Diaz assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Cesar Vivanco",
+        "type": "Assigned",
+        "description": "RHP Cesar Vivanco assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Cesar Lopez",
+        "type": "Assigned",
+        "description": "C Cesar Lopez assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Stiven Marinez",
+        "type": "Assigned",
+        "description": "SS Stiven Marinez assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-28",
+        "player": "Felipe Hernandez",
+        "type": "Assigned",
+        "description": "RHP Felipe Hernandez assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Oscar Vasquez",
+        "type": "Assigned",
+        "description": "RHP Oscar Vasquez assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Sebastian Castillo",
+        "type": "Assigned",
+        "description": "RHP Sebastian Castillo assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Yunior Jerez",
+        "type": "Assigned",
+        "description": "RHP Yunior Jerez assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Juan Torres",
+        "type": "Assigned",
+        "description": "2B Juan Torres assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Carlos Hampshire",
+        "type": "Assigned",
+        "description": "RHP Carlos Hampshire assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Stalen Ramirez",
+        "type": "Assigned",
+        "description": "C Stalen Ramirez assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Alfiery Matos",
+        "type": "Assigned",
+        "description": "OF Alfiery Matos assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Carlos Bello",
+        "type": "Assigned",
+        "description": "SS Carlos Bello assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Mani Cedeno",
+        "type": "Assigned",
+        "description": "SS Mani Cedeno assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Adrian Feliz",
+        "type": "Assigned",
+        "description": "SS Adrian Feliz assigned to DSL NYY Bombers from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Alfred Ciriaco",
+        "type": "Assigned",
+        "description": "SS Alfred Ciriaco assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Jose Peralta",
+        "type": "Assigned",
+        "description": "C Jose Peralta assigned to DSL NYY Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-18",
+        "player": "Dariel Chalas",
+        "type": "Assigned",
+        "description": "RHP Dariel Chalas assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-18",
+        "player": "Manuel Aguilar",
+        "type": "Assigned",
+        "description": "RHP Manuel Aguilar assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Estivenzon Montero",
+        "type": "Assigned",
+        "description": "OF Estivenzon Montero assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Manuel Cruz",
+        "type": "Assigned",
+        "description": "RHP Manuel Cruz assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-02",
+        "player": "Freddy Lopez",
+        "type": "Assigned",
+        "description": "RHP Freddy Lopez assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Rafael Arias",
+        "type": "Assigned",
+        "description": "RHP Rafael Arias assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Marco Manzano",
+        "type": "Assigned",
+        "description": "LHP Marco Manzano assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-04-06",
+        "player": "Dalvin Taveras",
+        "type": "Assigned",
+        "description": "RHP Dalvin Taveras assigned to DSL NYY Yankees."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Saul Brinez",
+        "type": "Released",
+        "description": "DSL NYY Yankees released RHP Saul Brinez."
+      },
+      {
+        "date": "2026-03-22",
+        "player": "Enixon Sanchez",
+        "type": "Assigned",
+        "description": "RHP Enixon Sanchez assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Jose Rosario",
+        "type": "Released",
+        "description": "DSL NYY Yankees released RHP Jose Rosario."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Michell Chirinos",
+        "type": "Released",
+        "description": "DSL NYY Yankees released RHP Michell Chirinos."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Diego Flores",
+        "type": "Assigned",
+        "description": "C Diego Flores assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Richard Matic",
+        "type": "Assigned",
+        "description": "3B Richard Matic assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Francisco Vilorio",
+        "type": "Assigned",
+        "description": "OF Francisco Vilorio assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Justin Capellan",
+        "type": "Assigned",
+        "description": "C Justin Capellan assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Wilberson De Pena",
+        "type": "Assigned",
+        "description": "OF Wilberson De Pena assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Anthony Mena",
+        "type": "Assigned",
+        "description": "RHP Anthony Mena assigned to FCL Yankees from DSL NYY Yankees."
+      }
+    ],
+    "FCL Yankees": [
+      {
+        "date": "2026-07-21",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "RHP Brian Hendry assigned to Scranton/Wilkes-Barre RailRiders from FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Garrett Ahern",
+        "type": "Assigned",
+        "description": "RHP Garrett Ahern assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Austin Berggren",
+        "type": "Assigned",
+        "description": "RHP Austin Berggren assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Lee Garris",
+        "type": "Assigned",
+        "description": "OF Lee Garris assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Anthony Potestio",
+        "type": "Assigned",
+        "description": "SS Anthony Potestio assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Andrew Gonzalez",
+        "type": "Assigned",
+        "description": "3B Andrew Gonzalez assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Tyce Armstrong",
+        "type": "Assigned",
+        "description": "1B Tyce Armstrong assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Bayram Hot",
+        "type": "Assigned",
+        "description": "SS Bayram Hot assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Luke Pettitte",
+        "type": "Assigned",
+        "description": "TWP Luke Pettitte assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Michael Harpster",
+        "type": "Assigned",
+        "description": "RHP Michael Harpster assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "William Cutshall",
+        "type": "Assigned",
+        "description": "SS William Cutshall assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Paul Gutierrez-Contreras II",
+        "type": "Assigned",
+        "description": "OF Paul Gutierrez-Contreras II assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Diego Castellanos",
+        "type": "Assigned",
+        "description": "OF Diego Castellanos assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Sean Duncan",
+        "type": "Assigned",
+        "description": "LHP Sean Duncan assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Bear Harrison",
+        "type": "Assigned",
+        "description": "C Bear Harrison assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "David Leslie",
+        "type": "Assigned",
+        "description": "RHP David Leslie assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Brendan Brock",
+        "type": "Assigned",
+        "description": "C Brendan Brock assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Blake Cyr",
+        "type": "Assigned",
+        "description": "OF Blake Cyr assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-17",
+        "player": "Dean Toigo",
+        "type": "Assigned",
+        "description": "OF Dean Toigo assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-17",
+        "player": "Jason Krieger",
+        "type": "Assigned",
+        "description": "RHP Jason Krieger assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-17",
+        "player": "Jorsixt Jimenez",
+        "type": "Assigned",
+        "description": "OF Jorsixt Jimenez assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-17",
+        "player": "Maika Niu",
+        "type": "Assigned",
+        "description": "OF Maika Niu assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-17",
+        "player": "Dax Kilby",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent SS Dax Kilby on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-07-16",
+        "player": "Max Vaisvila",
+        "type": "Assigned",
+        "description": "LHP Max Vaisvila assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-16",
+        "player": "Tyce Peterson",
+        "type": "Assigned",
+        "description": "2B Tyce Peterson assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-16",
+        "player": "Chalniel Arias",
+        "type": "Status Change",
+        "description": "FCL Yankees activated RHP Chalniel Arias from the 60-day injured list."
+      },
+      {
+        "date": "2026-07-16",
+        "player": "A.J. Hutcheson",
+        "type": "Assigned",
+        "description": "RHP A.J. Hutcheson assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-16",
+        "player": "Josh Newell",
+        "type": "Status Change",
+        "description": "RHP Josh Newell roster status changed by FCL Yankees."
+      },
+      {
+        "date": "2026-07-16",
+        "player": "Josh Newell",
+        "type": "Assigned",
+        "description": "RHP Josh Newell assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-13",
+        "player": "George Lombard Jr.",
+        "type": "Assigned",
+        "description": "Scranton/Wilkes-Barre RailRiders sent SS George Lombard Jr. on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-07-13",
+        "player": "Hunter Dietz",
+        "type": "Assigned",
+        "description": "LHP Hunter Dietz assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-07-13",
+        "player": "George Lombard Jr.",
+        "type": "Assigned",
+        "description": "Scranton/Wilkes-Barre RailRiders sent SS George Lombard Jr. on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-07-11",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "RHP Brian Hendry assigned to FCL Yankees from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-07-09",
+        "player": "Sabier Marte",
+        "type": "Assigned",
+        "description": "RHP Sabier Marte assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-07-08",
+        "player": "Austin Breedlove",
+        "type": "Assigned",
+        "description": "RHP Austin Breedlove assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-07-06",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Brian Hendry on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-07-06",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Brian Hendry on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-07-02",
+        "player": "Blake Gillespie",
+        "type": "Status Change",
+        "description": "FCL Yankees placed RHP Blake Gillespie on the 60-day injured list."
+      },
+      {
+        "date": "2026-07-02",
+        "player": "Mack Estrada",
+        "type": "Status Change",
+        "description": "FCL Yankees activated RHP Mack Estrada from the 60-day injured list."
+      },
+      {
+        "date": "2026-06-30",
+        "player": "Christofer Reyes",
+        "type": "Assigned",
+        "description": "SS Christofer Reyes assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-06-27",
+        "player": "Isael Arias",
+        "type": "Assigned",
+        "description": "OF Isael Arias assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-06-23",
+        "player": "Hueston Morrill",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Hueston Morrill on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-17",
+        "player": "Edinzo Marquez",
+        "type": "Assigned",
+        "description": "RHP Edinzo Marquez assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-12",
+        "player": "Tijn Fredrikze",
+        "type": "Status Change",
+        "description": "FCL Yankees transferred LHP Tijn Fredrikze from the 7-day injured list to the 60-day injured list."
+      },
+      {
+        "date": "2026-06-12",
+        "player": "Robbie Burnett",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent OF Robbie Burnett on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-12",
+        "player": "Robbie Burnett",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent OF Robbie Burnett on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Brian Hendry on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Brian Hendry on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-08",
+        "player": "Mariano Salomon",
+        "type": "Status Change",
+        "description": "FCL Yankees placed RHP Mariano Salomon on the full-season injured list."
+      },
+      {
+        "date": "2026-06-06",
+        "player": "Anthony Mena",
+        "type": "Status Change",
+        "description": "FCL Yankees activated RHP Anthony Mena from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-04",
+        "player": "Gabriel Lara",
+        "type": "Assigned",
+        "description": "OF Gabriel Lara assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-06-02",
+        "player": "Logan Maxwell",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent OF Logan Maxwell on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-02",
+        "player": "Gabriel Lara",
+        "type": "Assigned",
+        "description": "OF Gabriel Lara assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-01",
+        "player": "Francisco Vilorio",
+        "type": "Status Change",
+        "description": "FCL Yankees activated OF Francisco Vilorio from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-01",
+        "player": "Logan Maxwell",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent OF Logan Maxwell on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-01",
+        "player": "Francisco Vilorio",
+        "type": "Status Change",
+        "description": "FCL Yankees activated OF Francisco Vilorio from the 7-day injured list."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Kevin Stevens on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Kevin Stevens on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-28",
+        "player": "Dax Kilby",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent SS Dax Kilby on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-28",
+        "player": "Dax Kilby",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent SS Dax Kilby on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Brian Arias",
+        "type": "Assigned",
+        "description": "RHP Brian Arias assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Thatcher Hurd",
+        "type": "Assigned",
+        "description": "RHP Thatcher Hurd assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Danny Flatt",
+        "type": "Assigned",
+        "description": "RHP Danny Flatt assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-25",
+        "player": "Austin Green",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent 2B Austin Green on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-25",
+        "player": "Austin Green",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent 2B Austin Green on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Kevin Verde",
+        "type": "Assigned",
+        "description": "SS Kevin Verde assigned to Somerset Patriots from FCL Yankees."
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Luis Escudero",
+        "type": "Assigned",
+        "description": "2B Luis Escudero assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-05-21",
+        "player": "Alexander Cornielle",
+        "type": "Assigned",
+        "description": "Scranton/Wilkes-Barre RailRiders sent RHP Alexander Cornielle on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-21",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Luis Velasquez on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-21",
+        "player": "Christofer Reyes",
+        "type": "Assigned",
+        "description": "SS Christofer Reyes assigned to FCL Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-05-20",
+        "player": "John Cristino",
+        "type": "Assigned",
+        "description": "C John Cristino assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-05-18",
+        "player": "David McCann",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent C David McCann on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-18",
+        "player": "Edinzo Marquez",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent RHP Edinzo Marquez on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-18",
+        "player": "Edinzo Marquez",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent RHP Edinzo Marquez on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-12",
+        "player": "Luis Puello",
+        "type": "Assigned",
+        "description": "C Luis Puello assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-05-12",
+        "player": "Gabriel Lara",
+        "type": "Assigned",
+        "description": "OF Gabriel Lara assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-05-11",
+        "player": "Enixon Sanchez",
+        "type": "Status Change",
+        "description": "FCL Yankees activated RHP Enixon Sanchez from the 7-day injured list."
+      },
+      {
+        "date": "2026-05-09",
+        "player": "Isael Arias",
+        "type": "Status Change",
+        "description": "FCL Yankees activated OF Isael Arias from the 7-day injured list."
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Manuel Cruz",
+        "type": "Assigned",
+        "description": "RHP Manuel Cruz assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Estivenzon Montero",
+        "type": "Assigned",
+        "description": "OF Estivenzon Montero assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-05",
+        "player": "Wyatt Parliament",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent RHP Wyatt Parliament on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-05",
+        "player": "Wyatt Parliament",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent RHP Wyatt Parliament on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-05",
+        "player": "John Cristino",
+        "type": "Assigned",
+        "description": "C John Cristino assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-05",
+        "player": "Kevin Verde",
+        "type": "Assigned",
+        "description": "SS Kevin Verde assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-02",
+        "player": "Tommy O'Rourke",
+        "type": "Status Change",
+        "description": "FCL Yankees placed RHP Tommy O'Rourke on the full-season injured list."
+      },
+      {
+        "date": "2026-05-02",
+        "player": "John Cristino",
+        "type": "Assigned",
+        "description": "C John Cristino assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Isael Arias",
+        "type": "Status Change",
+        "description": "FCL Yankees placed OF Isael Arias on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Anthony Mena",
+        "type": "Status Change",
+        "description": "FCL Yankees placed RHP Anthony Mena on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Francisco Vilorio",
+        "type": "Status Change",
+        "description": "FCL Yankees placed OF Francisco Vilorio on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Tijn Fredrikze",
+        "type": "Status Change",
+        "description": "FCL Yankees placed LHP Tijn Fredrikze on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Enixon Sanchez",
+        "type": "Status Change",
+        "description": "FCL Yankees placed RHP Enixon Sanchez on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Marco Manzano",
+        "type": "Assigned",
+        "description": "LHP Marco Manzano assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Rafael Arias",
+        "type": "Assigned",
+        "description": "RHP Rafael Arias assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-04-29",
+        "player": "Carlos Villarroel",
+        "type": "Status Change",
+        "description": "FCL Yankees placed C Carlos Villarroel on the full-season injured list."
+      },
+      {
+        "date": "2026-04-29",
+        "player": "Brennan Stuprich",
+        "type": "Assigned",
+        "description": "RHP Brennan Stuprich assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-28",
+        "player": "Mac Heuer",
+        "type": "Assigned",
+        "description": "RHP Mac Heuer assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-26",
+        "player": "Blake Gillespie",
+        "type": "Assigned",
+        "description": "RHP Blake Gillespie assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-14",
+        "player": "J.T. Etheridge",
+        "type": "Assigned",
+        "description": "RHP J.T. Etheridge assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-07",
+        "player": "Jose Martinez",
+        "type": "Assigned",
+        "description": "RHP Jose Martinez assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-04",
+        "player": "Tommy O'Rourke",
+        "type": "Assigned",
+        "description": "RHP Tommy O'Rourke assigned to FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Logan Maxwell",
+        "type": "Assigned",
+        "description": "OF Logan Maxwell assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Gregory Bozzo",
+        "type": "Assigned",
+        "description": "C Gregory Bozzo assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Greysen Carter",
+        "type": "Assigned",
+        "description": "RHP Greysen Carter assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Parker Seay",
+        "type": "Assigned",
+        "description": "LHP Parker Seay assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "description": "SS Santiago Gomez assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Matthew Tippie",
+        "type": "Assigned",
+        "description": "RHP Matthew Tippie assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Pedro Rodriguez",
+        "type": "Assigned",
+        "description": "LHP Pedro Rodriguez assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Jose Ledesma",
+        "type": "Assigned",
+        "description": "LHP Jose Ledesma assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Blake Gillespie",
+        "type": "Assigned",
+        "description": "RHP Blake Gillespie assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Justin West",
+        "type": "Assigned",
+        "description": "LHP Justin West assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Brian Arias",
+        "type": "Assigned",
+        "description": "RHP Brian Arias assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Kevin Verde",
+        "type": "Assigned",
+        "description": "SS Kevin Verde assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Brando Mayea",
+        "type": "Assigned",
+        "description": "OF Brando Mayea assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Sunayro Martina",
+        "type": "Assigned",
+        "description": "RHP Sunayro Martina assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-01",
+        "player": "Edinzo Marquez",
+        "type": "Assigned",
+        "description": "RHP Edinzo Marquez assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-03-31",
+        "player": "Orvis Fernandez",
+        "type": "Status Change",
+        "description": "FCL Yankees placed RHP Orvis Fernandez on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Rory Fox",
+        "type": "Assigned",
+        "description": "RHP Rory Fox assigned to Hudson Valley Renegades from FCL Yankees."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Ben Grable",
+        "type": "Assigned",
+        "description": "RHP Ben Grable assigned to Hudson Valley Renegades from FCL Yankees."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "J.T. Etheridge",
+        "type": "Assigned",
+        "description": "RHP J.T. Etheridge assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Mariano Salomon",
+        "type": "Assigned",
+        "description": "RHP Mariano Salomon assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Pico Kohn",
+        "type": "Assigned",
+        "description": "LHP Pico Kohn assigned to Hudson Valley Renegades from FCL Yankees."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "John Cristino",
+        "type": "Assigned",
+        "description": "C John Cristino assigned to FCL Yankees from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-28",
+        "player": "Alexis Paulino",
+        "type": "Released",
+        "description": "FCL Yankees released RHP Alexis Paulino."
+      },
+      {
+        "date": "2026-03-22",
+        "player": "Chance Nolan",
+        "type": "Released",
+        "description": "FCL Yankees released RHP Chance Nolan."
+      },
+      {
+        "date": "2026-03-22",
+        "player": "Jose Castro",
+        "type": "Assigned",
+        "description": "CF Jose Castro assigned to FCL Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-03-22",
+        "player": "Alexander Almonte",
+        "type": "Assigned",
+        "description": "RHP Alexander Almonte assigned to FCL Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-03-22",
+        "player": "Enixon Sanchez",
+        "type": "Assigned",
+        "description": "RHP Enixon Sanchez assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Ryan Osinski",
+        "type": "Status Change",
+        "description": "FCL Yankees placed RHP Ryan Osinski on the full-season injured list."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Mack Estrada",
+        "type": "Status Change",
+        "description": "FCL Yankees placed RHP Mack Estrada on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Chalniel Arias",
+        "type": "Status Change",
+        "description": "FCL Yankees placed RHP Chalniel Arias on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Angel Benitez",
+        "type": "Status Change",
+        "description": "FCL Yankees placed RHP Angel Benitez on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "David McCann",
+        "type": "Assigned",
+        "description": "C David McCann assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-02-05",
+        "player": "Hansel Rosario",
+        "type": "Released",
+        "description": "FCL Yankees released RHP Hansel Rosario."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Gabriel Terrero",
+        "type": "Released",
+        "description": "FCL Yankees released 2B Gabriel Terrero."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Richard Matic",
+        "type": "Assigned",
+        "description": "3B Richard Matic assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Justin Capellan",
+        "type": "Assigned",
+        "description": "C Justin Capellan assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Francisco Vilorio",
+        "type": "Assigned",
+        "description": "OF Francisco Vilorio assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Carlos Rondon",
+        "type": "Assigned",
+        "description": "C Carlos Rondon assigned to FCL Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Wilberson De Pena",
+        "type": "Assigned",
+        "description": "OF Wilberson De Pena assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Carlos Villarroel",
+        "type": "Assigned",
+        "description": "C Carlos Villarroel assigned to FCL Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Anthony Mena",
+        "type": "Assigned",
+        "description": "RHP Anthony Mena assigned to FCL Yankees from DSL NYY Yankees."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Leni Done",
+        "type": "Assigned",
+        "description": "3B Leni Done assigned to FCL Yankees from DSL NYY Bombers."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Diego Flores",
+        "type": "Assigned",
+        "description": "C Diego Flores assigned to FCL Yankees from DSL NYY Yankees."
+      }
+    ],
+    "Tampa Tarpons": [
+      {
+        "date": "2026-07-21",
+        "player": "Pedro Rodriguez",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed LHP Pedro Rodriguez on the 7-day injured list."
+      },
+      {
+        "date": "2026-07-18",
+        "player": "Luis Escudero",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated 2B Luis Escudero from the 7-day injured list."
+      },
+      {
+        "date": "2026-07-17",
+        "player": "Dax Kilby",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent SS Dax Kilby on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-07-15",
+        "player": "JoJo Jackson",
+        "type": "Status Change",
+        "description": "Tampa Tarpons transferred OF JoJo Jackson from the 7-day injured list to the 60-day injured list."
+      },
+      {
+        "date": "2026-07-10",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Brian Hendry on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-07-09",
+        "player": "Sabier Marte",
+        "type": "Assigned",
+        "description": "RHP Sabier Marte assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-07-08",
+        "player": "Austin Breedlove",
+        "type": "Assigned",
+        "description": "RHP Austin Breedlove assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-07-08",
+        "player": "Henry Lalane",
+        "type": "Assigned",
+        "description": "LHP Henry Lalane assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Austin Green",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed 2B Austin Green on the full-season injured list."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Logan Maxwell",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed OF Logan Maxwell on the 7-day injured list."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Brennan Stuprich",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed RHP Brennan Stuprich on the 7-day injured list."
+      },
+      {
+        "date": "2026-07-06",
+        "player": "Willy Montero",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated CF Willy Montero from the 7-day injured list."
+      },
+      {
+        "date": "2026-07-02",
+        "player": "JoJo Jackson",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed OF JoJo Jackson on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-30",
+        "player": "Christofer Reyes",
+        "type": "Assigned",
+        "description": "SS Christofer Reyes assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-06-29",
+        "player": "Mac Heuer",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed RHP Mac Heuer on the full-season injured list."
+      },
+      {
+        "date": "2026-06-29",
+        "player": "Luis Escudero",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed 2B Luis Escudero on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-27",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Brian Hendry on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-27",
+        "player": "Willy Montero",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed CF Willy Montero on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-27",
+        "player": "Isael Arias",
+        "type": "Assigned",
+        "description": "OF Isael Arias assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-06-25",
+        "player": "Gregory Bozzo",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated C Gregory Bozzo from the Development List."
+      },
+      {
+        "date": "2026-06-25",
+        "player": "Austin Green",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed 2B Austin Green on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-18",
+        "player": "Brando Mayea",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated OF Brando Mayea from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-17",
+        "player": "Edinzo Marquez",
+        "type": "Assigned",
+        "description": "RHP Edinzo Marquez assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-15",
+        "player": "Mac Heuer",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed RHP Mac Heuer on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-10",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Kevin Stevens on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-10",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Kevin Stevens on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-09",
+        "player": "David McCann",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated C David McCann from the 60-day injured list."
+      },
+      {
+        "date": "2026-06-09",
+        "player": "John Cristino",
+        "type": "Assigned",
+        "description": "C John Cristino assigned to Somerset Patriots from Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-04",
+        "player": "Alexander Cornielle",
+        "type": "Assigned",
+        "description": "Scranton/Wilkes-Barre RailRiders sent RHP Alexander Cornielle on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-04",
+        "player": "Gabriel Lara",
+        "type": "Assigned",
+        "description": "OF Gabriel Lara assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-06-04",
+        "player": "Luis Durango",
+        "type": "Assigned",
+        "description": "CF Luis Durango assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-02",
+        "player": "Logan Maxwell",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated OF Logan Maxwell from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-02",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Luis Velasquez on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-02",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Luis Velasquez on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-02",
+        "player": "Logan Maxwell",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent OF Logan Maxwell on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-02",
+        "player": "Gabriel Lara",
+        "type": "Assigned",
+        "description": "OF Gabriel Lara assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-01",
+        "player": "Logan Maxwell",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent OF Logan Maxwell on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-28",
+        "player": "Dax Kilby",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent SS Dax Kilby on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-28",
+        "player": "Dax Kilby",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent SS Dax Kilby on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Austin Green",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated 2B Austin Green from the 7-day injured list."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Gregory Bozzo",
+        "type": "Status Change",
+        "description": "Tampa Tarpons transferred C Gregory Bozzo to the Development List."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Wyatt Parliament",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated RHP Wyatt Parliament from the 7-day injured list."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Thatcher Hurd",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated RHP Thatcher Hurd."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Wyatt Parliament",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated RHP Wyatt Parliament from the 7-day injured list."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Gregory Bozzo",
+        "type": "Status Change",
+        "description": "Tampa Tarpons transferred C Gregory Bozzo to the Development List."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Brian Arias",
+        "type": "Assigned",
+        "description": "RHP Brian Arias assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Danny Flatt",
+        "type": "Assigned",
+        "description": "RHP Danny Flatt assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Thatcher Hurd",
+        "type": "Assigned",
+        "description": "RHP Thatcher Hurd assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-05-25",
+        "player": "Austin Green",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent 2B Austin Green on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-25",
+        "player": "Austin Green",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent 2B Austin Green on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Luis Escudero",
+        "type": "Assigned",
+        "description": "2B Luis Escudero assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "description": "SS Santiago Gomez assigned to Somerset Patriots from Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-20",
+        "player": "John Cristino",
+        "type": "Assigned",
+        "description": "C John Cristino assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-05-18",
+        "player": "Edinzo Marquez",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent RHP Edinzo Marquez on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-18",
+        "player": "David McCann",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent C David McCann on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-18",
+        "player": "Edinzo Marquez",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent RHP Edinzo Marquez on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-16",
+        "player": "Luis Durango",
+        "type": "Assigned",
+        "description": "CF Luis Durango assigned to Tampa Tarpons from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-12",
+        "player": "Enmanuel Tejeda",
+        "type": "Assigned",
+        "description": "SS Enmanuel Tejeda assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-12",
+        "player": "Gabriel Lara",
+        "type": "Assigned",
+        "description": "OF Gabriel Lara assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-05-12",
+        "player": "Luis Puello",
+        "type": "Assigned",
+        "description": "C Luis Puello assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-05-11",
+        "player": "Logan Maxwell",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed OF Logan Maxwell on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-11",
+        "player": "Brando Mayea",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed OF Brando Mayea on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Chase Hampton",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Chase Hampton on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-05",
+        "player": "Wyatt Parliament",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent RHP Wyatt Parliament on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-05",
+        "player": "Wyatt Parliament",
+        "type": "Assigned",
+        "description": "Tampa Tarpons sent RHP Wyatt Parliament on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-05",
+        "player": "John Cristino",
+        "type": "Assigned",
+        "description": "C John Cristino assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-05",
+        "player": "Kevin Verde",
+        "type": "Assigned",
+        "description": "SS Kevin Verde assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-02",
+        "player": "John Cristino",
+        "type": "Assigned",
+        "description": "C John Cristino assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Austin Green",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed 2B Austin Green on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-29",
+        "player": "Bryce Warrecker",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Bryce Warrecker on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-29",
+        "player": "Bryce Warrecker",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Bryce Warrecker on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-29",
+        "player": "Brennan Stuprich",
+        "type": "Assigned",
+        "description": "RHP Brennan Stuprich assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-28",
+        "player": "Danny Flatt",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed RHP Danny Flatt on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-28",
+        "player": "Mac Heuer",
+        "type": "Assigned",
+        "description": "RHP Mac Heuer assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Allen Facundo",
+        "type": "Assigned",
+        "description": "LHP Allen Facundo assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-26",
+        "player": "Luis Durango",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent CF Luis Durango on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-26",
+        "player": "Luis Durango",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent CF Luis Durango on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-26",
+        "player": "Henry Lalane",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated LHP Henry Lalane from the 7-day injured list."
+      },
+      {
+        "date": "2026-04-26",
+        "player": "Blake Gillespie",
+        "type": "Assigned",
+        "description": "RHP Blake Gillespie assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-17",
+        "player": "Thomas Balboni Jr.",
+        "type": "Assigned",
+        "description": "RHP Thomas Balboni Jr. assigned to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-17",
+        "player": "Thomas Balboni Jr.",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Thomas Balboni Jr. on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-17",
+        "player": "Thomas Balboni Jr.",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Thomas Balboni Jr. on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-17",
+        "player": "Thomas Balboni Jr.",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Thomas Balboni Jr. on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-14",
+        "player": "J.T. Etheridge",
+        "type": "Assigned",
+        "description": "RHP J.T. Etheridge assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-13",
+        "player": "Henry Lalane",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed LHP Henry Lalane on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-09",
+        "player": "Jackson Lovich",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated SS Jackson Lovich from the 7-day injured list."
+      },
+      {
+        "date": "2026-04-07",
+        "player": "Jose Martinez",
+        "type": "Assigned",
+        "description": "RHP Jose Martinez assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-04",
+        "player": "Yerry Rodr\u00edguez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Yerry Rodr\u00edguez on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-04",
+        "player": "Yerry Rodr\u00edguez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Yerry Rodr\u00edguez on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Jackson Lovich",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed SS Jackson Lovich on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Wyatt Parliament",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed RHP Wyatt Parliament on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Dax Kilby",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed SS Dax Kilby on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Jose Ledesma",
+        "type": "Status Change",
+        "description": "Tampa Tarpons activated LHP Jose Ledesma."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Logan Maxwell",
+        "type": "Assigned",
+        "description": "OF Logan Maxwell assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Kevin Verde",
+        "type": "Assigned",
+        "description": "SS Kevin Verde assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Brian Arias",
+        "type": "Assigned",
+        "description": "RHP Brian Arias assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Justin West",
+        "type": "Assigned",
+        "description": "LHP Justin West assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Brando Mayea",
+        "type": "Assigned",
+        "description": "OF Brando Mayea assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Jose Ledesma",
+        "type": "Assigned",
+        "description": "LHP Jose Ledesma assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Pedro Rodriguez",
+        "type": "Assigned",
+        "description": "LHP Pedro Rodriguez assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Blake Gillespie",
+        "type": "Assigned",
+        "description": "RHP Blake Gillespie assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Matthew Tippie",
+        "type": "Assigned",
+        "description": "RHP Matthew Tippie assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Gregory Bozzo",
+        "type": "Assigned",
+        "description": "C Gregory Bozzo assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Greysen Carter",
+        "type": "Assigned",
+        "description": "RHP Greysen Carter assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Parker Seay",
+        "type": "Assigned",
+        "description": "LHP Parker Seay assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "description": "SS Santiago Gomez assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Sunayro Martina",
+        "type": "Assigned",
+        "description": "RHP Sunayro Martina assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-01",
+        "player": "Edinzo Marquez",
+        "type": "Assigned",
+        "description": "RHP Edinzo Marquez assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Franyer Herrera",
+        "type": "Assigned",
+        "description": "LHP Franyer Herrera assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Roderick Arias",
+        "type": "Assigned",
+        "description": "SS Roderick Arias assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Jack Sokol",
+        "type": "Assigned",
+        "description": "RHP Jack Sokol assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Jackson Fristoe",
+        "type": "Assigned",
+        "description": "RHP Jackson Fristoe assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Engelth Urena",
+        "type": "Assigned",
+        "description": "C Engelth Urena assigned to Tampa Tarpons from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Wilson Rodriguez",
+        "type": "Assigned",
+        "description": "OF Wilson Rodriguez assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Kyle West",
+        "type": "Assigned",
+        "description": "1B Kyle West assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Luis Serna",
+        "type": "Assigned",
+        "description": "RHP Luis Serna assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Chris Veach",
+        "type": "Assigned",
+        "description": "RHP Chris Veach assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Aaron Nixon",
+        "type": "Assigned",
+        "description": "RHP Aaron Nixon assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Mariano Salomon",
+        "type": "Assigned",
+        "description": "RHP Mariano Salomon assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Josue Gonzalez",
+        "type": "Assigned",
+        "description": "C Josue Gonzalez assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Tanner Bauman",
+        "type": "Assigned",
+        "description": "LHP Tanner Bauman assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "J.T. Etheridge",
+        "type": "Assigned",
+        "description": "RHP J.T. Etheridge assigned to FCL Yankees from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Eric Genther",
+        "type": "Assigned",
+        "description": "OF Eric Genther assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-28",
+        "player": "Cole Zaffiro",
+        "type": "Released",
+        "description": "Tampa Tarpons released RHP Cole Zaffiro."
+      },
+      {
+        "date": "2026-03-28",
+        "player": "Gus Hughes",
+        "type": "Released",
+        "description": "Tampa Tarpons released RHP Gus Hughes."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Richie Bonomolo Jr.",
+        "type": "Status Change",
+        "description": "Tampa Tarpons placed OF Richie Bonomolo Jr. on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "David McCann",
+        "type": "Assigned",
+        "description": "C David McCann assigned to Tampa Tarpons from FCL Yankees."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Antonio Gomez",
+        "type": "Assigned",
+        "description": "C Antonio Gomez assigned to Tampa Tarpons from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-02-11",
+        "player": "Justin Lange",
+        "type": "Released",
+        "description": "Tampa Tarpons released RHP Justin Lange."
+      },
+      {
+        "date": "2026-02-11",
+        "player": "Cade Austin",
+        "type": "Released",
+        "description": "Tampa Tarpons released RHP Cade Austin."
+      },
+      {
+        "date": "2026-02-03",
+        "player": "Juan Sanchez",
+        "type": "Released",
+        "description": "Tampa Tarpons released C Juan Sanchez."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Johan Contreras",
+        "type": "Released",
+        "description": "Tampa Tarpons released C Johan Contreras."
+      }
+    ],
+    "Hudson Valley Renegades": [
+      {
+        "date": "2026-07-16",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "RHP Kevin Stevens assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-07-11",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "RHP Brian Hendry assigned to FCL Yankees from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-07-10",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Brian Hendry on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-07-08",
+        "player": "Henry Lalane",
+        "type": "Assigned",
+        "description": "LHP Henry Lalane assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Santiago Gomez",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated SS Santiago Gomez."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "description": "RHP Luis Velasquez assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "description": "SS Santiago Gomez assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-07-06",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Brian Hendry on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-07-06",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Brian Hendry on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-07-06",
+        "player": "Kaeden Kent",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed SS Kaeden Kent on the 7-day injured list."
+      },
+      {
+        "date": "2026-07-06",
+        "player": "Kaeden Kent",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed SS Kaeden Kent on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-30",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "RHP Kevin Stevens assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-28",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Kevin Stevens on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-06-27",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Brian Hendry on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-25",
+        "player": "Diomedes Hernandez",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated C Diomedes Hernandez from the Development List."
+      },
+      {
+        "date": "2026-06-25",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "description": "SS Santiago Gomez assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-06-23",
+        "player": "Robbie Burnett",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated OF Robbie Burnett from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-23",
+        "player": "Josh Moylan",
+        "type": "Assigned",
+        "description": "1B Josh Moylan assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-06-20",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "description": "RHP Luis Velasquez assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-19",
+        "player": "Tyler Wilson",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades transferred OF Tyler Wilson from the 7-day injured list to the 60-day injured list."
+      },
+      {
+        "date": "2026-06-19",
+        "player": "Tyler Wilson",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades transferred OF Tyler Wilson from the 7-day injured list to the 60-day injured list."
+      },
+      {
+        "date": "2026-06-12",
+        "player": "Robbie Burnett",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent OF Robbie Burnett on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-12",
+        "player": "Robbie Burnett",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent OF Robbie Burnett on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Brian Hendry on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Brian Hendry on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-10",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Luis Velasquez on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Tony Rossi",
+        "type": "Assigned",
+        "description": "RHP Tony Rossi assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-06-04",
+        "player": "Luis Durango",
+        "type": "Assigned",
+        "description": "CF Luis Durango assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-03",
+        "player": "Cole Gabrielson",
+        "type": "Assigned",
+        "description": "OF Cole Gabrielson assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Jackson Fristoe",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed RHP Jackson Fristoe on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Connor McGinnis",
+        "type": "Assigned",
+        "description": "2B Connor McGinnis assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "description": "SS Santiago Gomez assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Diomedes Hernandez",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades transferred C Diomedes Hernandez to the Development List."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Connor McGinnis",
+        "type": "Assigned",
+        "description": "2B Connor McGinnis assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Chase Hampton",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Chase Hampton on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Chase Hampton",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Chase Hampton on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-25",
+        "player": "Tanner Bauman",
+        "type": "Assigned",
+        "description": "LHP Tanner Bauman assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-21",
+        "player": "Tanner Bauman",
+        "type": "Assigned",
+        "description": "LHP Tanner Bauman assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-19",
+        "player": "Bryce Warrecker",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated RHP Bryce Warrecker from the 7-day injured list."
+      },
+      {
+        "date": "2026-05-19",
+        "player": "Chris Veach",
+        "type": "Assigned",
+        "description": "RHP Chris Veach assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-16",
+        "player": "Aaron Nixon",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated RHP Aaron Nixon from the 7-day injured list."
+      },
+      {
+        "date": "2026-05-16",
+        "player": "Luis Durango",
+        "type": "Assigned",
+        "description": "CF Luis Durango assigned to Tampa Tarpons from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-12",
+        "player": "Enmanuel Tejeda",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated SS Enmanuel Tejeda."
+      },
+      {
+        "date": "2026-05-12",
+        "player": "Tyler Wilson",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed OF Tyler Wilson on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-12",
+        "player": "Enmanuel Tejeda",
+        "type": "Assigned",
+        "description": "SS Enmanuel Tejeda assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-12",
+        "player": "Connor McGinnis",
+        "type": "Assigned",
+        "description": "2B Connor McGinnis assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-11",
+        "player": "Core Jackson",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed SS Core Jackson on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-05",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Diomedes Hernandez",
+        "type": "Assigned",
+        "description": "C Diomedes Hernandez assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-04-29",
+        "player": "Bryce Warrecker",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Bryce Warrecker on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-29",
+        "player": "Bryce Warrecker",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Bryce Warrecker on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-28",
+        "player": "Duncan Pastore",
+        "type": "Assigned",
+        "description": "3B Duncan Pastore assigned to Scranton/Wilkes-Barre RailRiders from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Bryce Cunningham",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated RHP Bryce Cunningham from the 7-day injured list."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Baron Stuart",
+        "type": "Released",
+        "description": "Hudson Valley Renegades released RHP Baron Stuart."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Thomas Balboni Jr.",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated RHP Thomas Balboni Jr. from the 7-day injured list."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Wilmy Sanchez",
+        "type": "Assigned",
+        "description": "RHP Wilmy Sanchez assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Ben Grable",
+        "type": "Assigned",
+        "description": "RHP Ben Grable assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Allen Facundo",
+        "type": "Assigned",
+        "description": "LHP Allen Facundo assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Jack Cebert",
+        "type": "Assigned",
+        "description": "RHP Jack Cebert assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-26",
+        "player": "Luis Durango",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent CF Luis Durango on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-26",
+        "player": "Luis Durango",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent CF Luis Durango on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-24",
+        "player": "Carlos Rod\u00f3n",
+        "type": "Assigned",
+        "description": "New York Yankees sent LHP Carlos Rod\u00f3n on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-23",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-23",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-23",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-21",
+        "player": "Yerry Rodr\u00edguez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Yerry Rodr\u00edguez on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-20",
+        "player": "Andrew Landry",
+        "type": "Assigned",
+        "description": "RHP Andrew Landry assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-04-17",
+        "player": "Thomas Balboni Jr.",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Thomas Balboni Jr. on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-17",
+        "player": "Thomas Balboni Jr.",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Thomas Balboni Jr. on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-17",
+        "player": "Thomas Balboni Jr.",
+        "type": "Assigned",
+        "description": "Hudson Valley Renegades sent RHP Thomas Balboni Jr. on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-17",
+        "player": "Andrew Landry",
+        "type": "Assigned",
+        "description": "RHP Andrew Landry assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-16",
+        "player": "Pico Kohn",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades transferred LHP Pico Kohn from the 7-day injured list to the 60-day injured list."
+      },
+      {
+        "date": "2026-04-15",
+        "player": "Ocean Gabonia",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed RHP Ocean Gabonia on the full-season injured list."
+      },
+      {
+        "date": "2026-04-13",
+        "player": "Baron Stuart",
+        "type": "Assigned",
+        "description": "RHP Baron Stuart assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-04-12",
+        "player": "Baron Stuart",
+        "type": "Assigned",
+        "description": "RHP Baron Stuart assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-09",
+        "player": "Tyler Wilson",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated OF Tyler Wilson from the 7-day injured list."
+      },
+      {
+        "date": "2026-04-09",
+        "player": "Brady Kirtner",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated RHP Brady Kirtner."
+      },
+      {
+        "date": "2026-04-09",
+        "player": "Brady Kirtner",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated RHP Brady Kirtner from the 7-day injured list."
+      },
+      {
+        "date": "2026-04-09",
+        "player": "Tyler Wilson",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated OF Tyler Wilson."
+      },
+      {
+        "date": "2026-04-09",
+        "player": "Pico Kohn",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed LHP Pico Kohn on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-07",
+        "player": "Aaron Nixon",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed RHP Aaron Nixon on the 7-day injured list retroactive to April 6, 2026."
+      },
+      {
+        "date": "2026-04-07",
+        "player": "Robbie Burnett",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed OF Robbie Burnett on the 7-day injured list retroactive to April 6, 2026."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Thomas Balboni Jr.",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed RHP Thomas Balboni Jr. on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Luis Durango",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed CF Luis Durango on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Bryce Warrecker",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed RHP Bryce Warrecker on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Tyler Wilson",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed OF Tyler Wilson on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Tyler Wilson",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed OF Tyler Wilson on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Brady Kirtner",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed RHP Brady Kirtner on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Brady Kirtner",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed RHP Brady Kirtner on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Bryce Cunningham",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed RHP Bryce Cunningham on the 7-day injured list."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Rory Fox",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated RHP Rory Fox."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Xavier Rivas",
+        "type": "Assigned",
+        "description": "LHP Xavier Rivas assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Aaron Nixon",
+        "type": "Assigned",
+        "description": "RHP Aaron Nixon assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Wilson Rodriguez",
+        "type": "Assigned",
+        "description": "OF Wilson Rodriguez assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Owen Cobb",
+        "type": "Assigned",
+        "description": "SS Owen Cobb assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Kyle West",
+        "type": "Assigned",
+        "description": "1B Kyle West assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Chris Kean",
+        "type": "Assigned",
+        "description": "RHP Chris Kean assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Pico Kohn",
+        "type": "Assigned",
+        "description": "LHP Pico Kohn assigned to Hudson Valley Renegades from FCL Yankees."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Tanner Bauman",
+        "type": "Assigned",
+        "description": "LHP Tanner Bauman assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Cade Smith",
+        "type": "Assigned",
+        "description": "RHP Cade Smith assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Engelth Urena",
+        "type": "Assigned",
+        "description": "C Engelth Urena assigned to Tampa Tarpons from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Luis Serna",
+        "type": "Assigned",
+        "description": "RHP Luis Serna assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Chris Veach",
+        "type": "Assigned",
+        "description": "RHP Chris Veach assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Matt Keating",
+        "type": "Assigned",
+        "description": "RHP Matt Keating assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Cole Gabrielson",
+        "type": "Assigned",
+        "description": "OF Cole Gabrielson assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Josue Gonzalez",
+        "type": "Assigned",
+        "description": "C Josue Gonzalez assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Ben Grable",
+        "type": "Assigned",
+        "description": "RHP Ben Grable assigned to Hudson Valley Renegades from FCL Yankees."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Eric Genther",
+        "type": "Assigned",
+        "description": "OF Eric Genther assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Duncan Pastore",
+        "type": "Assigned",
+        "description": "3B Duncan Pastore assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "John Cristino",
+        "type": "Assigned",
+        "description": "C John Cristino assigned to FCL Yankees from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Baron Stuart",
+        "type": "Assigned",
+        "description": "RHP Baron Stuart assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Rory Fox",
+        "type": "Assigned",
+        "description": "RHP Rory Fox assigned to Hudson Valley Renegades from FCL Yankees."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Jackson Fristoe",
+        "type": "Assigned",
+        "description": "RHP Jackson Fristoe assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Franyer Herrera",
+        "type": "Assigned",
+        "description": "LHP Franyer Herrera assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Roderick Arias",
+        "type": "Assigned",
+        "description": "SS Roderick Arias assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Jack Sokol",
+        "type": "Assigned",
+        "description": "RHP Jack Sokol assigned to Hudson Valley Renegades from Tampa Tarpons."
+      },
+      {
+        "date": "2026-03-28",
+        "player": "Sebastian Keane",
+        "type": "Released",
+        "description": "Hudson Valley Renegades released RHP Sebastian Keane."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Ocean Gabonia",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed RHP Ocean Gabonia on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Hansel Rincon",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated RHP Hansel Rincon."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Hansel Rincon",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades activated RHP Hansel Rincon."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Hansel Rincon",
+        "type": "Assigned",
+        "description": "RHP Hansel Rincon assigned to Hudson Valley Renegades from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-22",
+        "player": "Sean Paul Li\u00f1an",
+        "type": "Assigned",
+        "description": "RHP Sean Paul Li\u00f1an assigned to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Brian Hendry",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed RHP Brian Hendry on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Sebastian Keane",
+        "type": "Status Change",
+        "description": "Hudson Valley Renegades placed RHP Sebastian Keane on the 60-day injured list."
+      },
+      {
+        "date": "2026-02-11",
+        "player": "Joe Delossantos",
+        "type": "Released",
+        "description": "Hudson Valley Renegades released OF Joe Delossantos."
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Edison Vivas",
+        "type": "Released",
+        "description": "Hudson Valley Renegades released C Edison Vivas."
+      }
+    ],
+    "Somerset Patriots": [
+      {
+        "date": "2026-07-21",
+        "player": "John Cristino",
+        "type": "Status Change",
+        "description": "Somerset Patriots transferred C John Cristino to the Development List."
+      },
+      {
+        "date": "2026-07-21",
+        "player": "Cole Gabrielson",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated OF Cole Gabrielson."
+      },
+      {
+        "date": "2026-07-21",
+        "player": "Cole Gabrielson",
+        "type": "Assigned",
+        "description": "OF Cole Gabrielson assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-16",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "RHP Kevin Stevens assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-07-13",
+        "player": "Chase Chaney",
+        "type": "Released",
+        "description": "Somerset Patriots released RHP Chase Chaney."
+      },
+      {
+        "date": "2026-07-10",
+        "player": "John Cristino",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated C John Cristino from the Development List."
+      },
+      {
+        "date": "2026-07-09",
+        "player": "Nicholas Torres",
+        "type": "Released",
+        "description": "Somerset Patriots released OF Nicholas Torres."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Chris Kean",
+        "type": "Assigned",
+        "description": "RHP Chris Kean assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "description": "RHP Luis Velasquez assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "description": "SS Santiago Gomez assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Owen Cobb",
+        "type": "Assigned",
+        "description": "SS Owen Cobb assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-03",
+        "player": "Geoffrey Gilbert",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated LHP Geoffrey Gilbert from the 7-day injured list."
+      },
+      {
+        "date": "2026-07-03",
+        "player": "John Cristino",
+        "type": "Status Change",
+        "description": "Somerset Patriots transferred C John Cristino to the Development List."
+      },
+      {
+        "date": "2026-07-03",
+        "player": "Nicholas Torres",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated OF Nicholas Torres from the temporarily inactive list."
+      },
+      {
+        "date": "2026-07-03",
+        "player": "Kyle Carr",
+        "type": "Assigned",
+        "description": "LHP Kyle Carr assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-07-01",
+        "player": "Trent Grisham",
+        "type": "Assigned",
+        "description": "New York Yankees sent CF Trent Grisham on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-06-30",
+        "player": "John Cristino",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated C John Cristino from the Development List."
+      },
+      {
+        "date": "2026-06-30",
+        "player": "Nicholas Torres",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed OF Nicholas Torres on the temporarily inactive list."
+      },
+      {
+        "date": "2026-06-30",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "RHP Kevin Stevens assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-29",
+        "player": "Kevin Stevens",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated RHP Kevin Stevens from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-28",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Kevin Stevens on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-06-25",
+        "player": "Chris Veach",
+        "type": "Status Change",
+        "description": "Somerset Patriots transferred RHP Chris Veach from the 7-day injured list to the 60-day injured list."
+      },
+      {
+        "date": "2026-06-25",
+        "player": "Owen Cobb",
+        "type": "Assigned",
+        "description": "SS Owen Cobb assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-25",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "description": "SS Santiago Gomez assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-06-23",
+        "player": "Hueston Morrill",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Hueston Morrill on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-06-23",
+        "player": "Josh Moylan",
+        "type": "Assigned",
+        "description": "1B Josh Moylan assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-06-20",
+        "player": "Matt Keating",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated RHP Matt Keating from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-20",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "description": "RHP Luis Velasquez assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-20",
+        "player": "Garrett Martin",
+        "type": "Assigned",
+        "description": "OF Garrett Martin assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-20",
+        "player": "Will Brian",
+        "type": "Assigned",
+        "description": "LHP Will Brian assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-17",
+        "player": "Jace Avina",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated LF Jace Avina from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-17",
+        "player": "Cole Gabrielson",
+        "type": "Assigned",
+        "description": "OF Cole Gabrielson assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-16",
+        "player": "John Cristino",
+        "type": "Status Change",
+        "description": "Somerset Patriots transferred C John Cristino to the Development List."
+      },
+      {
+        "date": "2026-06-16",
+        "player": "Miguel Palma",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated C Miguel Palma."
+      },
+      {
+        "date": "2026-06-16",
+        "player": "John Cristino",
+        "type": "Status Change",
+        "description": "Somerset Patriots transferred C John Cristino to the Development List."
+      },
+      {
+        "date": "2026-06-16",
+        "player": "Miguel Palma",
+        "type": "Assigned",
+        "description": "C Miguel Palma assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-14",
+        "player": "Harrison Cohen",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated RHP Harrison Cohen from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-14",
+        "player": "Chris Veach",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed RHP Chris Veach on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-14",
+        "player": "Alexander Cornielle",
+        "type": "Assigned",
+        "description": "RHP Alexander Cornielle assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-14",
+        "player": "Will Brian",
+        "type": "Assigned",
+        "description": "LHP Will Brian assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-12",
+        "player": "Yerry Rodr\u00edguez",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed RHP Yerry Rodr\u00edguez on the 60-day injured list."
+      },
+      {
+        "date": "2026-06-12",
+        "player": "Duncan Pastore",
+        "type": "Status Change",
+        "description": "Somerset Patriots transferred 3B Duncan Pastore from the 7-day injured list to the 60-day injured list."
+      },
+      {
+        "date": "2026-06-12",
+        "player": "Chase Hampton",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated RHP Chase Hampton from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Tomas Frick",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated C Tomas Frick from the 60-day injured list."
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Will Brian",
+        "type": "Assigned",
+        "description": "LHP Will Brian assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Alexander Cornielle",
+        "type": "Assigned",
+        "description": "RHP Alexander Cornielle assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-10",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Luis Velasquez on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-06-10",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Kevin Stevens on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-10",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Kevin Stevens on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-09",
+        "player": "John Cristino",
+        "type": "Assigned",
+        "description": "C John Cristino assigned to Somerset Patriots from Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-09",
+        "player": "Miguel Palma",
+        "type": "Assigned",
+        "description": "C Miguel Palma assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-07",
+        "player": "Matt Keating",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed RHP Matt Keating on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Tony Rossi",
+        "type": "Assigned",
+        "description": "RHP Tony Rossi assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Abrahan Gutierrez",
+        "type": "Assigned",
+        "description": "C Abrahan Gutierrez assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-03",
+        "player": "Harrison Cohen",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed RHP Harrison Cohen on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-03",
+        "player": "Cole Gabrielson",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated OF Cole Gabrielson."
+      },
+      {
+        "date": "2026-06-03",
+        "player": "Jace Avina",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed LF Jace Avina on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-03",
+        "player": "Cole Gabrielson",
+        "type": "Assigned",
+        "description": "OF Cole Gabrielson assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-06-02",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Luis Velasquez on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-06-02",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Luis Velasquez on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Kevin Stevens on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Connor McGinnis",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated 2B Connor McGinnis."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Kevin Stevens on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Connor McGinnis",
+        "type": "Assigned",
+        "description": "2B Connor McGinnis assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "description": "SS Santiago Gomez assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Nicholas Torres",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated OF Nicholas Torres from the 7-day injured list."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Connor McGinnis",
+        "type": "Assigned",
+        "description": "2B Connor McGinnis assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Chase Hampton",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Chase Hampton on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Chase Hampton",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Chase Hampton on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-25",
+        "player": "Harrison Cohen",
+        "type": "Assigned",
+        "description": "RHP Harrison Cohen assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-25",
+        "player": "Tanner Bauman",
+        "type": "Assigned",
+        "description": "LHP Tanner Bauman assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Duncan Pastore",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed 3B Duncan Pastore on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "description": "SS Santiago Gomez assigned to Somerset Patriots from Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Tyler Hardman",
+        "type": "Assigned",
+        "description": "1B Tyler Hardman assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Kevin Verde",
+        "type": "Assigned",
+        "description": "SS Kevin Verde assigned to Somerset Patriots from FCL Yankees."
+      },
+      {
+        "date": "2026-05-21",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Luis Velasquez on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-21",
+        "player": "Tanner Bauman",
+        "type": "Assigned",
+        "description": "LHP Tanner Bauman assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-19",
+        "player": "Eric Reyzelman",
+        "type": "Assigned",
+        "description": "RHP Eric Reyzelman assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-19",
+        "player": "Chris Veach",
+        "type": "Assigned",
+        "description": "RHP Chris Veach assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-16",
+        "player": "Geoffrey Gilbert",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed LHP Geoffrey Gilbert on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-14",
+        "player": "Ben Hess",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated RHP Ben Hess from the 7-day injured list."
+      },
+      {
+        "date": "2026-05-12",
+        "player": "Connor McGinnis",
+        "type": "Assigned",
+        "description": "2B Connor McGinnis assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-05-10",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-05-10",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Chase Hampton",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Chase Hampton on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Marco Luciano",
+        "type": "Assigned",
+        "description": "OF Marco Luciano assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-04",
+        "player": "Duncan Pastore",
+        "type": "Assigned",
+        "description": "3B Duncan Pastore assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-04",
+        "player": "Kenedy Corona",
+        "type": "Assigned",
+        "description": "CF Kenedy Corona assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-02",
+        "player": "Tomas Frick",
+        "type": "Status Change",
+        "description": "Somerset Patriots transferred C Tomas Frick from the 7-day injured list to the 60-day injured list."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Diomedes Hernandez",
+        "type": "Assigned",
+        "description": "C Diomedes Hernandez assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-04-30",
+        "player": "Carlos Rod\u00f3n",
+        "type": "Assigned",
+        "description": "New York Yankees sent LHP Carlos Rod\u00f3n on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-04-30",
+        "player": "Carlos Rod\u00f3n",
+        "type": "Assigned",
+        "description": "New York Yankees sent LHP Carlos Rod\u00f3n on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-04-29",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-04-29",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-04-29",
+        "player": "George Lombard Jr.",
+        "type": "Assigned",
+        "description": "SS George Lombard Jr. assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-04-28",
+        "player": "Anthony Volpe",
+        "type": "Assigned",
+        "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-04-28",
+        "player": "Anthony Volpe",
+        "type": "Assigned",
+        "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Bailey Dees",
+        "type": "Released",
+        "description": "Somerset Patriots released RHP Bailey Dees."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Wilmy Sanchez",
+        "type": "Assigned",
+        "description": "RHP Wilmy Sanchez assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Ben Grable",
+        "type": "Assigned",
+        "description": "RHP Ben Grable assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Jack Cebert",
+        "type": "Assigned",
+        "description": "RHP Jack Cebert assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-22",
+        "player": "Jackson Castillo",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated OF Jackson Castillo from the 7-day injured list."
+      },
+      {
+        "date": "2026-04-21",
+        "player": "Abrahan Gutierrez",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated C Abrahan Gutierrez from the 7-day injured list."
+      },
+      {
+        "date": "2026-04-21",
+        "player": "Yerry Rodr\u00edguez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Yerry Rodr\u00edguez on a rehab assignment to Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-20",
+        "player": "Andrew Landry",
+        "type": "Assigned",
+        "description": "RHP Andrew Landry assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-04-19",
+        "player": "Wilmy Sanchez",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated RHP Wilmy Sanchez."
+      },
+      {
+        "date": "2026-04-19",
+        "player": "Wilmy Sanchez",
+        "type": "Assigned",
+        "description": "RHP Wilmy Sanchez assigned to Somerset Patriots."
+      },
+      {
+        "date": "2026-04-18",
+        "player": "Ben Hess",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed RHP Ben Hess on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-18",
+        "player": "Nicholas Torres",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed OF Nicholas Torres on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-18",
+        "player": "Bailey Dees",
+        "type": "Assigned",
+        "description": "RHP Bailey Dees assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-17",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-04-17",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-04-17",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-04-17",
+        "player": "Andrew Landry",
+        "type": "Assigned",
+        "description": "RHP Andrew Landry assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-15",
+        "player": "Bailey Dees",
+        "type": "Assigned",
+        "description": "RHP Bailey Dees assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-04-14",
+        "player": "Anthony Volpe",
+        "type": "Assigned",
+        "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-04-14",
+        "player": "Anthony Volpe",
+        "type": "Assigned",
+        "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Somerset Patriots."
+      },
+      {
+        "date": "2026-04-13",
+        "player": "Baron Stuart",
+        "type": "Assigned",
+        "description": "RHP Baron Stuart assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-04-12",
+        "player": "Diomedes Hernandez",
+        "type": "Status Change",
+        "description": "Somerset Patriots transferred C Diomedes Hernandez to the Development List."
+      },
+      {
+        "date": "2026-04-12",
+        "player": "Baron Stuart",
+        "type": "Assigned",
+        "description": "RHP Baron Stuart assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-04",
+        "player": "Yerry Rodr\u00edguez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Yerry Rodr\u00edguez on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-04",
+        "player": "Yerry Rodr\u00edguez",
+        "type": "Assigned",
+        "description": "Somerset Patriots sent RHP Yerry Rodr\u00edguez on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Yerry Rodr\u00edguez",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed RHP Yerry Rodr\u00edguez on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Tomas Frick",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed C Tomas Frick on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Chase Hampton",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed RHP Chase Hampton on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Kevin Stevens",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed RHP Kevin Stevens on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Jackson Castillo",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed OF Jackson Castillo on the 7-day injured list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Abrahan Gutierrez",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed C Abrahan Gutierrez on the 7-day injured list."
+      },
+      {
+        "date": "2026-03-31",
+        "player": "Adam Kloffenstein",
+        "type": "Assigned",
+        "description": "RHP Adam Kloffenstein assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Matt Keating",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated RHP Matt Keating."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Matt Keating",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated RHP Matt Keating."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Matt Keating",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated RHP Matt Keating."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Xavier Rivas",
+        "type": "Assigned",
+        "description": "LHP Xavier Rivas assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Owen Cobb",
+        "type": "Assigned",
+        "description": "SS Owen Cobb assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Cade Smith",
+        "type": "Assigned",
+        "description": "RHP Cade Smith assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Matt Keating",
+        "type": "Assigned",
+        "description": "RHP Matt Keating assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Chris Kean",
+        "type": "Assigned",
+        "description": "RHP Chris Kean assigned to Somerset Patriots from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Baron Stuart",
+        "type": "Assigned",
+        "description": "RHP Baron Stuart assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Duncan Pastore",
+        "type": "Assigned",
+        "description": "3B Duncan Pastore assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Cole Gabrielson",
+        "type": "Assigned",
+        "description": "OF Cole Gabrielson assigned to Hudson Valley Renegades from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-28",
+        "player": "Cole Ayers",
+        "type": "Released",
+        "description": "Somerset Patriots released RHP Cole Ayers."
+      },
+      {
+        "date": "2026-03-28",
+        "player": "Mason Vinyard",
+        "type": "Released",
+        "description": "Somerset Patriots released RHP Mason Vinyard."
+      },
+      {
+        "date": "2026-03-27",
+        "player": "Adam Kloffenstein",
+        "type": "Assigned",
+        "description": "RHP Adam Kloffenstein assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-27",
+        "player": "Seth Brown",
+        "type": "Assigned",
+        "description": "LF Seth Brown assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Zach Messinger",
+        "type": "Assigned",
+        "description": "RHP Zach Messinger assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Carlos Lagrange",
+        "type": "Assigned",
+        "description": "RHP Carlos Lagrange assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Danny Watson",
+        "type": "Assigned",
+        "description": "RHP Danny Watson assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Carson Coleman",
+        "type": "Assigned",
+        "description": "RHP Carson Coleman assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Travis MacGregor",
+        "type": "Assigned",
+        "description": "RHP Travis MacGregor assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Abrahan Gutierrez",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated C Abrahan Gutierrez."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Eric Reyzelman",
+        "type": "Status Change",
+        "description": "Somerset Patriots activated RHP Eric Reyzelman."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Bailey Dees",
+        "type": "Assigned",
+        "description": "RHP Bailey Dees assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Abrahan Gutierrez",
+        "type": "Assigned",
+        "description": "C Abrahan Gutierrez assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Eric Reyzelman",
+        "type": "Assigned",
+        "description": "RHP Eric Reyzelman assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Marco Luciano",
+        "type": "Assigned",
+        "description": "OF Marco Luciano assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Kenedy Corona",
+        "type": "Assigned",
+        "description": "CF Kenedy Corona assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Michael Arias",
+        "type": "Assigned",
+        "description": "RHP Michael Arias assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Brock Selvidge",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed LHP Brock Selvidge on the full-season injured list."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Luis Velasquez",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed RHP Luis Velasquez on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Cole Ayers",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed RHP Cole Ayers on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Hueston Morrill",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed RHP Hueston Morrill on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Brock Selvidge",
+        "type": "Status Change",
+        "description": "Somerset Patriots placed LHP Brock Selvidge on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-05",
+        "player": "Chase Hampton",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Chase Hampton to Somerset Patriots."
+      }
+    ],
+    "SWB RailRiders": [
+      {
+        "date": "2026-07-22",
+        "player": "Kervin Castro",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Kervin Castro to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-22",
+        "player": "Spencer Jones",
+        "type": "Recalled",
+        "description": "New York Yankees recalled CF Spencer Jones from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-21",
+        "player": "Edinson Duran",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated C Edinson Duran from the Development List."
+      },
+      {
+        "date": "2026-07-21",
+        "player": "Kyle Carr",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed LHP Kyle Carr on the 7-day injured list."
+      },
+      {
+        "date": "2026-07-21",
+        "player": "Garrett Martin",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders transferred OF Garrett Martin from the 7-day injured list to the 60-day injured list."
+      },
+      {
+        "date": "2026-07-21",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "description": "RHP Brian Hendry assigned to Scranton/Wilkes-Barre RailRiders from FCL Yankees."
+      },
+      {
+        "date": "2026-07-21",
+        "player": "Cole Gabrielson",
+        "type": "Assigned",
+        "description": "OF Cole Gabrielson assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Jake Bird",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Jake Bird."
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Elmer Rodr\u00edguez to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-19",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Elmer Rodr\u00edguez from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-19",
+        "player": "Jake Bird",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Jake Bird to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-19",
+        "player": "Kervin Castro",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Kervin Castro from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-18",
+        "player": "Alexander Cornielle",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Alexander Cornielle from the Development List."
+      },
+      {
+        "date": "2026-07-18",
+        "player": "Alexander Cornielle",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Alexander Cornielle from the Development List."
+      },
+      {
+        "date": "2026-07-18",
+        "player": "Bradley Hanner",
+        "type": "Selected",
+        "description": "New York Yankees selected the contract of RHP Bradley Hanner from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-18",
+        "player": "Bradley Hanner",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Bradley Hanner to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-17",
+        "player": "Max Fried",
+        "type": "Assigned",
+        "description": "New York Yankees sent LHP Max Fried on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-17",
+        "player": "George Lombard Jr.",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated SS George Lombard Jr. from the 7-day injured list."
+      },
+      {
+        "date": "2026-07-16",
+        "player": "Jonathan Ornelas",
+        "type": "Released",
+        "description": "Scranton/Wilkes-Barre RailRiders released SS Jonathan Ornelas."
+      },
+      {
+        "date": "2026-07-13",
+        "player": "George Lombard Jr.",
+        "type": "Assigned",
+        "description": "Scranton/Wilkes-Barre RailRiders sent SS George Lombard Jr. on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-07-13",
+        "player": "George Lombard Jr.",
+        "type": "Assigned",
+        "description": "Scranton/Wilkes-Barre RailRiders sent SS George Lombard Jr. on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-07-12",
+        "player": "Adam Kloffenstein",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders transferred RHP Adam Kloffenstein to the Development List."
+      },
+      {
+        "date": "2026-07-09",
+        "player": "Dom Hamel",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Dom Hamel from the Development List."
+      },
+      {
+        "date": "2026-07-09",
+        "player": "Alexander Cornielle",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders transferred RHP Alexander Cornielle to the Development List."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Owen Cobb",
+        "type": "Assigned",
+        "description": "SS Owen Cobb assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Chris Kean",
+        "type": "Assigned",
+        "description": "RHP Chris Kean assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-07-06",
+        "player": "Dylan Coleman",
+        "type": "Released",
+        "description": "Scranton/Wilkes-Barre RailRiders released RHP Dylan Coleman."
+      },
+      {
+        "date": "2026-07-05",
+        "player": "Brendan Beck",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Brendan Beck to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-05",
+        "player": "Angel Chivilli",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Angel Chivilli from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-04",
+        "player": "Spencer Jones",
+        "type": "Optioned",
+        "description": "New York Yankees optioned CF Spencer Jones to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-04",
+        "player": "Brendan Beck",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-03",
+        "player": "Kervin Castro",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Kervin Castro from the 7-day injured list."
+      },
+      {
+        "date": "2026-07-03",
+        "player": "Edinson Duran",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders transferred C Edinson Duran to the Development List."
+      },
+      {
+        "date": "2026-07-03",
+        "player": "Oswaldo Cabrera",
+        "type": "Optioned",
+        "description": "New York Yankees optioned 3B Oswaldo Cabrera to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-07-03",
+        "player": "Kyle Carr",
+        "type": "Assigned",
+        "description": "LHP Kyle Carr assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-07-02",
+        "player": "Dom Hamel",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders transferred RHP Dom Hamel to the Development List."
+      },
+      {
+        "date": "2026-07-02",
+        "player": "Edinson Duran",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated C Edinson Duran from the Development List."
+      },
+      {
+        "date": "2026-07-02",
+        "player": "Rafael Montero",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Rafael Montero from the temporarily inactive list."
+      },
+      {
+        "date": "2026-07-02",
+        "player": "Rafael Montero",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Rafael Montero from the temporarily inactive list."
+      },
+      {
+        "date": "2026-07-02",
+        "player": "Payton Henry",
+        "type": "Released",
+        "description": "Scranton/Wilkes-Barre RailRiders released C Payton Henry."
+      },
+      {
+        "date": "2026-07-02",
+        "player": "Carlos Lagrange",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Carlos Lagrange on the 7-day injured list."
+      },
+      {
+        "date": "2026-07-02",
+        "player": "Yovanny Cruz",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Yovanny Cruz to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-30",
+        "player": "Yovanny Cruz",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Yovanny Cruz from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-30",
+        "player": "Yerry De los Santos",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-29",
+        "player": "Garrett Martin",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed OF Garrett Martin on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-29",
+        "player": "Garrett Martin",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed OF Garrett Martin on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-29",
+        "player": "Jake Bird",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Jake Bird from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-26",
+        "player": "J.C. Escarra",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated C J.C. Escarra."
+      },
+      {
+        "date": "2026-06-26",
+        "player": "J.C. Escarra",
+        "type": "Optioned",
+        "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-25",
+        "player": "Rafael Montero",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Rafael Montero on the temporarily inactive list."
+      },
+      {
+        "date": "2026-06-25",
+        "player": "Rafael Montero",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Rafael Montero on the temporarily inactive list."
+      },
+      {
+        "date": "2026-06-25",
+        "player": "Owen Cobb",
+        "type": "Assigned",
+        "description": "SS Owen Cobb assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-24",
+        "player": "Oswaldo Cabrera",
+        "type": "Recalled",
+        "description": "New York Yankees recalled 3B Oswaldo Cabrera from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-23",
+        "player": "J.C. Escarra",
+        "type": "Recalled",
+        "description": "New York Yankees recalled C J.C. Escarra from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-22",
+        "player": "Yerry De los Santos",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-22",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Elmer Rodr\u00edguez to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-21",
+        "player": "Eric Reyzelman",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Eric Reyzelman from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-21",
+        "player": "Jake Bird",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Jake Bird."
+      },
+      {
+        "date": "2026-06-21",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Elmer Rodr\u00edguez from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-21",
+        "player": "Jake Bird",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Jake Bird to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-21",
+        "player": "J.C. Escarra",
+        "type": "Optioned",
+        "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-20",
+        "player": "Garrett Martin",
+        "type": "Assigned",
+        "description": "OF Garrett Martin assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-20",
+        "player": "Will Brian",
+        "type": "Assigned",
+        "description": "LHP Will Brian assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-18",
+        "player": "George Lombard Jr.",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed SS George Lombard Jr. on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-18",
+        "player": "Peter Strzelecki",
+        "type": "Released",
+        "description": "Scranton/Wilkes-Barre RailRiders released RHP Peter Strzelecki."
+      },
+      {
+        "date": "2026-06-17",
+        "player": "Cole Gabrielson",
+        "type": "Assigned",
+        "description": "OF Cole Gabrielson assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-16",
+        "player": "Austin Wells",
+        "type": "Assigned",
+        "description": "New York Yankees sent C Austin Wells on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-16",
+        "player": "Payton Henry",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated C Payton Henry from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-16",
+        "player": "Miguel Palma",
+        "type": "Assigned",
+        "description": "C Miguel Palma assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-14",
+        "player": "Seth Brown",
+        "type": "Released",
+        "description": "Scranton/Wilkes-Barre RailRiders released LF Seth Brown."
+      },
+      {
+        "date": "2026-06-14",
+        "player": "Will Brian",
+        "type": "Assigned",
+        "description": "LHP Will Brian assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-14",
+        "player": "Alexander Cornielle",
+        "type": "Assigned",
+        "description": "RHP Alexander Cornielle assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-13",
+        "player": "Edinson Duran",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders transferred C Edinson Duran to the Development List."
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Will Brian",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated LHP Will Brian."
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Angel Chivilli",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Angel Chivilli to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Alexander Cornielle",
+        "type": "Assigned",
+        "description": "RHP Alexander Cornielle assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Will Brian",
+        "type": "Assigned",
+        "description": "LHP Will Brian assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-10",
+        "player": "Angel Chivilli",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Angel Chivilli on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-09",
+        "player": "Miguel Palma",
+        "type": "Assigned",
+        "description": "C Miguel Palma assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-06",
+        "player": "Yanquiel Fern\u00e1ndez",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RF Yanquiel Fern\u00e1ndez from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-06",
+        "player": "Yanquiel Fern\u00e1ndez",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RF Yanquiel Fern\u00e1ndez from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-06",
+        "player": "J.C. Escarra",
+        "type": "Recalled",
+        "description": "New York Yankees recalled C J.C. Escarra from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-06",
+        "player": "Ali S\u00e1nchez",
+        "type": "Selected",
+        "description": "New York Yankees selected the contract of C Ali S\u00e1nchez from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Jasson Dom\u00ednguez",
+        "type": "Assigned",
+        "description": "New York Yankees sent LF Jasson Dom\u00ednguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Abrahan Gutierrez",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated C Abrahan Gutierrez."
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Payton Henry",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed C Payton Henry on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Marco Luciano",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated OF Marco Luciano from the 7-day injured list."
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Jasson Dom\u00ednguez",
+        "type": "Assigned",
+        "description": "New York Yankees sent LF Jasson Dom\u00ednguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Eric Reyzelman",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Eric Reyzelman on the 7-day injured list."
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Spencer Jones",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RF Spencer Jones from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Abrahan Gutierrez",
+        "type": "Assigned",
+        "description": "C Abrahan Gutierrez assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-06-05",
+        "player": "J.C. Escarra",
+        "type": "Optioned",
+        "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-06-04",
+        "player": "Alexander Cornielle",
+        "type": "Assigned",
+        "description": "Scranton/Wilkes-Barre RailRiders sent RHP Alexander Cornielle on a rehab assignment to Tampa Tarpons."
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Seth Brown",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated LF Seth Brown from the temporarily inactive list."
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Yanquiel Fern\u00e1ndez",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RF Yanquiel Fern\u00e1ndez on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Seth Brown",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed LF Seth Brown on the temporarily inactive list."
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Edinson Duran",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated C Edinson Duran from the Development List."
+      },
+      {
+        "date": "2026-05-25",
+        "player": "Edinson Duran",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders transferred C Edinson Duran to the Development List."
+      },
+      {
+        "date": "2026-05-25",
+        "player": "Harrison Cohen",
+        "type": "Assigned",
+        "description": "RHP Harrison Cohen assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Tyler Hardman",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated 1B Tyler Hardman."
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Peter Strzelecki",
+        "type": "Assigned",
+        "description": "RHP Peter Strzelecki assigned to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Tyler Hardman",
+        "type": "Assigned",
+        "description": "1B Tyler Hardman assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-22",
+        "player": "Marco Luciano",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed OF Marco Luciano on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-22",
+        "player": "Yovanny Cruz",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Yovanny Cruz to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-22",
+        "player": "Spencer Jones",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RF Spencer Jones to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-21",
+        "player": "Alexander Cornielle",
+        "type": "Assigned",
+        "description": "Scranton/Wilkes-Barre RailRiders sent RHP Alexander Cornielle on a rehab assignment to FCL Yankees."
+      },
+      {
+        "date": "2026-05-19",
+        "player": "Eric Reyzelman",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Eric Reyzelman."
+      },
+      {
+        "date": "2026-05-19",
+        "player": "Eric Reyzelman",
+        "type": "Assigned",
+        "description": "RHP Eric Reyzelman assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-18",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Elmer Rodr\u00edguez to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-18",
+        "player": "Yovanny Cruz",
+        "type": "Selected",
+        "description": "New York Yankees selected the contract of RHP Yovanny Cruz from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-16",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-16",
+        "player": "Gerrit Cole",
+        "type": "Assigned",
+        "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-16",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Elmer Rodr\u00edguez from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-12",
+        "player": "Anthony Volpe",
+        "type": "Recalled",
+        "description": "New York Yankees recalled SS Anthony Volpe from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-10",
+        "player": "Kervin Castro",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Kervin Castro on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-10",
+        "player": "Kervin Castro",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Kervin Castro to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Luis Gil",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Luis Gil on the 7-day injured list."
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Kervin Castro",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Kervin Castro from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Spencer Jones",
+        "type": "Recalled",
+        "description": "New York Yankees recalled CF Spencer Jones from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Brendan Beck",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Brendan Beck to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Marco Luciano",
+        "type": "Assigned",
+        "description": "OF Marco Luciano assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-07",
+        "player": "Yerry De los Santos",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Yerry De los Santos."
+      },
+      {
+        "date": "2026-05-07",
+        "player": "Brendan Beck",
+        "type": "Selected",
+        "description": "New York Yankees selected the contract of RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-07",
+        "player": "Yerry De los Santos",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-06",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Elmer Rodr\u00edguez."
+      },
+      {
+        "date": "2026-05-06",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Elmer Rodr\u00edguez to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-06",
+        "player": "Yerry De los Santos",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-05",
+        "player": "Carlos Rod\u00f3n",
+        "type": "Assigned",
+        "description": "New York Yankees sent LHP Carlos Rod\u00f3n on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-04",
+        "player": "Kenedy Corona",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated CF Kenedy Corona."
+      },
+      {
+        "date": "2026-05-04",
+        "player": "Kenedy Corona",
+        "type": "Assigned",
+        "description": "CF Kenedy Corona assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-05-04",
+        "player": "Anthony Volpe",
+        "type": "Optioned",
+        "description": "New York Yankees optioned SS Anthony Volpe to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-04",
+        "player": "Duncan Pastore",
+        "type": "Assigned",
+        "description": "3B Duncan Pastore assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-05-01",
+        "player": "Paul DeJong",
+        "type": "Released",
+        "description": "Scranton/Wilkes-Barre RailRiders released 3B Paul DeJong."
+      },
+      {
+        "date": "2026-04-29",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Elmer Rodr\u00edguez from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-29",
+        "player": "George Lombard Jr.",
+        "type": "Assigned",
+        "description": "SS George Lombard Jr. assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-04-28",
+        "player": "Edinson Duran",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated C Edinson Duran from the Development List."
+      },
+      {
+        "date": "2026-04-28",
+        "player": "Max Schuemann",
+        "type": "Recalled",
+        "description": "New York Yankees recalled 3B Max Schuemann from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-28",
+        "player": "Duncan Pastore",
+        "type": "Assigned",
+        "description": "3B Duncan Pastore assigned to Scranton/Wilkes-Barre RailRiders from Hudson Valley Renegades."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Luis Gil",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Luis Gil."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Jasson Dom\u00ednguez",
+        "type": "Recalled",
+        "description": "New York Yankees recalled LF Jasson Dom\u00ednguez from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Luis Gil",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Luis Gil to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-24",
+        "player": "Rafael Montero",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Rafael Montero from the Development List."
+      },
+      {
+        "date": "2026-04-22",
+        "player": "Jake Bird",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Jake Bird from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-21",
+        "player": "Anthony Volpe",
+        "type": "Assigned",
+        "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-21",
+        "player": "Dylan Coleman",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Dylan Coleman from the 7-day injured list."
+      },
+      {
+        "date": "2026-04-18",
+        "player": "Bailey Dees",
+        "type": "Assigned",
+        "description": "RHP Bailey Dees assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-16",
+        "player": "Edinson Duran",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders transferred C Edinson Duran to the Development List."
+      },
+      {
+        "date": "2026-04-15",
+        "player": "Yerry De los Santos",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-15",
+        "player": "Bailey Dees",
+        "type": "Assigned",
+        "description": "RHP Bailey Dees assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-04-15",
+        "player": "Angel Chivilli",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Angel Chivilli from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-14",
+        "player": "Yerry De los Santos",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-14",
+        "player": "Jake Bird",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Jake Bird to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-11",
+        "player": "Edinson Duran",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated C Edinson Duran."
+      },
+      {
+        "date": "2026-04-10",
+        "player": "Luis Gil",
+        "type": "Recalled",
+        "description": "New York Yankees recalled RHP Luis Gil from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Edinson Duran",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders transferred C Edinson Duran to the Development List."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Elmer Rodr\u00edguez from the temporarily inactive list."
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Seth Brown",
+        "type": "Assigned",
+        "description": "LF Seth Brown assigned to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-04-01",
+        "player": "Rafael Montero",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders transferred RHP Rafael Montero to the Development List."
+      },
+      {
+        "date": "2026-03-31",
+        "player": "Adam Kloffenstein",
+        "type": "Assigned",
+        "description": "RHP Adam Kloffenstein assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-27",
+        "player": "Travis MacGregor",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Travis MacGregor on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-27",
+        "player": "Luis Garcia",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Luis Garcia on the full-season injured list."
+      },
+      {
+        "date": "2026-03-27",
+        "player": "Luis Garcia",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Luis Garcia on the 7-day injured list."
+      },
+      {
+        "date": "2026-03-27",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Elmer Rodr\u00edguez on the temporarily inactive list."
+      },
+      {
+        "date": "2026-03-27",
+        "player": "Dylan Coleman",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Dylan Coleman on the 7-day injured list."
+      },
+      {
+        "date": "2026-03-27",
+        "player": "Luis Garcia",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Luis Garcia on the full-season injured list."
+      },
+      {
+        "date": "2026-03-27",
+        "player": "Seth Brown",
+        "type": "Assigned",
+        "description": "LF Seth Brown assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-27",
+        "player": "Adam Kloffenstein",
+        "type": "Assigned",
+        "description": "RHP Adam Kloffenstein assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Danny Watson",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Danny Watson."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Carson Coleman",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Carson Coleman."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Travis MacGregor",
+        "type": "Assigned",
+        "description": "RHP Travis MacGregor assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Carlos Lagrange",
+        "type": "Assigned",
+        "description": "RHP Carlos Lagrange assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Zach Messinger",
+        "type": "Assigned",
+        "description": "RHP Zach Messinger assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Carson Coleman",
+        "type": "Assigned",
+        "description": "RHP Carson Coleman assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-26",
+        "player": "Danny Watson",
+        "type": "Assigned",
+        "description": "RHP Danny Watson assigned to Scranton/Wilkes-Barre RailRiders from Somerset Patriots."
+      },
+      {
+        "date": "2026-03-25",
+        "player": "Randal Grichuk",
+        "type": "Selected",
+        "description": "New York Yankees selected the contract of RF Randal Grichuk from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-25",
+        "player": "Luis Gil",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Luis Gil to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Eric Reyzelman",
+        "type": "Assigned",
+        "description": "RHP Eric Reyzelman assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Marco Luciano",
+        "type": "Assigned",
+        "description": "OF Marco Luciano assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Hansel Rincon",
+        "type": "Assigned",
+        "description": "RHP Hansel Rincon assigned to Hudson Valley Renegades from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Abrahan Gutierrez",
+        "type": "Assigned",
+        "description": "C Abrahan Gutierrez assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Kenedy Corona",
+        "type": "Assigned",
+        "description": "CF Kenedy Corona assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Michael Arias",
+        "type": "Assigned",
+        "description": "RHP Michael Arias assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Bailey Dees",
+        "type": "Assigned",
+        "description": "RHP Bailey Dees assigned to Somerset Patriots from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-22",
+        "player": "Luis Garcia",
+        "type": "Assigned",
+        "description": "RHP Luis Garcia assigned to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-21",
+        "player": "Max Schuemann",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated 3B Max Schuemann."
+      },
+      {
+        "date": "2026-03-21",
+        "player": "Oswaldo Cabrera",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated 3B Oswaldo Cabrera."
+      },
+      {
+        "date": "2026-03-21",
+        "player": "Oswaldo Cabrera",
+        "type": "Optioned",
+        "description": "New York Yankees optioned 3B Oswaldo Cabrera to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-21",
+        "player": "Max Schuemann",
+        "type": "Optioned",
+        "description": "New York Yankees optioned 3B Max Schuemann to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-20",
+        "player": "Jasson Dom\u00ednguez",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated LF Jasson Dom\u00ednguez."
+      },
+      {
+        "date": "2026-03-20",
+        "player": "Kervin Castro",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Kervin Castro to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-20",
+        "player": "Jasson Dom\u00ednguez",
+        "type": "Optioned",
+        "description": "New York Yankees optioned LF Jasson Dom\u00ednguez to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-20",
+        "player": "Yerry De los Santos",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-19",
+        "player": "Angel Chivilli",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Angel Chivilli to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Alexander Cornielle",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Alexander Cornielle on the 60-day injured list."
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Antonio Gomez",
+        "type": "Assigned",
+        "description": "C Antonio Gomez assigned to Tampa Tarpons from Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-09",
+        "player": "Spencer Jones",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated CF Spencer Jones."
+      },
+      {
+        "date": "2026-03-09",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Optioned",
+        "description": "New York Yankees optioned RHP Elmer Rodr\u00edguez to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-03-09",
+        "player": "Spencer Jones",
+        "type": "Optioned",
+        "description": "New York Yankees optioned CF Spencer Jones to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-02-25",
+        "player": "Randal Grichuk",
+        "type": "Assigned",
+        "description": "RF Randal Grichuk assigned to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-02-16",
+        "player": "Yanquiel Fern\u00e1ndez",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RF Yanquiel Fern\u00e1ndez."
+      },
+      {
+        "date": "2026-02-16",
+        "player": "Yanquiel Fern\u00e1ndez",
+        "type": "Outrighted",
+        "description": "New York Yankees sent RF Yanquiel Fern\u00e1ndez outright to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-02-13",
+        "player": "Rafael Montero",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders placed RHP Rafael Montero on the restricted list."
+      },
+      {
+        "date": "2026-02-13",
+        "player": "Rafael Montero",
+        "type": "Assigned",
+        "description": "RHP Rafael Montero assigned to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-02-09",
+        "player": "Braden Shewmake",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated SS Braden Shewmake."
+      },
+      {
+        "date": "2026-02-09",
+        "player": "Braden Shewmake",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated SS Braden Shewmake."
+      },
+      {
+        "date": "2026-02-09",
+        "player": "Dom Hamel",
+        "type": "Outrighted",
+        "description": "New York Yankees sent RHP Dom Hamel outright to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-02-09",
+        "player": "Braden Shewmake",
+        "type": "Outrighted",
+        "description": "New York Yankees sent SS Braden Shewmake outright to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-02-03",
+        "player": "Marco Luciano",
+        "type": "Outrighted",
+        "description": "New York Yankees sent OF Marco Luciano outright to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-01-18",
+        "player": "Seth Brown",
+        "type": "Assigned",
+        "description": "LF Seth Brown assigned to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-01-17",
+        "player": "Dylan Coleman",
+        "type": "Assigned",
+        "description": "RHP Dylan Coleman assigned to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-01-17",
+        "player": "Dylan Coleman",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated RHP Dylan Coleman."
+      },
+      {
+        "date": "2026-01-08",
+        "player": "Paul DeJong",
+        "type": "Assigned",
+        "description": "3B Paul DeJong assigned to Scranton/Wilkes-Barre RailRiders."
+      },
+      {
+        "date": "2026-01-08",
+        "player": "Paul DeJong",
+        "type": "Status Change",
+        "description": "Scranton/Wilkes-Barre RailRiders activated 3B Paul DeJong."
+      }
+    ]
   }
 }
