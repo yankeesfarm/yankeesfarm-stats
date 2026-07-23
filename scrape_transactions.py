@@ -100,7 +100,8 @@ def build_dataset():
                 "date": t.get("date"),
                 "player": t.get("person", {}).get("fullName", ""),
                 "type": t.get("typeDesc", ""),
-                "description": t.get("description", ""),
+                "fromTeam": t.get("fromTeam", {}).get("name", ""),
+                "toTeam": t.get("toTeam", {}).get("name", ""),
             })
         cleaned.sort(key=lambda x: x["date"] or "", reverse=True)
         teams_data[canonical] = cleaned
