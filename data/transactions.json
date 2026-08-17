@@ -1,7 +1,7 @@
 {
   "org": "NYY",
   "season": 2026,
-  "updated_at": "2026-08-16T09:58:42.803772+00:00",
+  "updated_at": "2026-08-17T10:52:17.024287+00:00",
   "teams": {
     "DSL Bombers": [
       {
@@ -4509,6 +4509,13 @@
     ],
     "Somerset Patriots": [
       {
+        "date": "2026-08-16",
+        "player": "Core Jackson",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
+      {
         "date": "2026-08-14",
         "player": "Tyler Boudreau",
         "type": "Assigned",
@@ -4538,13 +4545,6 @@
       },
       {
         "date": "2026-08-11",
-        "player": "Hayden Merda",
-        "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-08-11",
         "player": "Core Jackson",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
@@ -4552,7 +4552,7 @@
       },
       {
         "date": "2026-08-11",
-        "player": "Xavier Rivas",
+        "player": "Hayden Merda",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -4563,6 +4563,13 @@
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-08-11",
+        "player": "Xavier Rivas",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-08-09",
@@ -4615,14 +4622,14 @@
       },
       {
         "date": "2026-08-03",
-        "player": "Tomas Frick",
+        "player": "John Cristino",
         "type": "Released",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-08-03",
-        "player": "John Cristino",
+        "player": "Tomas Frick",
         "type": "Released",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -4643,13 +4650,6 @@
       },
       {
         "date": "2026-07-28",
-        "player": "DJ Gladney",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-07-28",
         "player": "Matt Keating",
         "type": "Status Change",
         "fromTeam": "",
@@ -4664,16 +4664,9 @@
       },
       {
         "date": "2026-07-28",
-        "player": "Rory Fox",
-        "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-07-28",
-        "player": "Luis Durango",
-        "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
+        "player": "DJ Gladney",
+        "type": "Status Change",
+        "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -4684,22 +4677,36 @@
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
+        "date": "2026-07-28",
+        "player": "Luis Durango",
+        "type": "Assigned",
+        "fromTeam": "Hudson Valley Renegades",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-07-28",
+        "player": "Rory Fox",
+        "type": "Assigned",
+        "fromTeam": "Hudson Valley Renegades",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-07-25",
+        "player": "Hueston Morrill",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-07-25",
+        "player": "Hueston Morrill",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
+      {
         "date": "2026-07-25",
         "player": "Jack Cebert",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-07-25",
-        "player": "Hueston Morrill",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-07-25",
-        "player": "Hueston Morrill",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -4762,17 +4769,17 @@
       },
       {
         "date": "2026-07-07",
-        "player": "Santiago Gomez",
-        "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-07-07",
         "player": "Luis Velasquez",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-07-07",
@@ -4783,7 +4790,7 @@
       },
       {
         "date": "2026-07-03",
-        "player": "Geoffrey Gilbert",
+        "player": "Nicholas Torres",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -4797,7 +4804,7 @@
       },
       {
         "date": "2026-07-03",
-        "player": "Nicholas Torres",
+        "player": "Geoffrey Gilbert",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -4895,13 +4902,6 @@
       },
       {
         "date": "2026-06-20",
-        "player": "Will Brian",
-        "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-06-20",
         "player": "Garrett Martin",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
@@ -4913,6 +4913,13 @@
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-06-20",
+        "player": "Will Brian",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-06-17",
@@ -4930,14 +4937,14 @@
       },
       {
         "date": "2026-06-16",
-        "player": "John Cristino",
+        "player": "Miguel Palma",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-06-16",
-        "player": "Miguel Palma",
+        "player": "John Cristino",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -4954,6 +4961,13 @@
         "player": "Miguel Palma",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-06-14",
+        "player": "Harrison Cohen",
+        "type": "Status Change",
+        "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -4972,10 +4986,10 @@
       },
       {
         "date": "2026-06-14",
-        "player": "Harrison Cohen",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
+        "player": "Alexander Cornielle",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-06-14",
@@ -4985,15 +4999,8 @@
         "toTeam": "Somerset Patriots"
       },
       {
-        "date": "2026-06-14",
-        "player": "Alexander Cornielle",
-        "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
         "date": "2026-06-12",
-        "player": "Chase Hampton",
+        "player": "Duncan Pastore",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5007,7 +5014,7 @@
       },
       {
         "date": "2026-06-12",
-        "player": "Duncan Pastore",
+        "player": "Chase Hampton",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5021,17 +5028,17 @@
       },
       {
         "date": "2026-06-11",
-        "player": "Alexander Cornielle",
-        "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-06-11",
         "player": "Will Brian",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Alexander Cornielle",
+        "type": "Assigned",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-06-10",
@@ -5077,28 +5084,21 @@
       },
       {
         "date": "2026-06-05",
-        "player": "Tony Rossi",
-        "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-06-05",
         "player": "Abrahan Gutierrez",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
-        "date": "2026-06-03",
-        "player": "Harrison Cohen",
-        "type": "Status Change",
-        "fromTeam": "",
+        "date": "2026-06-05",
+        "player": "Tony Rossi",
+        "type": "Assigned",
+        "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-06-03",
-        "player": "Cole Gabrielson",
+        "player": "Harrison Cohen",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5113,6 +5113,13 @@
       {
         "date": "2026-06-03",
         "player": "Cole Gabrielson",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-06-03",
+        "player": "Cole Gabrielson",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
@@ -5154,17 +5161,17 @@
       },
       {
         "date": "2026-05-30",
-        "player": "Santiago Gomez",
-        "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-05-30",
         "player": "Connor McGinnis",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-05-30",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-05-27",
@@ -5217,6 +5224,13 @@
       },
       {
         "date": "2026-05-23",
+        "player": "Kevin Verde",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-05-23",
         "player": "Santiago Gomez",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
@@ -5228,13 +5242,6 @@
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-05-23",
-        "player": "Kevin Verde",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-05-21",
@@ -5252,17 +5259,17 @@
       },
       {
         "date": "2026-05-19",
-        "player": "Chris Veach",
-        "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-05-19",
         "player": "Eric Reyzelman",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-05-19",
+        "player": "Chris Veach",
+        "type": "Assigned",
+        "fromTeam": "Hudson Valley Renegades",
+        "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-05-16",
@@ -5399,6 +5406,13 @@
       },
       {
         "date": "2026-04-27",
+        "player": "Jack Cebert",
+        "type": "Assigned",
+        "fromTeam": "Hudson Valley Renegades",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-04-27",
         "player": "Ben Grable",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
@@ -5410,13 +5424,6 @@
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-04-27",
-        "player": "Jack Cebert",
-        "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-04-22",
@@ -5462,14 +5469,14 @@
       },
       {
         "date": "2026-04-18",
-        "player": "Nicholas Torres",
+        "player": "Ben Hess",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-04-18",
-        "player": "Ben Hess",
+        "player": "Nicholas Torres",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5567,28 +5574,7 @@
       },
       {
         "date": "2026-04-02",
-        "player": "Tomas Frick",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-04-02",
-        "player": "Kevin Stevens",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-04-02",
         "player": "Abrahan Gutierrez",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-04-02",
-        "player": "Chase Hampton",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5603,6 +5589,27 @@
       {
         "date": "2026-04-02",
         "player": "Jackson Castillo",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Tomas Frick",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Chase Hampton",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Kevin Stevens",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5637,6 +5644,27 @@
       },
       {
         "date": "2026-03-30",
+        "player": "Baron Stuart",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Owen Cobb",
+        "type": "Assigned",
+        "fromTeam": "Hudson Valley Renegades",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Cade Smith",
+        "type": "Assigned",
+        "fromTeam": "Hudson Valley Renegades",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-03-30",
         "player": "Matt Keating",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
@@ -5644,7 +5672,7 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Owen Cobb",
+        "player": "Xavier Rivas",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
@@ -5665,42 +5693,21 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Baron Stuart",
-        "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-03-30",
         "player": "Duncan Pastore",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Hudson Valley Renegades"
       },
       {
-        "date": "2026-03-30",
-        "player": "Xavier Rivas",
-        "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-03-30",
-        "player": "Cade Smith",
-        "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "Somerset Patriots"
-      },
-      {
         "date": "2026-03-28",
-        "player": "Mason Vinyard",
+        "player": "Cole Ayers",
         "type": "Released",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-28",
-        "player": "Cole Ayers",
+        "player": "Mason Vinyard",
         "type": "Released",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5721,6 +5728,13 @@
       },
       {
         "date": "2026-03-26",
+        "player": "Carlos Lagrange",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-03-26",
         "player": "Zach Messinger",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
@@ -5728,7 +5742,7 @@
       },
       {
         "date": "2026-03-26",
-        "player": "Carlos Lagrange",
+        "player": "Carson Coleman",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -5748,20 +5762,6 @@
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
-        "date": "2026-03-26",
-        "player": "Carson Coleman",
-        "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-03-23",
-        "player": "Eric Reyzelman",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
-      },
-      {
         "date": "2026-03-23",
         "player": "Abrahan Gutierrez",
         "type": "Status Change",
@@ -5771,8 +5771,8 @@
       {
         "date": "2026-03-23",
         "player": "Eric Reyzelman",
-        "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "type": "Status Change",
+        "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -5791,6 +5791,13 @@
       },
       {
         "date": "2026-03-23",
+        "player": "Eric Reyzelman",
+        "type": "Assigned",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-03-23",
         "player": "Abrahan Gutierrez",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -5798,14 +5805,14 @@
       },
       {
         "date": "2026-03-23",
-        "player": "Kenedy Corona",
+        "player": "Michael Arias",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-23",
-        "player": "Michael Arias",
+        "player": "Kenedy Corona",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
