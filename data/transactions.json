@@ -1,7 +1,7 @@
 {
   "org": "NYY",
   "season": 2026,
-  "updated_at": "2026-08-20T10:52:25.767588+00:00",
+  "updated_at": "2026-08-21T09:53:01.246896+00:00",
   "teams": {
     "DSL Bombers": [
       {
@@ -34,14 +34,21 @@
       },
       {
         "date": "2026-07-28",
-        "player": "Stalen Ramirez",
+        "player": "Alfiery Matos",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-07-28",
-        "player": "Alfiery Matos",
+        "player": "Stalen Ramirez",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-07-19",
+        "player": "Poly Ojeda",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "DSL NYY Yankees"
@@ -52,13 +59,6 @@
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-07-19",
-        "player": "Poly Ojeda",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-07-14",
@@ -76,17 +76,17 @@
       },
       {
         "date": "2026-07-09",
-        "player": "John Rosillo",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-07-09",
         "player": "Kenneth Melendez",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-07-09",
+        "player": "John Rosillo",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-07-07",
@@ -160,20 +160,6 @@
       },
       {
         "date": "2026-05-29",
-        "player": "John Rosillo",
-        "type": "Assigned",
-        "fromTeam": "",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-29",
-        "player": "Sebastian Pinto",
-        "type": "Assigned",
-        "fromTeam": "",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-29",
         "player": "Poly Ojeda",
         "type": "Assigned",
         "fromTeam": "",
@@ -181,7 +167,21 @@
       },
       {
         "date": "2026-05-29",
+        "player": "John Rosillo",
+        "type": "Assigned",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-29",
         "player": "Germayhoni Beltre",
+        "type": "Assigned",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Sebastian Pinto",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "DSL NYY Bombers"
@@ -216,14 +216,7 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Juan Torres",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Alfiery Matos",
+        "player": "Carlos Hampshire",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
@@ -237,28 +230,7 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Sebastian Castillo",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Oscar Vasquez",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-27",
         "player": "Mani Cedeno",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Adrian Feliz",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
@@ -279,6 +251,13 @@
       },
       {
         "date": "2026-05-27",
+        "player": "Sebastian Castillo",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
         "player": "Alfred Ciriaco",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
@@ -286,17 +265,38 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Carlos Hampshire",
+        "player": "Stalen Ramirez",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
       },
       {
         "date": "2026-05-27",
-        "player": "Stalen Ramirez",
+        "player": "Oscar Vasquez",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Adrian Feliz",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Alfiery Matos",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Juan Torres",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-05-21",
@@ -349,13 +349,6 @@
       },
       {
         "date": "2026-02-02",
-        "player": "Angel Ventura",
-        "type": "Released",
-        "fromTeam": "",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-02-02",
         "player": "Wilfrido Bido",
         "type": "Released",
         "fromTeam": "",
@@ -370,14 +363,21 @@
       },
       {
         "date": "2026-02-02",
-        "player": "Leni Done",
+        "player": "Angel Ventura",
+        "type": "Released",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Carlos Rondon",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-02-02",
-        "player": "Carlos Rondon",
+        "player": "Leni Done",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "FCL Yankees"
@@ -391,6 +391,13 @@
       }
     ],
     "DSL Yankees": [
+      {
+        "date": "2026-08-19",
+        "player": "Yefreiny De Paula",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Yankees"
+      },
       {
         "date": "2026-08-19",
         "player": "Yefreiny De Paula",
@@ -442,6 +449,13 @@
       },
       {
         "date": "2026-07-28",
+        "player": "Alfiery Matos",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-07-28",
         "player": "Stalen Ramirez",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
@@ -453,13 +467,6 @@
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-07-28",
-        "player": "Alfiery Matos",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-07-27",
@@ -484,15 +491,15 @@
       },
       {
         "date": "2026-07-15",
-        "player": "Jose Lavagnino",
-        "type": "Status Change",
+        "player": "Braulio Jaquez",
+        "type": "Assigned",
         "fromTeam": "",
         "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-07-15",
-        "player": "Braulio Jaquez",
-        "type": "Assigned",
+        "player": "Jose Lavagnino",
+        "type": "Status Change",
         "fromTeam": "",
         "toTeam": "DSL NYY Yankees"
       },
@@ -526,24 +533,17 @@
       },
       {
         "date": "2026-07-07",
-        "player": "Breidy Adames",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-07-07",
         "player": "Lenin Caceres",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "DSL NYY Yankees"
       },
       {
-        "date": "2026-07-05",
-        "player": "Adrian Feliz",
+        "date": "2026-07-07",
+        "player": "Breidy Adames",
         "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
       },
       {
         "date": "2026-07-05",
@@ -551,6 +551,13 @@
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-07-05",
+        "player": "Adrian Feliz",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-06-27",
@@ -575,13 +582,6 @@
       },
       {
         "date": "2026-05-29",
-        "player": "Yostin Pena",
-        "type": "Assigned",
-        "fromTeam": "",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-05-29",
         "player": "Cesar Vivanco",
         "type": "Assigned",
         "fromTeam": "",
@@ -589,14 +589,21 @@
       },
       {
         "date": "2026-05-29",
-        "player": "Victor De Leon",
+        "player": "Brandon Rodriguez",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-05-29",
-        "player": "Brandon Rodriguez",
+        "player": "Yostin Pena",
+        "type": "Assigned",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Victor De Leon",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "DSL NYY Yankees"
@@ -631,13 +638,6 @@
       },
       {
         "date": "2026-05-29",
-        "player": "Kendry Diaz",
-        "type": "Assigned",
-        "fromTeam": "",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-05-29",
         "player": "Kenneth Melendez",
         "type": "Assigned",
         "fromTeam": "",
@@ -646,6 +646,13 @@
       {
         "date": "2026-05-29",
         "player": "Juan Martinez",
+        "type": "Assigned",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Kendry Diaz",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "DSL NYY Yankees"
@@ -666,38 +673,10 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Adrian Feliz",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Yunior Jerez",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-05-27",
         "player": "Carlos Hampshire",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Stalen Ramirez",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Juan Torres",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-05-27",
@@ -708,13 +687,6 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Jose Peralta",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-05-27",
         "player": "Sebastian Castillo",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
@@ -722,7 +694,14 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Alfred Ciriaco",
+        "player": "Mani Cedeno",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Juan Torres",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "DSL NYY Yankees"
@@ -743,7 +722,35 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Mani Cedeno",
+        "player": "Adrian Feliz",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Yunior Jerez",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Alfred Ciriaco",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Jose Peralta",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Stalen Ramirez",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
@@ -820,13 +827,6 @@
       },
       {
         "date": "2026-02-02",
-        "player": "Michell Chirinos",
-        "type": "Released",
-        "fromTeam": "",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-02-02",
         "player": "Jose Rosario",
         "type": "Released",
         "fromTeam": "",
@@ -834,21 +834,14 @@
       },
       {
         "date": "2026-02-02",
-        "player": "Anthony Mena",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "FCL Yankees"
+        "player": "Michell Chirinos",
+        "type": "Released",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-02-02",
-        "player": "Francisco Vilorio",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-02-02",
-        "player": "Wilberson De Pena",
+        "player": "Justin Capellan",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
@@ -869,7 +862,21 @@
       },
       {
         "date": "2026-02-02",
-        "player": "Justin Capellan",
+        "player": "Francisco Vilorio",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Wilberson De Pena",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Anthony Mena",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
@@ -885,17 +892,17 @@
       },
       {
         "date": "2026-08-18",
-        "player": "Luke Pettitte",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-08-18",
         "player": "Bayram Hot",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-08-18",
+        "player": "Luke Pettitte",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-08-14",
@@ -927,17 +934,17 @@
       },
       {
         "date": "2026-08-04",
-        "player": "Diego Castellanos",
+        "player": "Anthony Potestio",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-08-04",
-        "player": "Rafael Arias",
+        "player": "Engelth Urena",
         "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-08-04",
@@ -948,21 +955,14 @@
       },
       {
         "date": "2026-08-04",
-        "player": "Blake Cyr",
+        "player": "Danny Flatt",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-08-04",
-        "player": "Tyce Armstrong",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-08-04",
-        "player": "Anthony Potestio",
+        "player": "Diego Castellanos",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
@@ -973,20 +973,6 @@
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-08-04",
-        "player": "Maika Niu",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-08-04",
-        "player": "Danny Flatt",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-08-04",
@@ -1004,21 +990,42 @@
       },
       {
         "date": "2026-08-04",
-        "player": "Engelth Urena",
+        "player": "Rafael Arias",
         "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "FCL Yankees"
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-08-04",
+        "player": "Blake Cyr",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-08-04",
+        "player": "Maika Niu",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-08-04",
+        "player": "Tyce Armstrong",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-08-01",
-        "player": "Stanly Alcantara",
+        "player": "Brian Arias",
         "type": "Released",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-08-01",
-        "player": "Brian Arias",
+        "player": "Stanly Alcantara",
         "type": "Released",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
@@ -1039,14 +1046,14 @@
       },
       {
         "date": "2026-07-29",
-        "player": "Diego Castellanos",
-        "type": "Status Change",
+        "player": "Payton Soske",
+        "type": "Assigned",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-07-29",
-        "player": "Paul Gutierrez-Contreras II",
+        "player": "Diego Castellanos",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
@@ -1221,21 +1228,21 @@
       },
       {
         "date": "2026-07-29",
-        "player": "Payton Soske",
-        "type": "Assigned",
+        "player": "Paul Gutierrez-Contreras II",
+        "type": "Status Change",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-07-28",
-        "player": "Wilberson De Pena",
+        "player": "Yostin Pena",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-07-28",
-        "player": "Yostin Pena",
+        "player": "Wilberson De Pena",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
@@ -1270,42 +1277,7 @@
       },
       {
         "date": "2026-07-20",
-        "player": "Anthony Potestio",
-        "type": "Assigned",
-        "fromTeam": "",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-07-20",
-        "player": "Paul Gutierrez-Contreras II",
-        "type": "Assigned",
-        "fromTeam": "",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-07-20",
-        "player": "Michael Harpster",
-        "type": "Assigned",
-        "fromTeam": "",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-07-20",
         "player": "Blake Cyr",
-        "type": "Assigned",
-        "fromTeam": "",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-07-20",
-        "player": "Garrett Ahern",
-        "type": "Assigned",
-        "fromTeam": "",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-07-20",
-        "player": "Diego Castellanos",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
@@ -1319,7 +1291,28 @@
       },
       {
         "date": "2026-07-20",
+        "player": "Diego Castellanos",
+        "type": "Assigned",
+        "fromTeam": "",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-07-20",
         "player": "William Cutshall",
+        "type": "Assigned",
+        "fromTeam": "",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Anthony Potestio",
+        "type": "Assigned",
+        "fromTeam": "",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Garrett Ahern",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
@@ -1361,14 +1354,7 @@
       },
       {
         "date": "2026-07-20",
-        "player": "Austin Berggren",
-        "type": "Assigned",
-        "fromTeam": "",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-07-20",
-        "player": "Andrew Gonzalez",
+        "player": "Paul Gutierrez-Contreras II",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
@@ -1382,16 +1368,30 @@
       },
       {
         "date": "2026-07-20",
+        "player": "Michael Harpster",
+        "type": "Assigned",
+        "fromTeam": "",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-07-20",
+        "player": "Austin Berggren",
+        "type": "Assigned",
+        "fromTeam": "",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-07-20",
         "player": "Lee Garris",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
       },
       {
-        "date": "2026-07-17",
-        "player": "Dax Kilby",
+        "date": "2026-07-20",
+        "player": "Andrew Gonzalez",
         "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
+        "fromTeam": "",
         "toTeam": "FCL Yankees"
       },
       {
@@ -1410,7 +1410,7 @@
       },
       {
         "date": "2026-07-17",
-        "player": "Jorsixt Jimenez",
+        "player": "Dean Toigo",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
@@ -1424,28 +1424,21 @@
       },
       {
         "date": "2026-07-17",
-        "player": "Dean Toigo",
+        "player": "Jorsixt Jimenez",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-07-17",
-        "player": "Jason Krieger",
+        "player": "Dax Kilby",
         "type": "Assigned",
-        "fromTeam": "",
+        "fromTeam": "Tampa Tarpons",
         "toTeam": "FCL Yankees"
       },
       {
-        "date": "2026-07-16",
-        "player": "Josh Newell",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-07-16",
-        "player": "Max Vaisvila",
+        "date": "2026-07-17",
+        "player": "Jason Krieger",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
@@ -1466,6 +1459,20 @@
       },
       {
         "date": "2026-07-16",
+        "player": "Max Vaisvila",
+        "type": "Assigned",
+        "fromTeam": "",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-07-16",
+        "player": "Josh Newell",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-07-16",
         "player": "Chalniel Arias",
         "type": "Status Change",
         "fromTeam": "",
@@ -1480,23 +1487,23 @@
       },
       {
         "date": "2026-07-13",
+        "player": "George Lombard Jr.",
+        "type": "Assigned",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-07-13",
+        "player": "George Lombard Jr.",
+        "type": "Assigned",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-07-13",
         "player": "Hunter Dietz",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-07-13",
-        "player": "George Lombard Jr.",
-        "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-07-13",
-        "player": "George Lombard Jr.",
-        "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "FCL Yankees"
       },
       {
@@ -1578,16 +1585,16 @@
       },
       {
         "date": "2026-06-12",
-        "player": "Tijn Fredrikze",
-        "type": "Status Change",
-        "fromTeam": "",
+        "player": "Robbie Burnett",
+        "type": "Assigned",
+        "fromTeam": "Hudson Valley Renegades",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-06-12",
-        "player": "Robbie Burnett",
-        "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
+        "player": "Tijn Fredrikze",
+        "type": "Status Change",
+        "fromTeam": "",
         "toTeam": "FCL Yankees"
       },
       {
@@ -1732,30 +1739,30 @@
       },
       {
         "date": "2026-05-23",
-        "player": "Kevin Verde",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-05-23",
         "player": "Luis Escudero",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
       },
       {
-        "date": "2026-05-21",
-        "player": "Alexander Cornielle",
+        "date": "2026-05-23",
+        "player": "Kevin Verde",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "FCL Yankees"
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-05-21",
         "player": "Luis Velasquez",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-05-21",
+        "player": "Alexander Cornielle",
+        "type": "Assigned",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "FCL Yankees"
       },
       {
@@ -1774,14 +1781,14 @@
       },
       {
         "date": "2026-05-18",
-        "player": "David McCann",
+        "player": "Edinzo Marquez",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-05-18",
-        "player": "Edinzo Marquez",
+        "player": "David McCann",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "FCL Yankees"
@@ -1823,14 +1830,14 @@
       },
       {
         "date": "2026-05-08",
-        "player": "Manuel Cruz",
+        "player": "Estivenzon Montero",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-05-08",
-        "player": "Estivenzon Montero",
+        "player": "Manuel Cruz",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
@@ -1879,7 +1886,7 @@
       },
       {
         "date": "2026-05-01",
-        "player": "Enixon Sanchez",
+        "player": "Tijn Fredrikze",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
@@ -1893,14 +1900,14 @@
       },
       {
         "date": "2026-05-01",
-        "player": "Tijn Fredrikze",
+        "player": "Isael Arias",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-05-01",
-        "player": "Isael Arias",
+        "player": "Enixon Sanchez",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
@@ -1914,14 +1921,14 @@
       },
       {
         "date": "2026-05-01",
-        "player": "Marco Manzano",
+        "player": "Rafael Arias",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-05-01",
-        "player": "Rafael Arias",
+        "player": "Marco Manzano",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
@@ -1977,13 +1984,6 @@
       },
       {
         "date": "2026-04-03",
-        "player": "Logan Maxwell",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-04-03",
         "player": "Greysen Carter",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
@@ -1998,6 +1998,13 @@
       },
       {
         "date": "2026-04-03",
+        "player": "Pedro Rodriguez",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-04-03",
         "player": "Parker Seay",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
@@ -2006,6 +2013,27 @@
       {
         "date": "2026-04-03",
         "player": "Santiago Gomez",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Logan Maxwell",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Blake Gillespie",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Kevin Verde",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
@@ -2033,35 +2061,14 @@
       },
       {
         "date": "2026-04-03",
-        "player": "Brian Arias",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-04-03",
-        "player": "Blake Gillespie",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-04-03",
-        "player": "Pedro Rodriguez",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-04-03",
-        "player": "Kevin Verde",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-04-03",
         "player": "Gregory Bozzo",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Brian Arias",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
@@ -2089,10 +2096,17 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Ben Grable",
+        "player": "Pico Kohn",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-03-30",
+        "player": "J.T. Etheridge",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-03-30",
@@ -2110,21 +2124,14 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Mariano Salomon",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-03-30",
-        "player": "Pico Kohn",
+        "player": "Ben Grable",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-03-30",
-        "player": "J.T. Etheridge",
+        "player": "Mariano Salomon",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "FCL Yankees"
@@ -2166,14 +2173,7 @@
       },
       {
         "date": "2026-03-17",
-        "player": "Angel Benitez",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-03-17",
-        "player": "Ryan Osinski",
+        "player": "Chalniel Arias",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
@@ -2187,7 +2187,14 @@
       },
       {
         "date": "2026-03-17",
-        "player": "Chalniel Arias",
+        "player": "Ryan Osinski",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Angel Benitez",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "FCL Yankees"
@@ -2215,44 +2222,9 @@
       },
       {
         "date": "2026-02-02",
-        "player": "Wilberson De Pena",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-02-02",
         "player": "Leni Done",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-02-02",
-        "player": "Richard Matic",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-02-02",
-        "player": "Carlos Rondon",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-02-02",
-        "player": "Francisco Vilorio",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-02-02",
-        "player": "Justin Capellan",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
       },
       {
@@ -2275,22 +2247,57 @@
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Wilberson De Pena",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Justin Capellan",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Francisco Vilorio",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Carlos Rondon",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Richard Matic",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "FCL Yankees"
       }
     ],
     "Tampa Tarpons": [
-      {
-        "date": "2026-08-18",
-        "player": "Luke Pettitte",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
       {
         "date": "2026-08-18",
         "player": "Bayram Hot",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-08-18",
+        "player": "Luke Pettitte",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-08-14",
@@ -2364,14 +2371,7 @@
       },
       {
         "date": "2026-08-04",
-        "player": "Jose M. Rodriguez",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-08-04",
-        "player": "Bear Harrison",
+        "player": "Diego Castellanos",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
@@ -2385,42 +2385,7 @@
       },
       {
         "date": "2026-08-04",
-        "player": "Engelth Urena",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-08-04",
-        "player": "David McCann",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-08-04",
-        "player": "Bryce Martin-Grudzielanek",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-08-04",
-        "player": "Tyce Armstrong",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-08-04",
-        "player": "Anthony Mena",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-08-04",
-        "player": "Anthony Potestio",
+        "player": "Danny Flatt",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
@@ -2441,21 +2406,63 @@
       },
       {
         "date": "2026-08-04",
-        "player": "Diego Castellanos",
+        "player": "Anthony Mena",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-08-04",
-        "player": "Danny Flatt",
+        "player": "Tyce Armstrong",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
       },
       {
+        "date": "2026-08-04",
+        "player": "Bear Harrison",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-08-04",
+        "player": "David McCann",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-08-04",
+        "player": "Engelth Urena",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-08-04",
+        "player": "Anthony Potestio",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-08-04",
+        "player": "Jose M. Rodriguez",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-08-04",
+        "player": "Bryce Martin-Grudzielanek",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
         "date": "2026-08-03",
-        "player": "Christofer Reyes",
+        "player": "Isael Arias",
         "type": "Released",
         "fromTeam": "",
         "toTeam": "Tampa Tarpons"
@@ -2469,15 +2476,8 @@
       },
       {
         "date": "2026-08-03",
-        "player": "Isael Arias",
+        "player": "Christofer Reyes",
         "type": "Released",
-        "fromTeam": "",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-07-28",
-        "player": "Logan Maxwell",
-        "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Tampa Tarpons"
       },
@@ -2490,14 +2490,14 @@
       },
       {
         "date": "2026-07-28",
-        "player": "Gabriel Lara",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
+        "player": "Logan Maxwell",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-07-28",
-        "player": "Wilberson De Pena",
+        "player": "Edinzo Marquez",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
@@ -2511,7 +2511,7 @@
       },
       {
         "date": "2026-07-28",
-        "player": "Edinzo Marquez",
+        "player": "Wilberson De Pena",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
@@ -2519,6 +2519,13 @@
       {
         "date": "2026-07-28",
         "player": "Jackson Lovich",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-07-28",
+        "player": "Gabriel Lara",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "Hudson Valley Renegades"
@@ -2595,17 +2602,17 @@
       },
       {
         "date": "2026-07-08",
-        "player": "Henry Lalane",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-07-08",
         "player": "Austin Breedlove",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-07-08",
+        "player": "Henry Lalane",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-07-07",
@@ -2616,14 +2623,14 @@
       },
       {
         "date": "2026-07-07",
-        "player": "Austin Green",
+        "player": "Logan Maxwell",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-07-07",
-        "player": "Logan Maxwell",
+        "player": "Austin Green",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Tampa Tarpons"
@@ -2651,14 +2658,14 @@
       },
       {
         "date": "2026-06-29",
-        "player": "Luis Escudero",
+        "player": "Mac Heuer",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-06-29",
-        "player": "Mac Heuer",
+        "player": "Luis Escudero",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Tampa Tarpons"
@@ -2756,24 +2763,17 @@
       },
       {
         "date": "2026-06-04",
-        "player": "Luis Durango",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-06-04",
         "player": "Gabriel Lara",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
       },
       {
-        "date": "2026-06-02",
-        "player": "Luis Velasquez",
+        "date": "2026-06-04",
+        "player": "Luis Durango",
         "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Tampa Tarpons"
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-06-02",
@@ -2788,6 +2788,13 @@
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-06-02",
+        "player": "Luis Velasquez",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-06-02",
@@ -2833,6 +2840,20 @@
       },
       {
         "date": "2026-05-26",
+        "player": "Gregory Bozzo",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-05-26",
+        "player": "Wyatt Parliament",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-05-26",
         "player": "Wyatt Parliament",
         "type": "Status Change",
         "fromTeam": "",
@@ -2841,13 +2862,6 @@
       {
         "date": "2026-05-26",
         "player": "Thatcher Hurd",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-05-26",
-        "player": "Wyatt Parliament",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Tampa Tarpons"
@@ -2861,10 +2875,10 @@
       },
       {
         "date": "2026-05-26",
-        "player": "Gregory Bozzo",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Tampa Tarpons"
+        "player": "Brian Arias",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-05-26",
@@ -2872,13 +2886,6 @@
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-05-26",
-        "player": "Brian Arias",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-05-26",
@@ -2903,17 +2910,17 @@
       },
       {
         "date": "2026-05-23",
-        "player": "Luis Escudero",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-05-23",
         "player": "Santiago Gomez",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Luis Escudero",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-05-20",
@@ -2931,14 +2938,14 @@
       },
       {
         "date": "2026-05-18",
-        "player": "Edinzo Marquez",
+        "player": "David McCann",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-05-18",
-        "player": "David McCann",
+        "player": "Edinzo Marquez",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "FCL Yankees"
@@ -2973,14 +2980,14 @@
       },
       {
         "date": "2026-05-11",
-        "player": "Logan Maxwell",
+        "player": "Brando Mayea",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-05-11",
-        "player": "Brando Mayea",
+        "player": "Logan Maxwell",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Tampa Tarpons"
@@ -3078,16 +3085,16 @@
       },
       {
         "date": "2026-04-26",
-        "player": "Henry Lalane",
-        "type": "Status Change",
-        "fromTeam": "",
+        "player": "Luis Durango",
+        "type": "Assigned",
+        "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-04-26",
-        "player": "Luis Durango",
-        "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
+        "player": "Henry Lalane",
+        "type": "Status Change",
+        "fromTeam": "",
         "toTeam": "Tampa Tarpons"
       },
       {
@@ -3176,21 +3183,14 @@
       },
       {
         "date": "2026-04-03",
-        "player": "Jose Ledesma",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-04-03",
-        "player": "Jackson Lovich",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-04-03",
         "player": "Wyatt Parliament",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Jose Ledesma",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Tampa Tarpons"
@@ -3204,9 +3204,9 @@
       },
       {
         "date": "2026-04-03",
-        "player": "Blake Gillespie",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
+        "player": "Jackson Lovich",
+        "type": "Status Change",
+        "fromTeam": "",
         "toTeam": "Tampa Tarpons"
       },
       {
@@ -3218,21 +3218,7 @@
       },
       {
         "date": "2026-04-03",
-        "player": "Kevin Verde",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-04-03",
-        "player": "Brian Arias",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-04-03",
-        "player": "Gregory Bozzo",
+        "player": "Blake Gillespie",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
@@ -3260,7 +3246,28 @@
       },
       {
         "date": "2026-04-03",
-        "player": "Parker Seay",
+        "player": "Brian Arias",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Gregory Bozzo",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Kevin Verde",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-04-03",
+        "player": "Logan Maxwell",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
@@ -3281,14 +3288,14 @@
       },
       {
         "date": "2026-04-03",
-        "player": "Santiago Gomez",
+        "player": "Parker Seay",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-04-03",
-        "player": "Logan Maxwell",
+        "player": "Santiago Gomez",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
         "toTeam": "Tampa Tarpons"
@@ -3309,14 +3316,14 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Kyle West",
+        "player": "Wilson Rodriguez",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-03-30",
-        "player": "Wilson Rodriguez",
+        "player": "Kyle West",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "Hudson Valley Renegades"
@@ -3337,14 +3344,14 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Franyer Herrera",
+        "player": "Jackson Fristoe",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-03-30",
-        "player": "Jackson Fristoe",
+        "player": "Franyer Herrera",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "Hudson Valley Renegades"
@@ -3365,14 +3372,14 @@
       },
       {
         "date": "2026-03-30",
-        "player": "J.T. Etheridge",
+        "player": "Aaron Nixon",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
-        "toTeam": "FCL Yankees"
+        "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-03-30",
-        "player": "Aaron Nixon",
+        "player": "Eric Genther",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "Hudson Valley Renegades"
@@ -3400,10 +3407,10 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Eric Genther",
+        "player": "J.T. Etheridge",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
+        "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-03-30",
@@ -3563,14 +3570,14 @@
       },
       {
         "date": "2026-08-04",
-        "player": "Diomedes Hernandez",
+        "player": "Gabriel Lara",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-08-04",
-        "player": "Gabriel Lara",
+        "player": "Diomedes Hernandez",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Hudson Valley Renegades"
@@ -3584,13 +3591,6 @@
       },
       {
         "date": "2026-08-04",
-        "player": "Jose M. Rodriguez",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-08-04",
         "player": "David McCann",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
@@ -3598,16 +3598,16 @@
       },
       {
         "date": "2026-08-04",
-        "player": "Bryce Martin-Grudzielanek",
+        "player": "Roderick Arias",
         "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
+        "fromTeam": "Hudson Valley Renegades",
+        "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-08-04",
-        "player": "Dean Toigo",
+        "player": "Bryce Martin-Grudzielanek",
         "type": "Assigned",
-        "fromTeam": "FCL Yankees",
+        "fromTeam": "Tampa Tarpons",
         "toTeam": "Hudson Valley Renegades"
       },
       {
@@ -3619,10 +3619,17 @@
       },
       {
         "date": "2026-08-04",
-        "player": "Roderick Arias",
+        "player": "Jose M. Rodriguez",
         "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "Somerset Patriots"
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-08-04",
+        "player": "Dean Toigo",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-08-03",
@@ -3640,14 +3647,14 @@
       },
       {
         "date": "2026-07-28",
-        "player": "Wilson Rodriguez",
+        "player": "Jackson Fristoe",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-07-28",
-        "player": "Jackson Fristoe",
+        "player": "Wilson Rodriguez",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Hudson Valley Renegades"
@@ -3661,24 +3668,10 @@
       },
       {
         "date": "2026-07-28",
-        "player": "Willy Montero",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-07-28",
-        "player": "Rory Fox",
+        "player": "Luis Durango",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-07-28",
-        "player": "Jackson Lovich",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-07-28",
@@ -3689,7 +3682,21 @@
       },
       {
         "date": "2026-07-28",
-        "player": "Luis Durango",
+        "player": "Willy Montero",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-07-28",
+        "player": "Jackson Lovich",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-07-28",
+        "player": "Rory Fox",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
@@ -3759,17 +3766,17 @@
       },
       {
         "date": "2026-07-06",
-        "player": "Kaeden Kent",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-07-06",
         "player": "Brian Hendry",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-07-06",
+        "player": "Kaeden Kent",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-06-30",
@@ -4060,8 +4067,8 @@
       },
       {
         "date": "2026-04-27",
-        "player": "Baron Stuart",
-        "type": "Released",
+        "player": "Bryce Cunningham",
+        "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Hudson Valley Renegades"
       },
@@ -4074,16 +4081,9 @@
       },
       {
         "date": "2026-04-27",
-        "player": "Bryce Cunningham",
-        "type": "Status Change",
+        "player": "Baron Stuart",
+        "type": "Released",
         "fromTeam": "",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-04-27",
-        "player": "Wilmy Sanchez",
-        "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
         "toTeam": "Hudson Valley Renegades"
       },
       {
@@ -4106,6 +4106,13 @@
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Wilmy Sanchez",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-04-26",
@@ -4256,21 +4263,14 @@
       },
       {
         "date": "2026-04-07",
-        "player": "Aaron Nixon",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-04-07",
         "player": "Robbie Burnett",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Hudson Valley Renegades"
       },
       {
-        "date": "2026-04-02",
-        "player": "Tyler Wilson",
+        "date": "2026-04-07",
+        "player": "Aaron Nixon",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Hudson Valley Renegades"
@@ -4278,6 +4278,13 @@
       {
         "date": "2026-04-02",
         "player": "Luis Durango",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Tyler Wilson",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Hudson Valley Renegades"
@@ -4305,14 +4312,14 @@
       },
       {
         "date": "2026-04-02",
-        "player": "Tyler Wilson",
+        "player": "Bryce Cunningham",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-04-02",
-        "player": "Bryce Cunningham",
+        "player": "Tyler Wilson",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Hudson Valley Renegades"
@@ -4333,16 +4340,37 @@
       },
       {
         "date": "2026-03-30",
-        "player": "John Cristino",
+        "player": "Roderick Arias",
         "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "FCL Yankees"
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-03-30",
-        "player": "Baron Stuart",
+        "player": "Jack Sokol",
         "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Kyle West",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Engelth Urena",
+        "type": "Assigned",
+        "fromTeam": "Hudson Valley Renegades",
+        "toTeam": "Tampa Tarpons"
+      },
+      {
+        "date": "2026-03-30",
+        "player": "Wilson Rodriguez",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
         "toTeam": "Hudson Valley Renegades"
       },
       {
@@ -4354,24 +4382,10 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Kyle West",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-03-30",
         "player": "Chris Kean",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-03-30",
-        "player": "Engelth Urena",
-        "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-03-30",
@@ -4396,14 +4410,7 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Wilson Rodriguez",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-03-30",
-        "player": "Eric Genther",
+        "player": "Tanner Bauman",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "Hudson Valley Renegades"
@@ -4417,7 +4424,7 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Tanner Bauman",
+        "player": "Eric Genther",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "Hudson Valley Renegades"
@@ -4466,10 +4473,24 @@
       },
       {
         "date": "2026-03-30",
+        "player": "Baron Stuart",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-03-30",
         "player": "Duncan Pastore",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-03-30",
+        "player": "John Cristino",
+        "type": "Assigned",
+        "fromTeam": "Hudson Valley Renegades",
+        "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-03-30",
@@ -4488,20 +4509,6 @@
       {
         "date": "2026-03-30",
         "player": "Franyer Herrera",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-03-30",
-        "player": "Roderick Arias",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-03-30",
-        "player": "Jack Sokol",
         "type": "Assigned",
         "fromTeam": "Tampa Tarpons",
         "toTeam": "Hudson Valley Renegades"
@@ -4550,14 +4557,14 @@
       },
       {
         "date": "2026-03-17",
-        "player": "Brian Hendry",
+        "player": "Sebastian Keane",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-03-17",
-        "player": "Sebastian Keane",
+        "player": "Brian Hendry",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Hudson Valley Renegades"
@@ -4578,6 +4585,13 @@
       }
     ],
     "Somerset Patriots": [
+      {
+        "date": "2026-08-20",
+        "player": "Ben Hess",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
       {
         "date": "2026-08-19",
         "player": "Yerry Rodr\u00edguez",
@@ -4643,13 +4657,6 @@
       },
       {
         "date": "2026-08-11",
-        "player": "Xavier Rivas",
-        "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-08-11",
         "player": "Dom Hamel",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -4668,6 +4675,13 @@
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-08-11",
+        "player": "Xavier Rivas",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-08-09",
@@ -4699,14 +4713,14 @@
       },
       {
         "date": "2026-08-04",
-        "player": "Matt Keating",
+        "player": "DJ Gladney",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-08-04",
-        "player": "DJ Gladney",
+        "player": "Matt Keating",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -4755,14 +4769,14 @@
       },
       {
         "date": "2026-07-28",
-        "player": "DJ Gladney",
+        "player": "John Cristino",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-07-28",
-        "player": "John Cristino",
+        "player": "DJ Gladney",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -4811,14 +4825,14 @@
       },
       {
         "date": "2026-07-21",
-        "player": "Cole Gabrielson",
+        "player": "John Cristino",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-07-21",
-        "player": "John Cristino",
+        "player": "Cole Gabrielson",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -4860,16 +4874,9 @@
       },
       {
         "date": "2026-07-07",
-        "player": "Santiago Gomez",
+        "player": "Luis Velasquez",
         "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Hudson Valley Renegades"
-      },
-      {
-        "date": "2026-07-07",
-        "player": "Owen Cobb",
-        "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -4881,14 +4888,21 @@
       },
       {
         "date": "2026-07-07",
-        "player": "Luis Velasquez",
+        "player": "Owen Cobb",
         "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
       },
       {
+        "date": "2026-07-07",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
         "date": "2026-07-03",
-        "player": "John Cristino",
+        "player": "Geoffrey Gilbert",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -4902,7 +4916,7 @@
       },
       {
         "date": "2026-07-03",
-        "player": "Geoffrey Gilbert",
+        "player": "John Cristino",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -4965,17 +4979,17 @@
       },
       {
         "date": "2026-06-25",
-        "player": "Owen Cobb",
-        "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-06-25",
         "player": "Santiago Gomez",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-06-25",
+        "player": "Owen Cobb",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-06-23",
@@ -5035,14 +5049,14 @@
       },
       {
         "date": "2026-06-16",
-        "player": "Miguel Palma",
+        "player": "John Cristino",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-06-16",
-        "player": "John Cristino",
+        "player": "Miguel Palma",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5070,14 +5084,14 @@
       },
       {
         "date": "2026-06-14",
-        "player": "Harrison Cohen",
+        "player": "Chris Veach",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-06-14",
-        "player": "Chris Veach",
+        "player": "Harrison Cohen",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5140,17 +5154,17 @@
       },
       {
         "date": "2026-06-10",
-        "player": "Kevin Stevens",
-        "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Tampa Tarpons"
-      },
-      {
-        "date": "2026-06-10",
         "player": "Luis Velasquez",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-06-10",
+        "player": "Kevin Stevens",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Tampa Tarpons"
       },
       {
         "date": "2026-06-10",
@@ -5322,13 +5336,6 @@
       },
       {
         "date": "2026-05-23",
-        "player": "Santiago Gomez",
-        "type": "Assigned",
-        "fromTeam": "Tampa Tarpons",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-05-23",
         "player": "Tyler Hardman",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
@@ -5339,6 +5346,13 @@
         "player": "Kevin Verde",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-05-23",
+        "player": "Santiago Gomez",
+        "type": "Assigned",
+        "fromTeam": "Tampa Tarpons",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -5357,17 +5371,17 @@
       },
       {
         "date": "2026-05-19",
-        "player": "Eric Reyzelman",
-        "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-05-19",
         "player": "Chris Veach",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-05-19",
+        "player": "Eric Reyzelman",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-05-16",
@@ -5504,10 +5518,10 @@
       },
       {
         "date": "2026-04-27",
-        "player": "Wilmy Sanchez",
+        "player": "Jack Cebert",
         "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Hudson Valley Renegades"
+        "fromTeam": "Hudson Valley Renegades",
+        "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-04-27",
@@ -5518,21 +5532,14 @@
       },
       {
         "date": "2026-04-27",
-        "player": "Jack Cebert",
+        "player": "Wilmy Sanchez",
         "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "Somerset Patriots"
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-04-22",
         "player": "Jackson Castillo",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-04-21",
-        "player": "Abrahan Gutierrez",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5545,6 +5552,13 @@
         "toTeam": "Hudson Valley Renegades"
       },
       {
+        "date": "2026-04-21",
+        "player": "Abrahan Gutierrez",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
+      {
         "date": "2026-04-20",
         "player": "Andrew Landry",
         "type": "Assigned",
@@ -5554,14 +5568,14 @@
       {
         "date": "2026-04-19",
         "player": "Wilmy Sanchez",
-        "type": "Assigned",
+        "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-04-19",
         "player": "Wilmy Sanchez",
-        "type": "Status Change",
+        "type": "Assigned",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
@@ -5672,20 +5686,6 @@
       },
       {
         "date": "2026-04-02",
-        "player": "Yerry Rodr\u00edguez",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-04-02",
-        "player": "Abrahan Gutierrez",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-04-02",
         "player": "Chase Hampton",
         "type": "Status Change",
         "fromTeam": "",
@@ -5693,7 +5693,14 @@
       },
       {
         "date": "2026-04-02",
-        "player": "Kevin Stevens",
+        "player": "Yerry Rodr\u00edguez",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Jackson Castillo",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5707,7 +5714,14 @@
       },
       {
         "date": "2026-04-02",
-        "player": "Jackson Castillo",
+        "player": "Abrahan Gutierrez",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Kevin Stevens",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5749,13 +5763,6 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Owen Cobb",
-        "type": "Assigned",
-        "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-03-30",
         "player": "Matt Keating",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
@@ -5763,7 +5770,7 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Cade Smith",
+        "player": "Owen Cobb",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
         "toTeam": "Somerset Patriots"
@@ -5777,6 +5784,13 @@
       },
       {
         "date": "2026-03-30",
+        "player": "Duncan Pastore",
+        "type": "Assigned",
+        "fromTeam": "Somerset Patriots",
+        "toTeam": "Hudson Valley Renegades"
+      },
+      {
+        "date": "2026-03-30",
         "player": "Chris Kean",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
@@ -5784,10 +5798,10 @@
       },
       {
         "date": "2026-03-30",
-        "player": "Duncan Pastore",
+        "player": "Cade Smith",
         "type": "Assigned",
-        "fromTeam": "Somerset Patriots",
-        "toTeam": "Hudson Valley Renegades"
+        "fromTeam": "Hudson Valley Renegades",
+        "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-30",
@@ -5798,28 +5812,28 @@
       },
       {
         "date": "2026-03-28",
-        "player": "Mason Vinyard",
-        "type": "Released",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-03-28",
         "player": "Cole Ayers",
         "type": "Released",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
       },
       {
+        "date": "2026-03-28",
+        "player": "Mason Vinyard",
+        "type": "Released",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
+      {
         "date": "2026-03-27",
-        "player": "Seth Brown",
+        "player": "Adam Kloffenstein",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-27",
-        "player": "Adam Kloffenstein",
+        "player": "Seth Brown",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
@@ -5840,14 +5854,14 @@
       },
       {
         "date": "2026-03-26",
-        "player": "Carson Coleman",
+        "player": "Travis MacGregor",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-03-26",
-        "player": "Travis MacGregor",
+        "player": "Carson Coleman",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -5875,7 +5889,7 @@
       },
       {
         "date": "2026-03-23",
-        "player": "Eric Reyzelman",
+        "player": "Bailey Dees",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
@@ -5889,7 +5903,14 @@
       },
       {
         "date": "2026-03-23",
-        "player": "Bailey Dees",
+        "player": "Eric Reyzelman",
+        "type": "Assigned",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-03-23",
+        "player": "Abrahan Gutierrez",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
@@ -5909,20 +5930,6 @@
         "toTeam": "Somerset Patriots"
       },
       {
-        "date": "2026-03-23",
-        "player": "Abrahan Gutierrez",
-        "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-03-17",
-        "player": "Hueston Morrill",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Somerset Patriots"
-      },
-      {
         "date": "2026-03-17",
         "player": "Luis Velasquez",
         "type": "Status Change",
@@ -5932,6 +5939,13 @@
       {
         "date": "2026-03-17",
         "player": "Cole Ayers",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-03-17",
+        "player": "Hueston Morrill",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Somerset Patriots"
@@ -5959,6 +5973,34 @@
       }
     ],
     "SWB RailRiders": [
+      {
+        "date": "2026-08-20",
+        "player": "Brian Hendry",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-08-20",
+        "player": "Edinson Duran",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-08-20",
+        "player": "Will Brian",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-08-20",
+        "player": "Cody Bellinger",
+        "type": "Assigned",
+        "fromTeam": "New York Yankees",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
       {
         "date": "2026-08-19",
         "player": "Abrahan Gutierrez",
@@ -6031,17 +6073,17 @@
       },
       {
         "date": "2026-08-11",
-        "player": "Bradley Hanner",
-        "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "New York Yankees"
-      },
-      {
-        "date": "2026-08-11",
         "player": "Xavier Rivas",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-08-11",
+        "player": "Bradley Hanner",
+        "type": "Recalled",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "New York Yankees"
       },
       {
         "date": "2026-08-11",
@@ -6066,23 +6108,23 @@
       },
       {
         "date": "2026-08-08",
+        "player": "Carlos Rod\u00f3n",
+        "type": "Assigned",
+        "fromTeam": "New York Yankees",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-08-08",
+        "player": "Carlos Rod\u00f3n",
+        "type": "Assigned",
+        "fromTeam": "New York Yankees",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-08-08",
         "player": "Danny Watson",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-08-08",
-        "player": "Carlos Rod\u00f3n",
-        "type": "Assigned",
-        "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-08-08",
-        "player": "Carlos Rod\u00f3n",
-        "type": "Assigned",
-        "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -6108,13 +6150,6 @@
       },
       {
         "date": "2026-08-04",
-        "player": "Jasson Dom\u00ednguez",
-        "type": "Optioned",
-        "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-08-04",
         "player": "Angel Chivilli",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
@@ -6122,10 +6157,10 @@
       },
       {
         "date": "2026-08-04",
-        "player": "George Lombard Jr.",
-        "type": "Selected",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "New York Yankees"
+        "player": "Jasson Dom\u00ednguez",
+        "type": "Optioned",
+        "fromTeam": "New York Yankees",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-08-04",
@@ -6140,6 +6175,13 @@
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-08-04",
+        "player": "George Lombard Jr.",
+        "type": "Selected",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "New York Yankees"
       },
       {
         "date": "2026-08-03",
@@ -6178,15 +6220,22 @@
       },
       {
         "date": "2026-07-31",
-        "player": "Alexander Cornielle",
+        "player": "Brian Hendry",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-07-31",
-        "player": "Brian Hendry",
+        "player": "Alexander Cornielle",
         "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-07-28",
+        "player": "Christian Bethancourt",
+        "type": "Assigned",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
@@ -6201,13 +6250,6 @@
         "date": "2026-07-28",
         "player": "Edinson Duran",
         "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-07-28",
-        "player": "Christian Bethancourt",
-        "type": "Assigned",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
@@ -6248,13 +6290,6 @@
       },
       {
         "date": "2026-07-24",
-        "player": "Brian Hendry",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-07-24",
         "player": "Adam Kloffenstein",
         "type": "Status Change",
         "fromTeam": "",
@@ -6263,6 +6298,13 @@
       {
         "date": "2026-07-24",
         "player": "Garrett Martin",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-07-24",
+        "player": "Brian Hendry",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -6311,17 +6353,17 @@
       },
       {
         "date": "2026-07-21",
-        "player": "Brian Hendry",
-        "type": "Assigned",
-        "fromTeam": "FCL Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-07-21",
         "player": "Cole Gabrielson",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-07-21",
+        "player": "Brian Hendry",
+        "type": "Assigned",
+        "fromTeam": "FCL Yankees",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-07-20",
@@ -6343,13 +6385,6 @@
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-07-19",
-        "player": "Elmer Rodr\u00edguez",
-        "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "New York Yankees"
       },
       {
         "date": "2026-07-19",
@@ -6359,6 +6394,13 @@
         "toTeam": "New York Yankees"
       },
       {
+        "date": "2026-07-19",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Recalled",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "New York Yankees"
+      },
+      {
         "date": "2026-07-18",
         "player": "Alexander Cornielle",
         "type": "Status Change",
@@ -6370,6 +6412,13 @@
         "player": "Alexander Cornielle",
         "type": "Status Change",
         "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-07-18",
+        "player": "Bradley Hanner",
+        "type": "Optioned",
+        "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -6380,10 +6429,10 @@
         "toTeam": "New York Yankees"
       },
       {
-        "date": "2026-07-18",
-        "player": "Bradley Hanner",
-        "type": "Optioned",
-        "fromTeam": "New York Yankees",
+        "date": "2026-07-17",
+        "player": "George Lombard Jr.",
+        "type": "Status Change",
+        "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -6391,13 +6440,6 @@
         "player": "Max Fried",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-07-17",
-        "player": "George Lombard Jr.",
-        "type": "Status Change",
-        "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -6444,17 +6486,17 @@
       },
       {
         "date": "2026-07-07",
-        "player": "Owen Cobb",
-        "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-07-07",
         "player": "Chris Kean",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-07-07",
+        "player": "Owen Cobb",
+        "type": "Assigned",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-07-06",
@@ -6465,17 +6507,17 @@
       },
       {
         "date": "2026-07-05",
-        "player": "Angel Chivilli",
-        "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "New York Yankees"
-      },
-      {
-        "date": "2026-07-05",
         "player": "Brendan Beck",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-07-05",
+        "player": "Angel Chivilli",
+        "type": "Recalled",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "New York Yankees"
       },
       {
         "date": "2026-07-04",
@@ -6493,14 +6535,14 @@
       },
       {
         "date": "2026-07-03",
-        "player": "Edinson Duran",
+        "player": "Kervin Castro",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-07-03",
-        "player": "Kervin Castro",
+        "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -6528,21 +6570,7 @@
       },
       {
         "date": "2026-07-02",
-        "player": "Rafael Montero",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-07-02",
         "player": "Dom Hamel",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-07-02",
-        "player": "Carlos Lagrange",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -6563,14 +6591,21 @@
       },
       {
         "date": "2026-07-02",
-        "player": "Yovanny Cruz",
-        "type": "Optioned",
-        "fromTeam": "New York Yankees",
+        "player": "Carlos Lagrange",
+        "type": "Status Change",
+        "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
-        "date": "2026-06-30",
-        "player": "Yerry De los Santos",
+        "date": "2026-07-02",
+        "player": "Rafael Montero",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-07-02",
+        "player": "Yovanny Cruz",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -6581,6 +6616,13 @@
         "type": "Recalled",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "New York Yankees"
+      },
+      {
+        "date": "2026-06-30",
+        "player": "Yerry De los Santos",
+        "type": "Optioned",
+        "fromTeam": "New York Yankees",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-06-29",
@@ -6682,14 +6724,14 @@
       },
       {
         "date": "2026-06-21",
-        "player": "J.C. Escarra",
+        "player": "Jake Bird",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-06-21",
-        "player": "Jake Bird",
+        "player": "J.C. Escarra",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -6703,14 +6745,14 @@
       },
       {
         "date": "2026-06-20",
-        "player": "Garrett Martin",
+        "player": "Will Brian",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-06-20",
-        "player": "Will Brian",
+        "player": "Garrett Martin",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -6738,16 +6780,16 @@
       },
       {
         "date": "2026-06-16",
-        "player": "Payton Henry",
-        "type": "Status Change",
-        "fromTeam": "",
+        "player": "Austin Wells",
+        "type": "Assigned",
+        "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-06-16",
-        "player": "Austin Wells",
-        "type": "Assigned",
-        "fromTeam": "New York Yankees",
+        "player": "Payton Henry",
+        "type": "Status Change",
+        "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -6801,17 +6843,17 @@
       },
       {
         "date": "2026-06-11",
-        "player": "Alexander Cornielle",
-        "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-06-11",
         "player": "Will Brian",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-06-11",
+        "player": "Alexander Cornielle",
+        "type": "Assigned",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-06-10",
@@ -6843,38 +6885,17 @@
       },
       {
         "date": "2026-06-06",
-        "player": "Ali S\u00e1nchez",
-        "type": "Selected",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "New York Yankees"
-      },
-      {
-        "date": "2026-06-06",
         "player": "J.C. Escarra",
         "type": "Recalled",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "New York Yankees"
       },
       {
-        "date": "2026-06-05",
-        "player": "Eric Reyzelman",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-06-05",
-        "player": "Marco Luciano",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-06-05",
-        "player": "Payton Henry",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "date": "2026-06-06",
+        "player": "Ali S\u00e1nchez",
+        "type": "Selected",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "New York Yankees"
       },
       {
         "date": "2026-06-05",
@@ -6892,9 +6913,16 @@
       },
       {
         "date": "2026-06-05",
-        "player": "Jasson Dom\u00ednguez",
-        "type": "Assigned",
-        "fromTeam": "New York Yankees",
+        "player": "Eric Reyzelman",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Payton Henry",
+        "type": "Status Change",
+        "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -6902,6 +6930,27 @@
         "player": "Marco Luciano",
         "type": "Status Change",
         "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Marco Luciano",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-06-05",
+        "player": "Jasson Dom\u00ednguez",
+        "type": "Assigned",
+        "fromTeam": "New York Yankees",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-06-05",
+        "player": "J.C. Escarra",
+        "type": "Optioned",
+        "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -6916,13 +6965,6 @@
         "player": "Abrahan Gutierrez",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-06-05",
-        "player": "J.C. Escarra",
-        "type": "Optioned",
-        "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -6948,14 +6990,14 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Edinson Duran",
+        "player": "Seth Brown",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-05-27",
-        "player": "Seth Brown",
+        "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -7004,14 +7046,14 @@
       },
       {
         "date": "2026-05-22",
-        "player": "Spencer Jones",
+        "player": "Yovanny Cruz",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-05-22",
-        "player": "Yovanny Cruz",
+        "player": "Spencer Jones",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -7102,13 +7144,6 @@
       },
       {
         "date": "2026-05-08",
-        "player": "Brendan Beck",
-        "type": "Optioned",
-        "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-05-08",
         "player": "Spencer Jones",
         "type": "Recalled",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -7119,6 +7154,13 @@
         "player": "Marco Luciano",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-05-08",
+        "player": "Brendan Beck",
+        "type": "Optioned",
+        "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -7137,17 +7179,17 @@
       },
       {
         "date": "2026-05-07",
-        "player": "Yerry De los Santos",
-        "type": "Optioned",
-        "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-05-07",
         "player": "Brendan Beck",
         "type": "Selected",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "New York Yankees"
+      },
+      {
+        "date": "2026-05-07",
+        "player": "Yerry De los Santos",
+        "type": "Optioned",
+        "fromTeam": "New York Yankees",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-05-06",
@@ -7186,13 +7228,6 @@
       },
       {
         "date": "2026-05-04",
-        "player": "Duncan Pastore",
-        "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-05-04",
         "player": "Anthony Volpe",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
@@ -7204,6 +7239,13 @@
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-05-04",
+        "player": "Duncan Pastore",
+        "type": "Assigned",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-05-01",
@@ -7256,17 +7298,17 @@
       },
       {
         "date": "2026-04-27",
-        "player": "Jasson Dom\u00ednguez",
-        "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "New York Yankees"
-      },
-      {
-        "date": "2026-04-27",
         "player": "Luis Gil",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-04-27",
+        "player": "Jasson Dom\u00ednguez",
+        "type": "Recalled",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "New York Yankees"
       },
       {
         "date": "2026-04-24",
@@ -7284,16 +7326,16 @@
       },
       {
         "date": "2026-04-21",
-        "player": "Anthony Volpe",
-        "type": "Assigned",
-        "fromTeam": "New York Yankees",
+        "player": "Dylan Coleman",
+        "type": "Status Change",
+        "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-04-21",
-        "player": "Dylan Coleman",
-        "type": "Status Change",
-        "fromTeam": "",
+        "player": "Anthony Volpe",
+        "type": "Assigned",
+        "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -7312,13 +7354,6 @@
       },
       {
         "date": "2026-04-15",
-        "player": "Yerry De los Santos",
-        "type": "Optioned",
-        "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-04-15",
         "player": "Angel Chivilli",
         "type": "Recalled",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -7329,6 +7364,13 @@
         "player": "Bailey Dees",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-04-15",
+        "player": "Yerry De los Santos",
+        "type": "Optioned",
+        "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -7361,13 +7403,6 @@
       },
       {
         "date": "2026-04-02",
-        "player": "Edinson Duran",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-04-02",
         "player": "Seth Brown",
         "type": "Assigned",
         "fromTeam": "",
@@ -7376,6 +7411,13 @@
       {
         "date": "2026-04-02",
         "player": "Elmer Rodr\u00edguez",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-04-02",
+        "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -7403,13 +7445,6 @@
       },
       {
         "date": "2026-03-27",
-        "player": "Travis MacGregor",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-03-27",
         "player": "Luis Garcia",
         "type": "Status Change",
         "fromTeam": "",
@@ -7417,7 +7452,7 @@
       },
       {
         "date": "2026-03-27",
-        "player": "Elmer Rodr\u00edguez",
+        "player": "Luis Garcia",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -7431,7 +7466,14 @@
       },
       {
         "date": "2026-03-27",
-        "player": "Luis Garcia",
+        "player": "Elmer Rodr\u00edguez",
+        "type": "Status Change",
+        "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-03-27",
+        "player": "Travis MacGregor",
         "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -7473,7 +7515,7 @@
       },
       {
         "date": "2026-03-26",
-        "player": "Carson Coleman",
+        "player": "Danny Watson",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -7501,16 +7543,9 @@
       },
       {
         "date": "2026-03-26",
-        "player": "Danny Watson",
+        "player": "Carson Coleman",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-03-25",
-        "player": "Luis Gil",
-        "type": "Optioned",
-        "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -7521,15 +7556,22 @@
         "toTeam": "New York Yankees"
       },
       {
+        "date": "2026-03-25",
+        "player": "Luis Gil",
+        "type": "Optioned",
+        "fromTeam": "New York Yankees",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
         "date": "2026-03-23",
-        "player": "Kenedy Corona",
+        "player": "Marco Luciano",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-23",
-        "player": "Abrahan Gutierrez",
+        "player": "Eric Reyzelman",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
@@ -7543,6 +7585,13 @@
       },
       {
         "date": "2026-03-23",
+        "player": "Abrahan Gutierrez",
+        "type": "Assigned",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "toTeam": "Somerset Patriots"
+      },
+      {
+        "date": "2026-03-23",
         "player": "Hansel Rincon",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
@@ -7550,7 +7599,7 @@
       },
       {
         "date": "2026-03-23",
-        "player": "Marco Luciano",
+        "player": "Kenedy Corona",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
@@ -7558,13 +7607,6 @@
       {
         "date": "2026-03-23",
         "player": "Bailey Dees",
-        "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "Somerset Patriots"
-      },
-      {
-        "date": "2026-03-23",
-        "player": "Eric Reyzelman",
         "type": "Assigned",
         "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Somerset Patriots"
@@ -7592,14 +7634,14 @@
       },
       {
         "date": "2026-03-21",
-        "player": "Max Schuemann",
+        "player": "Oswaldo Cabrera",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-03-21",
-        "player": "Oswaldo Cabrera",
+        "player": "Max Schuemann",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -7620,14 +7662,14 @@
       },
       {
         "date": "2026-03-20",
-        "player": "Kervin Castro",
+        "player": "Yerry De los Santos",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-03-20",
-        "player": "Yerry De los Santos",
+        "player": "Kervin Castro",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
@@ -7698,15 +7740,15 @@
       {
         "date": "2026-02-13",
         "player": "Rafael Montero",
-        "type": "Status Change",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "type": "Assigned",
+        "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-02-13",
         "player": "Rafael Montero",
-        "type": "Assigned",
-        "fromTeam": "",
+        "type": "Status Change",
+        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
@@ -7754,21 +7796,14 @@
       {
         "date": "2026-01-17",
         "player": "Dylan Coleman",
-        "type": "Assigned",
+        "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
       {
         "date": "2026-01-17",
         "player": "Dylan Coleman",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
-      },
-      {
-        "date": "2026-01-08",
-        "player": "Paul DeJong",
-        "type": "Status Change",
+        "type": "Assigned",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       },
@@ -7776,6 +7811,13 @@
         "date": "2026-01-08",
         "player": "Paul DeJong",
         "type": "Assigned",
+        "fromTeam": "",
+        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+      },
+      {
+        "date": "2026-01-08",
+        "player": "Paul DeJong",
+        "type": "Status Change",
         "fromTeam": "",
         "toTeam": "Scranton/Wilkes-Barre RailRiders"
       }
