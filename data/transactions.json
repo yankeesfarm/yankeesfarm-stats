@@ -1,9 +1,30 @@
 {
   "org": "NYY",
   "season": 2026,
-  "updated_at": "2026-10-29T16:08:40.375009+00:00",
+  "updated_at": "2026-10-30T15:56:44.924014+00:00",
   "teams": {
     "DSL Bombers": [
+      {
+        "date": "2026-10-29",
+        "player": "Mauricio Vargas",
+        "type": "Released",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-10-29",
+        "player": "Carlos Hampshire",
+        "type": "Released",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-10-29",
+        "player": "Jhon Castro",
+        "type": "Released",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Bombers"
+      },
       {
         "date": "2026-10-12",
         "player": "Oscar Vasquez",
@@ -41,17 +62,17 @@
       },
       {
         "date": "2026-07-28",
-        "player": "Eliezer Adames",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-07-28",
         "player": "Stalen Ramirez",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-07-28",
+        "player": "Eliezer Adames",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
       },
       {
         "date": "2026-07-19",
@@ -181,14 +202,14 @@
       },
       {
         "date": "2026-05-29",
-        "player": "Poly Ojeda",
+        "player": "Higor Requena",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "DSL NYY Bombers"
       },
       {
         "date": "2026-05-29",
-        "player": "John Rosillo",
+        "player": "Poly Ojeda",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "DSL NYY Bombers"
@@ -202,7 +223,7 @@
       },
       {
         "date": "2026-05-29",
-        "player": "Higor Requena",
+        "player": "John Rosillo",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "DSL NYY Bombers"
@@ -237,17 +258,10 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Jose Peralta",
+        "player": "Carlos Bello",
         "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Juan Torres",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
       },
       {
         "date": "2026-05-27",
@@ -258,21 +272,21 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Carlos Bello",
+        "player": "Carlos Hampshire",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Alfred Ciriaco",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-05-27",
         "player": "Sebastian Castillo",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Alfiery Matos",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
@@ -307,17 +321,24 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Alfred Ciriaco",
+        "player": "Jose Peralta",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-05-27",
-        "player": "Carlos Hampshire",
+        "player": "Alfiery Matos",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Juan Torres",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-05-21",
@@ -349,14 +370,14 @@
       },
       {
         "date": "2026-03-22",
-        "player": "Alexander Almonte",
+        "player": "Jose Castro",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-03-22",
-        "player": "Jose Castro",
+        "player": "Alexander Almonte",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "FCL Yankees"
@@ -370,14 +391,14 @@
       },
       {
         "date": "2026-02-02",
-        "player": "Angel Ventura",
+        "player": "Wilfrido Bido",
         "type": "Released",
         "fromTeam": "",
         "toTeam": "DSL NYY Bombers"
       },
       {
         "date": "2026-02-02",
-        "player": "Wilfrido Bido",
+        "player": "Angel Ventura",
         "type": "Released",
         "fromTeam": "",
         "toTeam": "DSL NYY Bombers"
@@ -391,14 +412,14 @@
       },
       {
         "date": "2026-02-02",
-        "player": "Carlos Rondon",
+        "player": "Carlos Villarroel",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-02-02",
-        "player": "Carlos Villarroel",
+        "player": "Carlos Rondon",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "FCL Yankees"
@@ -413,6 +434,20 @@
     ],
     "DSL Yankees": [
       {
+        "date": "2026-10-29",
+        "player": "Cesar Vivanco",
+        "type": "Released",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-10-29",
+        "player": "Emanuel Vargas",
+        "type": "Released",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
         "date": "2026-08-19",
         "player": "Yefreiny De Paula",
         "type": "Status Change",
@@ -424,6 +459,13 @@
         "player": "Yefreiny De Paula",
         "type": "Status Change",
         "fromTeam": "",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-08-19",
+        "player": "Yefreiny De Paula",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
         "toTeam": "DSL NYY Yankees"
       },
       {
@@ -432,13 +474,6 @@
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-08-19",
-        "player": "Yefreiny De Paula",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-08-12",
@@ -505,24 +540,17 @@
       },
       {
         "date": "2026-07-19",
-        "player": "Edgar Jimenez",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-07-19",
         "player": "Poly Ojeda",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
         "toTeam": "DSL NYY Yankees"
       },
       {
-        "date": "2026-07-15",
-        "player": "Braulio Jaquez",
-        "type": "Status Change",
-        "fromTeam": "",
-        "toTeam": "DSL NYY Yankees"
+        "date": "2026-07-19",
+        "player": "Edgar Jimenez",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
       },
       {
         "date": "2026-07-15",
@@ -539,10 +567,10 @@
         "toTeam": "DSL NYY Yankees"
       },
       {
-        "date": "2026-07-09",
-        "player": "John Rosillo",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
+        "date": "2026-07-15",
+        "player": "Braulio Jaquez",
+        "type": "Status Change",
+        "fromTeam": "",
         "toTeam": "DSL NYY Yankees"
       },
       {
@@ -551,6 +579,13 @@
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-07-09",
+        "player": "John Rosillo",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-07-08",
@@ -575,17 +610,17 @@
       },
       {
         "date": "2026-07-05",
-        "player": "Adrian Feliz",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-07-05",
         "player": "Alfred Ciriaco",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-07-05",
+        "player": "Adrian Feliz",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-06-27",
@@ -631,14 +666,14 @@
       },
       {
         "date": "2026-05-29",
-        "player": "Sebastian Rivas",
+        "player": "Abrahan Pichardo",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-05-29",
-        "player": "Cesar Lopez",
+        "player": "Kendry Diaz",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "DSL NYY Yankees"
@@ -652,7 +687,7 @@
       },
       {
         "date": "2026-05-29",
-        "player": "Abrahan Pichardo",
+        "player": "Sebastian Rivas",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "DSL NYY Yankees"
@@ -660,6 +695,13 @@
       {
         "date": "2026-05-29",
         "player": "Angel Salazar",
+        "type": "Assigned",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-05-29",
+        "player": "Cesar Lopez",
         "type": "Assigned",
         "fromTeam": "",
         "toTeam": "DSL NYY Yankees"
@@ -680,13 +722,6 @@
       },
       {
         "date": "2026-05-29",
-        "player": "Kendry Diaz",
-        "type": "Assigned",
-        "fromTeam": "",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-05-29",
         "player": "Stiven Marinez",
         "type": "Assigned",
         "fromTeam": "DSL NYY Bombers",
@@ -701,63 +736,7 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Jose Peralta",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Alfred Ciriaco",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Carlos Hampshire",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Yunior Jerez",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Juan Torres",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Bombers",
-        "toTeam": "DSL NYY Yankees"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Mani Cedeno",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Oscar Vasquez",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Stalen Ramirez",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "DSL NYY Bombers"
-      },
-      {
-        "date": "2026-05-27",
-        "player": "Adrian Feliz",
+        "player": "Carlos Bello",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
@@ -771,17 +750,73 @@
       },
       {
         "date": "2026-05-27",
-        "player": "Carlos Bello",
+        "player": "Sebastian Castillo",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
       },
       {
         "date": "2026-05-27",
-        "player": "Sebastian Castillo",
+        "player": "Adrian Feliz",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Carlos Hampshire",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Stalen Ramirez",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Oscar Vasquez",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Mani Cedeno",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "DSL NYY Bombers"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Yunior Jerez",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Alfred Ciriaco",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Jose Peralta",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-05-27",
+        "player": "Juan Torres",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Bombers",
+        "toTeam": "DSL NYY Yankees"
       },
       {
         "date": "2026-05-18",
@@ -799,14 +834,14 @@
       },
       {
         "date": "2026-05-08",
-        "player": "Manuel Cruz",
+        "player": "Estivenzon Montero",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-05-08",
-        "player": "Estivenzon Montero",
+        "player": "Manuel Cruz",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
@@ -820,14 +855,14 @@
       },
       {
         "date": "2026-05-01",
-        "player": "Marco Manzano",
+        "player": "Rafael Arias",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-05-01",
-        "player": "Rafael Arias",
+        "player": "Marco Manzano",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
@@ -855,6 +890,13 @@
       },
       {
         "date": "2026-02-02",
+        "player": "Michell Chirinos",
+        "type": "Released",
+        "fromTeam": "",
+        "toTeam": "DSL NYY Yankees"
+      },
+      {
+        "date": "2026-02-02",
         "player": "Jose Rosario",
         "type": "Released",
         "fromTeam": "",
@@ -862,10 +904,17 @@
       },
       {
         "date": "2026-02-02",
-        "player": "Michell Chirinos",
-        "type": "Released",
-        "fromTeam": "",
-        "toTeam": "DSL NYY Yankees"
+        "player": "Anthony Mena",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "FCL Yankees"
+      },
+      {
+        "date": "2026-02-02",
+        "player": "Diego Flores",
+        "type": "Assigned",
+        "fromTeam": "DSL NYY Yankees",
+        "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-02-02",
@@ -883,13 +932,6 @@
       },
       {
         "date": "2026-02-02",
-        "player": "Justin Capellan",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-02-02",
         "player": "Wilberson De Pena",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
@@ -897,14 +939,7 @@
       },
       {
         "date": "2026-02-02",
-        "player": "Diego Flores",
-        "type": "Assigned",
-        "fromTeam": "DSL NYY Yankees",
-        "toTeam": "FCL Yankees"
-      },
-      {
-        "date": "2026-02-02",
-        "player": "Anthony Mena",
+        "player": "Justin Capellan",
         "type": "Assigned",
         "fromTeam": "DSL NYY Yankees",
         "toTeam": "FCL Yankees"
