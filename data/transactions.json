@@ -1,7 +1,7 @@
 {
   "org": "NYY",
   "season": 2026,
-  "updated_at": "2026-11-08T15:59:00.343567+00:00",
+  "updated_at": "2026-11-09T19:50:35.291311+00:00",
   "teams": {
     "DSL Bombers": [
       {
@@ -1231,7 +1231,7 @@
         "player": "Mitch Garver",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-11",
@@ -1595,7 +1595,7 @@
         "player": "Brian Hendry",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-20",
@@ -1811,14 +1811,14 @@
         "date": "2026-07-13",
         "player": "George Lombard Jr.",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-07-13",
         "player": "George Lombard Jr.",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "FCL Yankees"
       },
       {
@@ -2098,7 +2098,7 @@
         "date": "2026-05-21",
         "player": "Alexander Cornielle",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "FCL Yankees"
       },
       {
@@ -2982,7 +2982,7 @@
         "date": "2026-07-28",
         "player": "Travis MacGregor",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Tampa Tarpons"
       },
       {
@@ -3262,7 +3262,7 @@
         "date": "2026-06-04",
         "player": "Alexander Cornielle",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Tampa Tarpons"
       },
       {
@@ -3948,7 +3948,7 @@
         "date": "2026-03-17",
         "player": "Antonio Gomez",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Tampa Tarpons"
       },
       {
@@ -4167,7 +4167,7 @@
         "date": "2026-08-11",
         "player": "Luis Gil",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Hudson Valley Renegades"
       },
       {
@@ -4202,14 +4202,14 @@
         "date": "2026-08-07",
         "player": "Travis MacGregor",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-08-07",
         "player": "Travis MacGregor",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Hudson Valley Renegades"
       },
       {
@@ -4735,7 +4735,7 @@
         "player": "Duncan Pastore",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-27",
@@ -5217,7 +5217,7 @@
         "date": "2026-03-23",
         "player": "Hansel Rincon",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Hudson Valley Renegades"
       },
       {
@@ -5325,7 +5325,7 @@
         "player": "Connor McGinnis",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-09",
@@ -5415,14 +5415,14 @@
         "date": "2026-08-27",
         "player": "Harrison Cohen",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-08-27",
         "player": "Trent Sellers",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -5479,14 +5479,14 @@
         "player": "Harrison Cohen",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-23",
         "player": "Trent Sellers",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-21",
@@ -5576,7 +5576,7 @@
         "date": "2026-08-11",
         "player": "Dom Hamel",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -5584,14 +5584,14 @@
         "player": "Xavier Rivas",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-11",
         "player": "Hayden Merda",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-09",
@@ -5625,7 +5625,7 @@
         "date": "2026-08-07",
         "player": "Cole Gabrielson",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -5717,7 +5717,7 @@
         "player": "Cole Gabrielson",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-25",
@@ -5758,7 +5758,7 @@
         "date": "2026-07-21",
         "player": "Cole Gabrielson",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -5800,7 +5800,7 @@
         "date": "2026-07-07",
         "player": "Owen Cobb",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -5815,7 +5815,7 @@
         "player": "Chris Kean",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-03",
@@ -5843,7 +5843,7 @@
         "player": "Kyle Carr",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-01",
@@ -5906,7 +5906,7 @@
         "player": "Owen Cobb",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-23",
@@ -5941,14 +5941,14 @@
         "player": "Will Brian",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-20",
         "player": "Garrett Martin",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-17",
@@ -5962,7 +5962,7 @@
         "player": "Cole Gabrielson",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-16",
@@ -5989,7 +5989,7 @@
         "date": "2026-06-16",
         "player": "Miguel Palma",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -6017,7 +6017,7 @@
         "date": "2026-06-14",
         "player": "Will Brian",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -6025,7 +6025,7 @@
         "player": "Alexander Cornielle",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-12",
@@ -6059,7 +6059,7 @@
         "date": "2026-06-11",
         "player": "Alexander Cornielle",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -6067,7 +6067,7 @@
         "player": "Will Brian",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-10",
@@ -6102,7 +6102,7 @@
         "player": "Miguel Palma",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-07",
@@ -6123,7 +6123,7 @@
         "player": "Abrahan Gutierrez",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-03",
@@ -6241,7 +6241,7 @@
         "date": "2026-05-25",
         "player": "Harrison Cohen",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -6263,7 +6263,7 @@
         "player": "Tyler Hardman",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-23",
@@ -6291,7 +6291,7 @@
         "player": "Eric Reyzelman",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-19",
@@ -6347,20 +6347,20 @@
         "player": "Marco Luciano",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-04",
         "player": "Kenedy Corona",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-04",
         "player": "Duncan Pastore",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -6410,7 +6410,7 @@
         "player": "George Lombard Jr.",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-28",
@@ -6514,7 +6514,7 @@
         "date": "2026-04-18",
         "player": "Bailey Dees",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -6550,7 +6550,7 @@
         "player": "Bailey Dees",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-14",
@@ -6648,7 +6648,7 @@
         "player": "Adam Kloffenstein",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-30",
@@ -6745,14 +6745,14 @@
         "date": "2026-03-27",
         "player": "Adam Kloffenstein",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-27",
         "player": "Seth Brown",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -6760,35 +6760,35 @@
         "player": "Danny Watson",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-26",
         "player": "Travis MacGregor",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-26",
         "player": "Carson Coleman",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-26",
         "player": "Zach Messinger",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-26",
         "player": "Carlos Lagrange",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-23",
@@ -6808,42 +6808,42 @@
         "date": "2026-03-23",
         "player": "Eric Reyzelman",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-23",
         "player": "Bailey Dees",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-23",
         "player": "Marco Luciano",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-23",
         "player": "Michael Arias",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-23",
         "player": "Kenedy Corona",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-23",
         "player": "Abrahan Gutierrez",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -6895,160 +6895,160 @@
         "player": "Duke Ellis",
         "type": "Declared Free Agency",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Will Brian",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Brian Hendry",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Jarred Kelenic",
         "type": "Declared Free Agency",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Travis MacGregor",
         "type": "Declared Free Agency",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Justin Topa",
         "type": "Declared Free Agency",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Ernesto Martinez Jr.",
         "type": "Declared Free Agency",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Eli Morgan",
         "type": "Declared Free Agency",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Kenedy Corona",
         "type": "Declared Free Agency",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Garrett Martin",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Luis Garcia",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Yanquiel Fern\u00e1ndez",
         "type": "Declared Free Agency",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Adam Kloffenstein",
         "type": "Declared Free Agency",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Abrahan Gutierrez",
         "type": "Declared Free Agency",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-11-02",
         "player": "Marco Luciano",
         "type": "Selected",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-09-28",
         "player": "Jasson Dom\u00ednguez",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-09-28",
         "player": "J.C. Escarra",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-09-28",
         "player": "Elmer Rodr\u00edguez",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-09-28",
         "player": "Max Schuemann",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-09-28",
         "player": "Angel Chivilli",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-09-25",
         "player": "Alexander Cornielle",
         "type": "Selected",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-09-25",
         "player": "Yerry De los Santos",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-09-25",
         "player": "Brendan Beck",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7056,20 +7056,20 @@
         "player": "Carson Coleman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-24",
         "player": "Danny Watson",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-24",
         "player": "Bradley Hanner",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7077,27 +7077,27 @@
         "player": "Max Schuemann",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-21",
         "player": "Angel Chivilli",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-19",
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-19",
         "player": "Max Schuemann",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7105,90 +7105,90 @@
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-17",
         "player": "Danny Watson",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-17",
         "player": "Connor McGinnis",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-16",
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-16",
         "player": "Carson Coleman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-16",
         "player": "Carlos Lagrange",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-16",
         "player": "Bradley Hanner",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-14",
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-11",
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-11",
         "player": "Carson Coleman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-11",
         "player": "Jasson Dom\u00ednguez",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-11",
         "player": "Bradley Hanner",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-09-10",
         "player": "Anthony Volpe",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7196,13 +7196,13 @@
         "player": "Elmer Rodr\u00edguez",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-05",
         "player": "Jasson Dom\u00ednguez",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7210,55 +7210,55 @@
         "player": "Clarke Schmidt",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-02",
         "player": "Clarke Schmidt",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-01",
         "player": "Carson Coleman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-01",
         "player": "Mitch Garver",
         "type": "Status Change",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-09-01",
         "player": "Justin Topa",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-30",
         "player": "Brendan Beck",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-30",
         "player": "Yerry De los Santos",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-30",
         "player": "Luis Gil",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7266,13 +7266,13 @@
         "player": "Jarred Kelenic",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-29",
         "player": "Brendan Beck",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7280,20 +7280,20 @@
         "player": "Brian Hendry",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-27",
         "player": "Trent Sellers",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-08-27",
         "player": "Harrison Cohen",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -7301,20 +7301,20 @@
         "player": "Abrahan Gutierrez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-26",
         "player": "Bradley Hanner",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-26",
         "player": "Elmer Rodr\u00edguez",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7322,20 +7322,20 @@
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-25",
         "player": "Kyle Carr",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-25",
         "player": "Justin Topa",
         "type": "Selected",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7343,27 +7343,27 @@
         "player": "Brendan Beck",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-23",
         "player": "Harrison Cohen",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-23",
         "player": "Trent Sellers",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-23",
         "player": "Brendan Beck",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7371,27 +7371,27 @@
         "player": "Eli Morgan",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-22",
         "player": "Max Schuemann",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-21",
         "player": "Abrahan Gutierrez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-21",
         "player": "Max Schuemann",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7399,104 +7399,104 @@
         "player": "Cody Bellinger",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-20",
         "player": "Will Brian",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-20",
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-20",
         "player": "Brian Hendry",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-19",
         "player": "Abrahan Gutierrez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-18",
         "player": "Luis Gil",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-17",
         "player": "Will Brian",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-14",
         "player": "Abrahan Gutierrez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-14",
         "player": "Angel Chivilli",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-14",
         "player": "Justin Topa",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-14",
         "player": "Mitch Garver",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-13",
         "player": "Danny Watson",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-13",
         "player": "Travis MacGregor",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-11",
         "player": "Luis Gil",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-08-11",
         "player": "Dom Hamel",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -7504,13 +7504,13 @@
         "player": "Hayden Merda",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-11",
         "player": "Bradley Hanner",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7518,69 +7518,69 @@
         "player": "Xavier Rivas",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-10",
         "player": "Rafael Montero",
         "type": "Released",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-08",
         "player": "Carlos Rod\u00f3n",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-08",
         "player": "Carlos Rod\u00f3n",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-08",
         "player": "Danny Watson",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-07",
         "player": "Travis MacGregor",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-08-07",
         "player": "Travis MacGregor",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-08-07",
         "player": "Cole Gabrielson",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-08-04",
         "player": "George Lombard Jr.",
         "type": "Selected",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-08-04",
         "player": "Yerry De los Santos",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7588,41 +7588,41 @@
         "player": "Jasson Dom\u00ednguez",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-04",
         "player": "Anthony Volpe",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-04",
         "player": "Angel Chivilli",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-03",
         "player": "Alexander Cornielle",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-03",
         "player": "Max Schuemann",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-03",
         "player": "Kervin Castro",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7630,13 +7630,13 @@
         "player": "Adam Kloffenstein",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-08-01",
         "player": "Yovanny Cruz",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7644,27 +7644,27 @@
         "player": "Brian Hendry",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-31",
         "player": "Alexander Cornielle",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-28",
         "player": "Christian Bethancourt",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-28",
         "player": "Travis MacGregor",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Tampa Tarpons"
       },
       {
@@ -7672,34 +7672,34 @@
         "player": "Cole Gabrielson",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-28",
         "player": "Cole Gabrielson",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-28",
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-28",
         "player": "Cole Gabrielson",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-26",
         "player": "Spencer Jones",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7707,41 +7707,41 @@
         "player": "Adam Kloffenstein",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-24",
         "player": "Brian Hendry",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-24",
         "player": "Garrett Martin",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-24",
         "player": "Adam Kloffenstein",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-23",
         "player": "Spencer Jones",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-22",
         "player": "Spencer Jones",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7749,34 +7749,34 @@
         "player": "Kervin Castro",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-21",
         "player": "Garrett Martin",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-21",
         "player": "Kyle Carr",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-21",
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-21",
         "player": "Cole Gabrielson",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -7784,27 +7784,27 @@
         "player": "Brian Hendry",
         "type": "Assigned",
         "fromTeam": "FCL Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-20",
         "player": "Jake Bird",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-20",
         "player": "Elmer Rodr\u00edguez",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-19",
         "player": "Kervin Castro",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7812,13 +7812,13 @@
         "player": "Jake Bird",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-19",
         "player": "Elmer Rodr\u00edguez",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7826,20 +7826,20 @@
         "player": "Alexander Cornielle",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-18",
         "player": "Alexander Cornielle",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-18",
         "player": "Bradley Hanner",
         "type": "Selected",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7847,41 +7847,41 @@
         "player": "Bradley Hanner",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-17",
         "player": "Max Fried",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-17",
         "player": "George Lombard Jr.",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-16",
         "player": "Jonathan Ornelas",
         "type": "Released",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-13",
         "player": "George Lombard Jr.",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "FCL Yankees"
       },
       {
         "date": "2026-07-13",
         "player": "George Lombard Jr.",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "FCL Yankees"
       },
       {
@@ -7889,27 +7889,27 @@
         "player": "Adam Kloffenstein",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-09",
         "player": "Alexander Cornielle",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-09",
         "player": "Dom Hamel",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-07",
         "player": "Owen Cobb",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -7917,27 +7917,27 @@
         "player": "Chris Kean",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-06",
         "player": "Dylan Coleman",
         "type": "Released",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-05",
         "player": "Brendan Beck",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-05",
         "player": "Angel Chivilli",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7945,13 +7945,13 @@
         "player": "Spencer Jones",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-04",
         "player": "Brendan Beck",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -7959,90 +7959,90 @@
         "player": "Kervin Castro",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-03",
         "player": "Oswaldo Cabrera",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-03",
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-03",
         "player": "Oswaldo Cabrera",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-03",
         "player": "Kyle Carr",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-02",
         "player": "Dom Hamel",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-02",
         "player": "Rafael Montero",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-02",
         "player": "Payton Henry",
         "type": "Released",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-02",
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-02",
         "player": "Rafael Montero",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-02",
         "player": "Carlos Lagrange",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-07-02",
         "player": "Yovanny Cruz",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-30",
         "player": "Yovanny Cruz",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8050,27 +8050,27 @@
         "player": "Yerry De los Santos",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-29",
         "player": "Garrett Martin",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-29",
         "player": "Garrett Martin",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-29",
         "player": "Jake Bird",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8078,55 +8078,55 @@
         "player": "J.C. Escarra",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-26",
         "player": "J.C. Escarra",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-25",
         "player": "Rafael Montero",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-25",
         "player": "Rafael Montero",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-25",
         "player": "Owen Cobb",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-24",
         "player": "Oswaldo Cabrera",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-06-23",
         "player": "J.C. Escarra",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-06-22",
         "player": "Yerry De los Santos",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8134,27 +8134,27 @@
         "player": "Elmer Rodr\u00edguez",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-21",
         "player": "Jake Bird",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-21",
         "player": "Eric Reyzelman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-21",
         "player": "Elmer Rodr\u00edguez",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8162,69 +8162,69 @@
         "player": "Jake Bird",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-21",
         "player": "J.C. Escarra",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-20",
         "player": "Will Brian",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-20",
         "player": "Garrett Martin",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-18",
         "player": "Peter Strzelecki",
         "type": "Released",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-18",
         "player": "George Lombard Jr.",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-17",
         "player": "Cole Gabrielson",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-16",
         "player": "Austin Wells",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-16",
         "player": "Payton Henry",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-16",
         "player": "Miguel Palma",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -8232,20 +8232,20 @@
         "player": "Seth Brown",
         "type": "Released",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-14",
         "player": "Alexander Cornielle",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-14",
         "player": "Will Brian",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -8253,20 +8253,20 @@
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-11",
         "player": "Will Brian",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-11",
         "player": "Alexander Cornielle",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -8274,55 +8274,55 @@
         "player": "Angel Chivilli",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-11",
         "player": "Will Brian",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-10",
         "player": "Angel Chivilli",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-09",
         "player": "Miguel Palma",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-06",
         "player": "Yanquiel Fern\u00e1ndez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-06",
         "player": "Yanquiel Fern\u00e1ndez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-06",
         "player": "Ali S\u00e1nchez",
         "type": "Selected",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-06-06",
         "player": "J.C. Escarra",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8330,69 +8330,69 @@
         "player": "Eric Reyzelman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-05",
         "player": "Marco Luciano",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-05",
         "player": "Marco Luciano",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-05",
         "player": "Jasson Dom\u00ednguez",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-05",
         "player": "Abrahan Gutierrez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-05",
         "player": "Payton Henry",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-05",
         "player": "Jasson Dom\u00ednguez",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-05",
         "player": "Marco Luciano",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-05",
         "player": "J.C. Escarra",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-05",
         "player": "Spencer Jones",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8400,13 +8400,13 @@
         "player": "Abrahan Gutierrez",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-06-04",
         "player": "Alexander Cornielle",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Tampa Tarpons"
       },
       {
@@ -8414,41 +8414,41 @@
         "player": "Seth Brown",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-29",
         "player": "Yanquiel Fern\u00e1ndez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-27",
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-27",
         "player": "Seth Brown",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-25",
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-25",
         "player": "Harrison Cohen",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -8456,55 +8456,55 @@
         "player": "Tyler Hardman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-23",
         "player": "Peter Strzelecki",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-23",
         "player": "Tyler Hardman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-23",
         "player": "Tyler Hardman",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-22",
         "player": "Marco Luciano",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-22",
         "player": "Spencer Jones",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-22",
         "player": "Yovanny Cruz",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-21",
         "player": "Alexander Cornielle",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "FCL Yankees"
       },
       {
@@ -8512,20 +8512,20 @@
         "player": "Eric Reyzelman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-19",
         "player": "Eric Reyzelman",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-18",
         "player": "Yovanny Cruz",
         "type": "Selected",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8533,34 +8533,34 @@
         "player": "Elmer Rodr\u00edguez",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-16",
         "player": "Gerrit Cole",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-16",
         "player": "Gerrit Cole",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-16",
         "player": "Elmer Rodr\u00edguez",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
         "date": "2026-05-12",
         "player": "Anthony Volpe",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8568,34 +8568,34 @@
         "player": "Kervin Castro",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-10",
         "player": "Kervin Castro",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-08",
         "player": "Luis Gil",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-08",
         "player": "Brendan Beck",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-08",
         "player": "Kervin Castro",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8603,13 +8603,13 @@
         "player": "Marco Luciano",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-08",
         "player": "Spencer Jones",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8617,20 +8617,20 @@
         "player": "Yerry De los Santos",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-07",
         "player": "Yerry De los Santos",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-07",
         "player": "Brendan Beck",
         "type": "Selected",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8638,13 +8638,13 @@
         "player": "Elmer Rodr\u00edguez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-06",
         "player": "Yerry De los Santos",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8652,34 +8652,34 @@
         "player": "Elmer Rodr\u00edguez",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-05",
         "player": "Carlos Rod\u00f3n",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-04",
         "player": "Kenedy Corona",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-04",
         "player": "Kenedy Corona",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-04",
         "player": "Duncan Pastore",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -8687,27 +8687,27 @@
         "player": "Anthony Volpe",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-05-01",
         "player": "Paul DeJong",
         "type": "Released",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-29",
         "player": "George Lombard Jr.",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-29",
         "player": "Elmer Rodr\u00edguez",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8715,20 +8715,20 @@
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-28",
         "player": "Duncan Pastore",
         "type": "Assigned",
         "fromTeam": "Hudson Valley Renegades",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-28",
         "player": "Max Schuemann",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8736,13 +8736,13 @@
         "player": "Luis Gil",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-27",
         "player": "Jasson Dom\u00ednguez",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8750,20 +8750,20 @@
         "player": "Luis Gil",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-24",
         "player": "Rafael Montero",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-22",
         "player": "Jake Bird",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8771,20 +8771,20 @@
         "player": "Anthony Volpe",
         "type": "Assigned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-21",
         "player": "Dylan Coleman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-18",
         "player": "Bailey Dees",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -8792,27 +8792,27 @@
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-15",
         "player": "Bailey Dees",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-15",
         "player": "Yerry De los Santos",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-15",
         "player": "Angel Chivilli",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8820,13 +8820,13 @@
         "player": "Jake Bird",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-14",
         "player": "Yerry De los Santos",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8834,13 +8834,13 @@
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-10",
         "player": "Luis Gil",
         "type": "Recalled",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -8848,90 +8848,90 @@
         "player": "Edinson Duran",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-02",
         "player": "Elmer Rodr\u00edguez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-02",
         "player": "Seth Brown",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-04-01",
         "player": "Rafael Montero",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-31",
         "player": "Adam Kloffenstein",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-27",
         "player": "Luis Garcia",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-27",
         "player": "Luis Garcia",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-27",
         "player": "Travis MacGregor",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-27",
         "player": "Luis Garcia",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-27",
         "player": "Dylan Coleman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-27",
         "player": "Elmer Rodr\u00edguez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-27",
         "player": "Seth Brown",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-27",
         "player": "Adam Kloffenstein",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -8939,62 +8939,62 @@
         "player": "Carson Coleman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-26",
         "player": "Danny Watson",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-26",
         "player": "Carson Coleman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-26",
         "player": "Zach Messinger",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-26",
         "player": "Carlos Lagrange",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-26",
         "player": "Travis MacGregor",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-26",
         "player": "Carson Coleman",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-26",
         "player": "Danny Watson",
         "type": "Assigned",
         "fromTeam": "Somerset Patriots",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-25",
         "player": "Randal Grichuk",
         "type": "Selected",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "New York Yankees"
       },
       {
@@ -9002,55 +9002,55 @@
         "player": "Luis Gil",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-23",
         "player": "Abrahan Gutierrez",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-23",
         "player": "Michael Arias",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-23",
         "player": "Hansel Rincon",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Hudson Valley Renegades"
       },
       {
         "date": "2026-03-23",
         "player": "Kenedy Corona",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-23",
         "player": "Bailey Dees",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-23",
         "player": "Marco Luciano",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
         "date": "2026-03-23",
         "player": "Eric Reyzelman",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Somerset Patriots"
       },
       {
@@ -9058,83 +9058,83 @@
         "player": "Luis Garcia",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-21",
         "player": "Oswaldo Cabrera",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-21",
         "player": "Max Schuemann",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-21",
         "player": "Max Schuemann",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-21",
         "player": "Oswaldo Cabrera",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-20",
         "player": "Jasson Dom\u00ednguez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-20",
         "player": "Jasson Dom\u00ednguez",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-20",
         "player": "Kervin Castro",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-20",
         "player": "Yerry De los Santos",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-19",
         "player": "Angel Chivilli",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-17",
         "player": "Alexander Cornielle",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-17",
         "player": "Antonio Gomez",
         "type": "Assigned",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
         "toTeam": "Tampa Tarpons"
       },
       {
@@ -9142,126 +9142,126 @@
         "player": "Spencer Jones",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-09",
         "player": "Spencer Jones",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-03-09",
         "player": "Elmer Rodr\u00edguez",
         "type": "Optioned",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-02-25",
         "player": "Randal Grichuk",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-02-16",
         "player": "Yanquiel Fern\u00e1ndez",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-02-16",
         "player": "Yanquiel Fern\u00e1ndez",
         "type": "Outrighted",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-02-13",
         "player": "Rafael Montero",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-02-13",
         "player": "Rafael Montero",
         "type": "Status Change",
-        "fromTeam": "Scranton/Wilkes-Barre RailRiders",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "fromTeam": "Scranton/Wilkes-Barre Highlanders",
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-02-09",
         "player": "Braden Shewmake",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-02-09",
         "player": "Braden Shewmake",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-02-09",
         "player": "Dom Hamel",
         "type": "Outrighted",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-02-09",
         "player": "Braden Shewmake",
         "type": "Outrighted",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-02-03",
         "player": "Marco Luciano",
         "type": "Outrighted",
         "fromTeam": "New York Yankees",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-01-18",
         "player": "Seth Brown",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-01-17",
         "player": "Dylan Coleman",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-01-17",
         "player": "Dylan Coleman",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-01-08",
         "player": "Paul DeJong",
         "type": "Assigned",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       },
       {
         "date": "2026-01-08",
         "player": "Paul DeJong",
         "type": "Status Change",
         "fromTeam": "",
-        "toTeam": "Scranton/Wilkes-Barre RailRiders"
+        "toTeam": "Scranton/Wilkes-Barre Highlanders"
       }
     ]
   }
